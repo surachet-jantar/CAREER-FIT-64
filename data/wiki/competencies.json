@@ -1,0 +1,31 @@
+{
+  "title_th": "สมรรถนะ 15 ด้าน",
+  "title_en": "15 Competencies",
+  "sections": [
+    {
+      "heading_th": "ภาพรวม",
+      "heading_en": "Overview",
+      "body_th": "CAREER-FIT 64 วัดสมรรถนะหลัก 15 ด้าน ซึ่งเป็นทักษะที่สามารถพัฒนาได้จริงในโลกการทำงาน แต่ละด้านมีระดับที่อาชีพต้องการ ระบบจะเปรียบเทียบระดับจริงของคุณกับระดับที่อาชีพต้องการ เพื่อหา <strong>ช่องว่างทักษะ (Skill Gap)</strong>",
+      "body_en": "CAREER-FIT 64 measures <strong>15 core competencies</strong> — skills that can actually be developed in the real workplace. Each career requires different competency levels. The system compares your actual level against what the career needs to find your <strong>Skill Gap</strong>."
+    },
+    {
+      "heading_th": "ตารางสมรรถนะทั้ง 15 ด้าน",
+      "heading_en": "All 15 Competencies",
+      "body_th": "<table class='wiki-table'><tr><th>#</th><th>สมรรถนะ</th><th>สิ่งที่วัด</th></tr><tr><td>C01</td><td>การคิดเชิงวิเคราะห์</td><td>ความสามารถแยกแยะข้อมูลและหาความเชื่อมโยง</td></tr><tr><td>C02</td><td>การสื่อสาร</td><td>ความสามารถส่งสารทั้งเขียนและพูดได้ชัดเจน</td></tr><tr><td>C03</td><td>การทำงานเป็นทีม</td><td>ความสามารถร่วมงานและสนับสนุนทีม</td></tr><tr><td>C04</td><td>การแก้ปัญหา</td><td>ความสามารถหาทางออกจากสถานการณ์ท้าทาย</td></tr><tr><td>C05</td><td>ความเป็นผู้นำ</td><td>ความสามารถนำทีมและตัดสินใจ</td></tr><tr><td>C06</td><td>การจัดการเวลา</td><td>ความสามารถจัดลำดับความสำคัญและบริหารเวลา</td></tr><tr><td>C07</td><td>เทคโนโลยีสารสนเทศ</td><td>ความสามารถใช้เครื่องมือดิจิทัลและซอฟต์แวร์</td></tr><tr><td>C08</td><td>การคิดเชิงสร้างสรรค์</td><td>ความสามารถคิดสิ่งใหม่และนวัตกรรม</td></tr><tr><td>C09</td><td>การตัดสินใจ</td><td>ความสามารถเลือกทางเลือกที่เหมาะสมจากข้อมูล</td></tr><tr><td>C10</td><td>การบริหารจัดการ</td><td>ความสามารถวางแผนและจัดการทรัพยากร</td></tr><tr><td>C11</td><td>การเจรจาต่อรอง</td><td>ความสามารถหาข้อตกลงร่วมกัน</td></tr><tr><td>C12</td><td>ความรอบรู้ทางธุรกิจ</td><td>ความสามารถเข้าใจระบบธุรกิจและการเงิน</td></tr><tr><td>C13</td><td>การดูแลลูกค้า</td><td>ความสามารถเข้าใจและตอบสนองความต้องการลูกค้า</td></tr><tr><td>C14</td><td>การควบคุมคุณภาพ</td><td>ความสามารถรักษามาตรฐานและตรวจสอบผลงาน</td></tr><tr><td>C15</td><td>การเรียนรู้ตลอดชีวิต</td><td>ความสามารถแสวงหาความรู้ใหม่และพัฒนาตนเอง</td></tr></table>",
+      "body_en": "<table class='wiki-table'><tr><th>#</th><th>Competency</th><th>What it measures</th></tr><tr><td>C01</td><td>Analytical Thinking</td><td>Ability to break down data and find patterns</td></tr><tr><td>C02</td><td>Communication</td><td>Ability to convey ideas clearly in writing and speech</td></tr><tr><td>C03</td><td>Teamwork</td><td>Ability to collaborate and support a team</td></tr><tr><td>C04</td><td>Problem Solving</td><td>Ability to find solutions to challenging situations</td></tr><tr><td>C05</td><td>Leadership</td><td>Ability to lead teams and make decisions</td></tr><tr><td>C06</td><td>Time Management</td><td>Ability to prioritize and manage time</td></tr><tr><td>C07</td><td>IT Skills</td><td>Ability to use digital tools and software</td></tr><tr><td>C08</td><td>Creative Thinking</td><td>Ability to generate new ideas and innovations</td></tr><tr><td>C09</td><td>Decision Making</td><td>Ability to choose the best option from available data</td></tr><tr><td>C10</td><td>Management</td><td>Ability to plan and manage resources</td></tr><tr><td>C11</td><td>Negotiation</td><td>Ability to reach mutual agreements</td></tr><tr><td>C12</td><td>Business Acumen</td><td>Understanding of business systems and finance</td></tr><tr><td>C13</td><td>Customer Care</td><td>Ability to understand and respond to customer needs</td></tr><tr><td>C14</td><td>Quality Control</td><td>Ability to maintain standards and review work</td></tr><tr><td>C15</td><td>Lifelong Learning</td><td>Ability to seek new knowledge and self-improve</td></tr></table>"
+    },
+    {
+      "heading_th": "เรดาร์สมรรถนะ",
+      "heading_en": "Competency Radar",
+      "body_th": "ผลลัพธ์แสดงเป็น <strong>แผนภาพเรดาร์ 15 ด้าน</strong> เส้นทึบคือคะแนนของคุณ เส้นประคือระดับที่อาชีพต้องการ ยิ่งเส้นทึบคลุมเส้นประมาก ยิ่งมีความพร้อม",
+      "body_en": "Results are displayed as a <strong>15-axis radar chart</strong>. The solid line is your score; the dashed line is what the career requires. The more the solid line covers the dashed line, the more prepared you are."
+    },
+    {
+      "heading_th": "ช่องว่างทักษะ (Skill Gap)",
+      "heading_en": "Skill Gap Bands",
+      "body_th": "<table class='wiki-table'><tr><th>ระดับ</th><th>เงื่อนไข</th><th>ความหมาย</th></tr><tr><td>🟢 จุดแข็ง</td><td>Gap ≤ 0.3</td><td>คุณมีทักษะมากกว่าที่อาชีพต้องการ</td></tr><tr><td>🟡 เกือบพร้อม</td><td>Gap ≤ 0.7</td><td>ใกล้พร้อมแล้ว ขาดอีกเล็กน้อย</td></tr><tr><td>🟠 ควรพัฒนา</td><td>Gap ≤ 1.2</td><td>มีช่องว่างที่ต้องปิด</td></tr><tr><td>🔴 เร่งพัฒนาด่วน</td><td>Gap > 1.2</td><td>ช่องว่างใหญ่ ต้องฝึกฝนเพิ่ม</td></tr></table>",
+      "body_en": "<table class='wiki-table'><tr><th>Level</th><th>Condition</th><th>Meaning</th></tr><tr><td>🟢 Strength</td><td>Gap ≤ 0.3</td><td>You exceed what the career requires</td></tr><tr><td>🟡 Nearly Ready</td><td>Gap ≤ 0.7</td><td>Close to ready — just a small gap</td></tr><tr><td>🟠 Development</td><td>Gap ≤ 1.2</td><td>Meaningful gap to close</td></tr><tr><td>🔴 Priority Gap</td><td>Gap > 1.2</td><td>Large gap — needs focused training</td></tr></table>"
+    }
+  ],
+  "related": ["how-it-works", "the-64-profiles", "programs"]
+}

@@ -1,0 +1,31 @@
+{
+  "title_th": "64 โปรไฟล์บุคลิกภาพ",
+  "title_en": "The 64 Profiles",
+  "sections": [
+    {
+      "heading_th": "ภาพรวม",
+      "heading_en": "Overview",
+      "body_th": "CAREER-FIT 64 ใช้โครงสร้าง <strong>16 บุคลิกภาพ × 4 รูปแบบการทำงาน = 64 โปรไฟล์</strong> แต่ละโปรไฟล์มีชื่อเฉพาะสายอาชีพที่อธิบายว่าบุคลิกภาพแบบนี้ทำงานอย่างไรในโลกจริง",
+      "body_en": "CAREER-FIT 64 uses a framework of <strong>16 personality types × 4 career modes = 64 profiles</strong>. Each profile has a career-specific name that describes how this personality type works in the real world."
+    },
+    {
+      "heading_th": "16 บุคลิกภาพ",
+      "heading_en": "The 16 Personality Types",
+      "body_th": "<p>ประเมินจาก 4 แกน:</p><table class='wiki-table'><tr><th>แกน</th><th>ขั้ว A</th><th>ขั้ว B</th><th>สิ่งที่วัด</th></tr><tr><td>E / I</td><td>เปิดเผย (Extravert)</td><td>เก็บตัว (Introvert)</td><td>พลังงานจากภายนอก vs ภายใน</td></tr><tr><td>S / N</td><td>รับรู้ข้อเท็จจริง (Sensing)</td><td>รับรู้ความเป็นไป (Intuition)</td><td>ข้อมูลจากประสาทสัมผัส vs รูปแบบ</td></tr><tr><td>T / F</td><td>คิดวิเคราะห์ (Thinking)</td><td>รู้สึกเข้าใจ (Feeling)</td><td>การตัดสินจากตรรกะ vs คุณค่า</td></tr><tr><td>J / P</td><td>มีแบบแผน (Judging)</td><td>ยืดหยุ่น (Perceiving)</td><td>การจัดการกับโลกภายนอก</td></tr></table><p>รวมกันเป็น 16 ไทป์ เช่น INTJ, ESFP, INFJ ฯลฯ</p>",
+      "body_en": "<p>Assessed across 4 axes:</p><table class='wiki-table'><tr><th>Axis</th><th>Pole A</th><th>Pole B</th><th>What it measures</th></tr><tr><td>E / I</td><td>Extravert</td><td>Introvert</td><td>Energy from outside vs inside</td></tr><tr><td>S / N</td><td>Sensing</td><td>Intuition</td><td>Info from senses vs patterns</td></tr><tr><td>T / F</td><td>Thinking</td><td>Feeling</td><td>Decisions by logic vs values</td></tr><tr><td>J / P</td><td>Judging</td><td>Perceiving</td><td>How you engage with the outer world</td></tr></table><p>Combined into 16 types: INTJ, ESFP, INFJ, etc.</p>"
+    },
+    {
+      "heading_th": "4 รูปแบบการทำงาน",
+      "heading_en": "The 4 Career Modes",
+      "body_th": "<p>แต่ละบุคลิกภาพจะถูกจับคู่กับรูปแบบการทำงานที่โดดเด่นที่สุด:</p><table class='wiki-table'><tr><th>รหัส</th><th>รูปแบบ</th><th>ลักษณะเด่น</th></tr><tr><td><strong>S</strong></td><td>Strategic (เชิงกลยุทธ์)</td><td>คิดเป็นระบบ วิเคราะห์ วางแผนระยะยาว</td></tr><tr><td><strong>O</strong></td><td>Operational (ปฏิบัติการ)</td><td>ลงมือทำ ควบคุมกระบวนการ เน้นผลลัพธ์</td></tr><tr><td><strong>C</strong></td><td>Collaborative (ร่วมงาน)</td><td>สื่อสาร ประสานงาน ดูแลลูกค้าและทีม</td></tr><tr><td><strong>A</strong></td><td>Adaptive (ปรับตัว)</td><td>ยืดหยุ่น แก้ปัญหา นวัตกรรม การเปลี่ยนแปลง</td></tr></table>",
+      "body_en": "<p>Each personality type is paired with its dominant work style:</p><table class='wiki-table'><tr><th>Code</th><th>Mode</th><th>Key traits</th></tr><tr><td><strong>S</strong></td><td>Strategic</td><td>Systems thinker, analyst, long-term planner</td></tr><tr><td><strong>O</strong></td><td>Operational</td><td>Hands-on, process controller, results-driven</td></tr><tr><td><strong>C</strong></td><td>Collaborative</td><td>Communicator, coordinator, people-focused</td></tr><tr><td><strong>A</strong></td><td>Adaptive</td><td>Flexible, problem solver, innovation-driven</td></tr></table>"
+    },
+    {
+      "heading_th": "ตัวอย่างโปรไฟล์",
+      "heading_en": "Example Profiles",
+      "body_th": "<div class='wiki-cards'><div class='wiki-card'><strong>INTJ-S</strong> — Strategic Logistics Architect<div class='muted'>นักออกแบบระบบเชิงกลยุทธ์ ที่มองเห็นภาพรวมและวางแผนระยะยาว</div></div><div class='wiki-card'><strong>ESFP-O</strong> — Operational Experience Manager<div class='muted'>ผู้จัดการประสบการณ์เชิงปฏิบัติการ ที่ลงมือทำและสร้างผลลัพธ์จริง</div></div><div class='wiki-card'><strong>INFJ-C</strong> — People-Centered Coordinator<div class='muted'>ผู้ประสานงานที่ใส่ใจคน มองเห็นศักยภาพของทีม</div></div><div class='wiki-card'><strong>ENTP-A</strong> — Disruptive Innovation Creator<div class='muted'>นักสร้างนวัตกรรมเชิง disrupt ที่ท้าทายกรอบเดิม</div></div></div>",
+      "body_en": "<div class='wiki-cards'><div class='wiki-card'><strong>INTJ-S</strong> — Strategic Logistics Architect<div class='muted'>Systems architect who sees the big picture and plans long-term</div></div><div class='wiki-card'><strong>ESFP-O</strong> — Operational Experience Manager<div class='muted'>Hands-on manager who delivers real results through action</div></div><div class='wiki-card'><strong>INFJ-C</strong> — People-Centered Coordinator<div class='muted'>Empathetic coordinator who sees team potential</div></div><div class='wiki-card'><strong>ENTP-A</strong> — Disruptive Innovation Creator<div class='muted'>Innovation creator who challenges existing frameworks</div></div></div>"
+    }
+  ],
+  "related": ["how-it-works", "competencies", "programs"]
+}

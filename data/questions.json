@@ -1,0 +1,902 @@
+[
+ {
+  "id": "Q01",
+  "section": "personality",
+  "construct": "EI",
+  "target": "E",
+  "reverse": false,
+  "text_th": "ฉันมีพลังเมื่อได้พูดคุยและแลกเปลี่ยนความคิดเห็นกับคนอื่น",
+  "text_en": "I feel energized when talking and exchanging ideas with others."
+ },
+ {
+  "id": "Q02",
+  "section": "personality",
+  "construct": "EI",
+  "target": "I",
+  "reverse": false,
+  "text_th": "ฉันต้องการเวลาคิดคนเดียวก่อนเสนอความคิดเห็นสำคัญ",
+  "text_en": "I need time to think on my own before presenting important opinions."
+ },
+ {
+  "id": "Q03",
+  "section": "personality",
+  "construct": "EI",
+  "target": "E",
+  "reverse": false,
+  "text_th": "เมื่อต้องเริ่มงานใหม่ ฉันมักเข้าหาผู้อื่นเพื่อสร้างความคุ้นเคยก่อน",
+  "text_en": "When starting a new job, I usually approach others to build familiarity first."
+ },
+ {
+  "id": "Q04",
+  "section": "personality",
+  "construct": "EI",
+  "target": "I",
+  "reverse": false,
+  "text_th": "ฉันทำงานที่ต้องใช้สมาธิได้ดีที่สุดเมื่อมีพื้นที่ส่วนตัว",
+  "text_en": "I do focused work best when I have personal space."
+ },
+ {
+  "id": "Q05",
+  "section": "personality",
+  "construct": "EI",
+  "target": "E",
+  "reverse": false,
+  "text_th": "ฉันสบายใจกับการพบผู้คนใหม่ ๆ ในสถานการณ์การทำงาน",
+  "text_en": "I am comfortable meeting new people in work situations."
+ },
+ {
+  "id": "Q06",
+  "section": "personality",
+  "construct": "EI",
+  "target": "I",
+  "reverse": false,
+  "text_th": "หลังจากประชุมหรือทำกิจกรรมกับคนจำนวนมาก ฉันมักต้องการเวลาอยู่เงียบ ๆ",
+  "text_en": "After meetings or activities with many people, I usually need quiet time to recharge."
+ },
+ {
+  "id": "Q07",
+  "section": "personality",
+  "construct": "EI",
+  "target": "E",
+  "reverse": false,
+  "text_th": "ฉันคิดไอเดียได้ดีขึ้นเมื่อได้สนทนาโต้ตอบกับผู้อื่น",
+  "text_en": "I generate ideas better through back-and-forth conversation with others."
+ },
+ {
+  "id": "Q08",
+  "section": "personality",
+  "construct": "EI",
+  "target": "I",
+  "reverse": false,
+  "text_th": "ฉันชอบเตรียมความคิดให้ชัดเจนก่อนพูดในที่ประชุม",
+  "text_en": "I like to prepare my thoughts clearly before speaking in meetings."
+ },
+ {
+  "id": "Q09",
+  "section": "personality",
+  "construct": "SN",
+  "target": "S",
+  "reverse": false,
+  "text_th": "ฉันให้ความสำคัญกับข้อมูลที่ตรวจสอบได้และสิ่งที่เกิดขึ้นจริงในปัจจุบัน",
+  "text_en": "I prioritize verifiable information and what is actually happening now."
+ },
+ {
+  "id": "Q10",
+  "section": "personality",
+  "construct": "SN",
+  "target": "N",
+  "reverse": false,
+  "text_th": "ฉันมักมองหาความเป็นไปได้ใหม่ ๆ ที่ยังไม่เกิดขึ้น",
+  "text_en": "I often look for new possibilities that do not exist yet."
+ },
+ {
+  "id": "Q11",
+  "section": "personality",
+  "construct": "SN",
+  "target": "S",
+  "reverse": false,
+  "text_th": "เมื่อเรียนรู้งานใหม่ ฉันชอบตัวอย่าง ขั้นตอน และวิธีปฏิบัติที่ชัดเจน",
+  "text_en": "When learning a new job, I prefer clear examples, steps, and practical methods."
+ },
+ {
+  "id": "Q12",
+  "section": "personality",
+  "construct": "SN",
+  "target": "N",
+  "reverse": false,
+  "text_th": "ฉันสนุกกับการเชื่อมโยงข้อมูลหลายเรื่องเพื่อมองเห็นภาพใหญ่",
+  "text_en": "I enjoy connecting pieces of information to see the big picture."
+ },
+ {
+  "id": "Q13",
+  "section": "personality",
+  "construct": "SN",
+  "target": "S",
+  "reverse": false,
+  "text_th": "ฉันสังเกตรายละเอียดของขั้นตอนและข้อมูลเฉพาะได้ดี",
+  "text_en": "I am good at noticing details of procedures and specific data."
+ },
+ {
+  "id": "Q14",
+  "section": "personality",
+  "construct": "SN",
+  "target": "N",
+  "reverse": false,
+  "text_th": "ฉันมักตั้งคำถามว่างานเดิมสามารถออกแบบใหม่ให้ดีกว่าเดิมได้อย่างไร",
+  "text_en": "I often ask how existing work could be redesigned to work better."
+ },
+ {
+  "id": "Q15",
+  "section": "personality",
+  "construct": "SN",
+  "target": "S",
+  "reverse": false,
+  "text_th": "ฉันเชื่อถือประสบการณ์และข้อมูลจริงก่อนแนวคิดที่ยังไม่ได้ทดลอง",
+  "text_en": "I trust experience and real data before untested concepts."
+ },
+ {
+  "id": "Q16",
+  "section": "personality",
+  "construct": "SN",
+  "target": "N",
+  "reverse": false,
+  "text_th": "ฉันชอบคิดถึงแนวโน้มระยะยาวมากกว่าจดจ่อเฉพาะเหตุการณ์ตรงหน้า",
+  "text_en": "I prefer thinking about long-term trends over focusing on immediate events."
+ },
+ {
+  "id": "Q17",
+  "section": "personality",
+  "construct": "TF",
+  "target": "T",
+  "reverse": false,
+  "text_th": "เมื่อตัดสินใจ ฉันให้ความสำคัญกับเหตุผลและหลักฐานมากกว่าความรู้สึกส่วนตัว",
+  "text_en": "When making decisions, I prioritize logic and evidence over personal feelings."
+ },
+ {
+  "id": "Q18",
+  "section": "personality",
+  "construct": "TF",
+  "target": "F",
+  "reverse": false,
+  "text_th": "ฉันคำนึงถึงผลกระทบต่อคนที่เกี่ยวข้องอย่างมากเมื่อต้องตัดสินใจ",
+  "text_en": "I strongly consider the impact on the people involved when making decisions."
+ },
+ {
+  "id": "Q19",
+  "section": "personality",
+  "construct": "TF",
+  "target": "T",
+  "reverse": false,
+  "text_th": "ฉันสามารถวิจารณ์วิธีทำงานได้ตรงประเด็นแม้อาจไม่ถูกใจบางคน",
+  "text_en": "I can critique ways of working directly, even if some people dislike it."
+ },
+ {
+  "id": "Q20",
+  "section": "personality",
+  "construct": "TF",
+  "target": "F",
+  "reverse": false,
+  "text_th": "ฉันพยายามรักษาความสัมพันธ์และบรรยากาศของทีมระหว่างการแก้ปัญหา",
+  "text_en": "I try to preserve relationships and team atmosphere while solving problems."
+ },
+ {
+  "id": "Q21",
+  "section": "personality",
+  "construct": "TF",
+  "target": "T",
+  "reverse": false,
+  "text_th": "เมื่อมีข้อขัดแย้ง ฉันมักถามว่าแนวทางใดมีเหตุผลและมีประสิทธิภาพที่สุด",
+  "text_en": "In disagreements, I usually ask which approach is most logical and effective."
+ },
+ {
+  "id": "Q22",
+  "section": "personality",
+  "construct": "TF",
+  "target": "F",
+  "reverse": false,
+  "text_th": "เมื่อมีข้อขัดแย้ง ฉันมักพยายามเข้าใจมุมมองและความต้องการของแต่ละฝ่าย",
+  "text_en": "In disagreements, I usually try to understand each party's views and needs."
+ },
+ {
+  "id": "Q23",
+  "section": "personality",
+  "construct": "TF",
+  "target": "T",
+  "reverse": false,
+  "text_th": "ฉันรู้สึกสบายใจกับการใช้เกณฑ์เดียวกันเพื่อประเมินทุกทางเลือก",
+  "text_en": "I am comfortable applying the same criteria to evaluate every option."
+ },
+ {
+  "id": "Q24",
+  "section": "personality",
+  "construct": "TF",
+  "target": "F",
+  "reverse": false,
+  "text_th": "ฉันเห็นว่าบางสถานการณ์ควรยืดหยุ่นเกณฑ์ตามบริบทของผู้คน",
+  "text_en": "I believe some situations call for flexible criteria based on people's context."
+ },
+ {
+  "id": "Q25",
+  "section": "personality",
+  "construct": "JP",
+  "target": "J",
+  "reverse": false,
+  "text_th": "ฉันชอบกำหนดแผน งาน และกำหนดเวลาให้ชัดเจนก่อนลงมือ",
+  "text_en": "I like to define plans, tasks, and schedules clearly before starting."
+ },
+ {
+  "id": "Q26",
+  "section": "personality",
+  "construct": "JP",
+  "target": "P",
+  "reverse": false,
+  "text_th": "ฉันชอบเปิดทางเลือกไว้และปรับแผนตามข้อมูลใหม่",
+  "text_en": "I like keeping options open and adjusting plans as new information arrives."
+ },
+ {
+  "id": "Q27",
+  "section": "personality",
+  "construct": "JP",
+  "target": "J",
+  "reverse": false,
+  "text_th": "ฉันรู้สึกสบายใจเมื่อปิดงานทีละเรื่องตามลำดับที่วางไว้",
+  "text_en": "I feel comfortable closing tasks one by one in the planned order."
+ },
+ {
+  "id": "Q28",
+  "section": "personality",
+  "construct": "JP",
+  "target": "P",
+  "reverse": false,
+  "text_th": "ฉันทำงานได้ดีแม้แผนและลำดับความสำคัญเปลี่ยนระหว่างทาง",
+  "text_en": "I work well even when plans and priorities change along the way."
+ },
+ {
+  "id": "Q29",
+  "section": "personality",
+  "construct": "JP",
+  "target": "J",
+  "reverse": false,
+  "text_th": "ฉันมักทำงานให้เสร็จก่อนกำหนดมากกว่ารอจนใกล้เส้นตาย",
+  "text_en": "I usually finish work ahead of deadlines rather than close to them."
+ },
+ {
+  "id": "Q30",
+  "section": "personality",
+  "construct": "JP",
+  "target": "P",
+  "reverse": false,
+  "text_th": "ฉันชอบสำรวจหลายวิธีก่อนตัดสินใจเลือกวิธีสุดท้าย",
+  "text_en": "I like exploring several approaches before choosing the final one."
+ },
+ {
+  "id": "Q31",
+  "section": "personality",
+  "construct": "JP",
+  "target": "J",
+  "reverse": false,
+  "text_th": "ฉันต้องการความชัดเจนว่าใครทำอะไรและเสร็จเมื่อใด",
+  "text_en": "I want clarity on who does what and when it will be finished."
+ },
+ {
+  "id": "Q32",
+  "section": "personality",
+  "construct": "JP",
+  "target": "P",
+  "reverse": false,
+  "text_th": "ฉันสบายใจกับงานที่ต้องตอบสนองต่อสถานการณ์แบบวันต่อวัน",
+  "text_en": "I am comfortable with work that requires responding to situations day by day."
+ },
+ {
+  "id": "Q33",
+  "section": "career_mode",
+  "construct": "SOCA",
+  "target": "S",
+  "reverse": false,
+  "text_th": "ฉันสนุกกับการวางแผนล่วงหน้าและมองผลกระทบระยะยาวของการตัดสินใจ",
+  "text_en": "I enjoy planning ahead and considering the long-term impact of decisions."
+ },
+ {
+  "id": "Q34",
+  "section": "career_mode",
+  "construct": "SOCA",
+  "target": "S",
+  "reverse": false,
+  "text_th": "ฉันชอบวิเคราะห์ว่าระบบทั้งหมดควรพัฒนาไปในทิศทางใด",
+  "text_en": "I enjoy analyzing which direction an entire system should develop."
+ },
+ {
+  "id": "Q35",
+  "section": "career_mode",
+  "construct": "SOCA",
+  "target": "O",
+  "reverse": false,
+  "text_th": "ฉันพอใจเมื่อได้เห็นงานถูกดำเนินการจริงและผลลัพธ์เกิดขึ้นตรงหน้า",
+  "text_en": "I feel satisfied seeing work carried out and results happening in front of me."
+ },
+ {
+  "id": "Q36",
+  "section": "career_mode",
+  "construct": "SOCA",
+  "target": "O",
+  "reverse": false,
+  "text_th": "ฉันชอบควบคุมขั้นตอน เวลา และทรัพยากรให้การปฏิบัติงานเดินต่อเนื่อง",
+  "text_en": "I like controlling steps, time, and resources so operations keep running smoothly."
+ },
+ {
+  "id": "Q37",
+  "section": "career_mode",
+  "construct": "SOCA",
+  "target": "C",
+  "reverse": false,
+  "text_th": "ฉันทำงานได้ดีที่สุดเมื่อได้ประสานและสร้างความร่วมมือกับหลายฝ่าย",
+  "text_en": "I work best when coordinating and building collaboration among many parties."
+ },
+ {
+  "id": "Q38",
+  "section": "career_mode",
+  "construct": "SOCA",
+  "target": "C",
+  "reverse": false,
+  "text_th": "ฉันให้ความสำคัญกับการสื่อสารให้ทุกคนเข้าใจเป้าหมายตรงกัน",
+  "text_en": "I value communicating so that everyone understands the same goals."
+ },
+ {
+  "id": "Q39",
+  "section": "career_mode",
+  "construct": "SOCA",
+  "target": "A",
+  "reverse": false,
+  "text_th": "เมื่อสถานการณ์เปลี่ยนกะทันหัน ฉันสนุกกับการหาวิธีใหม่เพื่อรับมือ",
+  "text_en": "When situations change suddenly, I enjoy finding new ways to respond."
+ },
+ {
+  "id": "Q40",
+  "section": "career_mode",
+  "construct": "SOCA",
+  "target": "A",
+  "reverse": false,
+  "text_th": "ฉันชอบทดลองแนวทางหรือเทคโนโลยีใหม่เมื่อวิธีเดิมมีข้อจำกัด",
+  "text_en": "I like trying new approaches or technologies when current ones reach their limits."
+ },
+ {
+  "id": "Q41",
+  "section": "competency",
+  "construct": "C01",
+  "target": "C01",
+  "reverse": false,
+  "text_th": "ฉันสามารถแยกข้อมูลสำคัญออกจากข้อมูลที่ไม่เกี่ยวข้องก่อนวิเคราะห์ปัญหา",
+  "text_en": "I can separate important information from irrelevant data before analyzing a problem."
+ },
+ {
+  "id": "Q42",
+  "section": "competency",
+  "construct": "C01",
+  "target": "C01",
+  "reverse": false,
+  "text_th": "ฉันสามารถเปรียบเทียบข้อมูลหลายชุดเพื่อค้นหารูปแบบหรือสาเหตุที่เป็นไปได้",
+  "text_en": "I can compare multiple sets of data to find patterns or likely causes."
+ },
+ {
+  "id": "Q43",
+  "section": "competency",
+  "construct": "C02",
+  "target": "C02",
+  "reverse": false,
+  "text_th": "ฉันสามารถจัดลำดับงานตามความสำคัญและกำหนดเวลาได้อย่างเป็นระบบ",
+  "text_en": "I can prioritize tasks and set timelines in a systematic way."
+ },
+ {
+  "id": "Q44",
+  "section": "competency",
+  "construct": "C02",
+  "target": "C02",
+  "reverse": false,
+  "text_th": "ก่อนเริ่มงานซับซ้อน ฉันมักกำหนดขั้นตอน ทรัพยากร และผู้รับผิดชอบไว้ชัดเจน",
+  "text_en": "Before starting complex work, I usually define steps, resources, and responsibilities clearly."
+ },
+ {
+  "id": "Q45",
+  "section": "competency",
+  "construct": "C03",
+  "target": "C03",
+  "reverse": false,
+  "text_th": "เมื่อเกิดปัญหา ฉันพยายามหาสาเหตุรากก่อนเลือกวิธีแก้",
+  "text_en": "When problems occur, I look for the root cause before choosing a fix."
+ },
+ {
+  "id": "Q46",
+  "section": "competency",
+  "construct": "C03",
+  "target": "C03",
+  "reverse": false,
+  "text_th": "หากวิธีเดิมใช้ไม่ได้ ฉันสามารถสร้างทางเลือกใหม่และประเมินข้อดีข้อเสียได้",
+  "text_en": "If the original method fails, I can create new alternatives and weigh pros and cons."
+ },
+ {
+  "id": "Q47",
+  "section": "competency",
+  "construct": "C04",
+  "target": "C04",
+  "reverse": false,
+  "text_th": "ฉันตรวจสอบตัวเลข รายการ และเอกสารก่อนส่งงานเสมอ",
+  "text_en": "I always check numbers, lists, and documents before submitting work."
+ },
+ {
+  "id": "Q48",
+  "section": "competency",
+  "construct": "C04",
+  "target": "C04",
+  "reverse": false,
+  "text_th": "ฉันมักสังเกตความคลาดเคลื่อนเล็ก ๆ ที่อาจทำให้กระบวนการผิดพลาด",
+  "text_en": "I often notice small discrepancies that could cause process errors."
+ },
+ {
+  "id": "Q49",
+  "section": "competency",
+  "construct": "C05",
+  "target": "C05",
+  "reverse": false,
+  "text_th": "ฉันสามารถอธิบายข้อมูลที่ซับซ้อนให้ผู้อื่นเข้าใจได้ชัดเจน",
+  "text_en": "I can explain complex information clearly to others."
+ },
+ {
+  "id": "Q50",
+  "section": "competency",
+  "construct": "C05",
+  "target": "C05",
+  "reverse": false,
+  "text_th": "ฉันสามารถสรุปประเด็นสำคัญในการประชุมหรือประสานงานได้ตรงประเด็น",
+  "text_en": "I can summarize key points from meetings or coordination accurately."
+ },
+ {
+  "id": "Q51",
+  "section": "competency",
+  "construct": "C06",
+  "target": "C06",
+  "reverse": false,
+  "text_th": "ฉันปรับวิธีทำงานของตนเพื่อให้ทีมทำงานร่วมกันได้ราบรื่น",
+  "text_en": "I adjust my working style so the team can collaborate smoothly."
+ },
+ {
+  "id": "Q52",
+  "section": "competency",
+  "construct": "C06",
+  "target": "C06",
+  "reverse": false,
+  "text_th": "ฉันรับฟังความคิดเห็นที่แตกต่างและช่วยหาข้อสรุปร่วมของทีมได้",
+  "text_en": "I listen to different opinions and help the team reach shared conclusions."
+ },
+ {
+  "id": "Q53",
+  "section": "competency",
+  "construct": "C07",
+  "target": "C07",
+  "reverse": false,
+  "text_th": "ฉันสามารถกำหนดเป้าหมายและกระตุ้นให้ผู้อื่นเดินไปในทิศทางเดียวกัน",
+  "text_en": "I can set goals and motivate others to move in the same direction."
+ },
+ {
+  "id": "Q54",
+  "section": "competency",
+  "construct": "C07",
+  "target": "C07",
+  "reverse": false,
+  "text_th": "เมื่อรับผิดชอบทีม ฉันสามารถมอบหมาย ติดตาม และให้ข้อเสนอแนะได้",
+  "text_en": "When responsible for a team, I can assign tasks, follow up, and give feedback."
+ },
+ {
+  "id": "Q55",
+  "section": "competency",
+  "construct": "C08",
+  "target": "C08",
+  "reverse": false,
+  "text_th": "ฉันสามารถตัดสินใจภายใต้ข้อจำกัดด้านเวลาโดยใช้ข้อมูลที่มีอยู่",
+  "text_en": "I can make decisions under time constraints using the information available."
+ },
+ {
+  "id": "Q56",
+  "section": "competency",
+  "construct": "C08",
+  "target": "C08",
+  "reverse": false,
+  "text_th": "ก่อนตัดสินใจ ฉันพิจารณาความเสี่ยง ต้นทุน และผลกระทบต่อหลายฝ่าย",
+  "text_en": "Before deciding, I consider risks, costs, and impacts on multiple parties."
+ },
+ {
+  "id": "Q57",
+  "section": "competency",
+  "construct": "C09",
+  "target": "C09",
+  "reverse": false,
+  "text_th": "ฉันเรียนรู้การใช้ระบบหรือเครื่องมือดิจิทัลใหม่ได้ค่อนข้างเร็ว",
+  "text_en": "I learn new digital systems or tools fairly quickly."
+ },
+ {
+  "id": "Q58",
+  "section": "competency",
+  "construct": "C09",
+  "target": "C09",
+  "reverse": false,
+  "text_th": "ฉันมั่นใจในการใช้ซอฟต์แวร์หรือระบบสารสนเทศเพื่อช่วยทำงานและติดตามผล",
+  "text_en": "I am confident using software or information systems to support and track work."
+ },
+ {
+  "id": "Q59",
+  "section": "competency",
+  "construct": "C10",
+  "target": "C10",
+  "reverse": false,
+  "text_th": "ฉันสามารถอ่านตาราง กราฟ KPI หรือ Dashboard และสรุปความหมายได้",
+  "text_en": "I can read tables, KPI charts, or dashboards and interpret their meaning."
+ },
+ {
+  "id": "Q60",
+  "section": "competency",
+  "construct": "C10",
+  "target": "C10",
+  "reverse": false,
+  "text_th": "ฉันสามารถใช้ข้อมูลเชิงตัวเลขเพื่อสนับสนุนข้อเสนอหรือการตัดสินใจ",
+  "text_en": "I can use numerical data to support proposals or decisions."
+ },
+ {
+  "id": "Q61",
+  "section": "competency",
+  "construct": "C11",
+  "target": "C11",
+  "reverse": false,
+  "text_th": "ฉันพยายามเข้าใจความต้องการของลูกค้าหรือผู้รับบริการก่อนเสนอแนวทาง",
+  "text_en": "I try to understand customer or service-user needs before proposing solutions."
+ },
+ {
+  "id": "Q62",
+  "section": "competency",
+  "construct": "C11",
+  "target": "C11",
+  "reverse": false,
+  "text_th": "ฉันติดตามผลเพื่อให้มั่นใจว่าลูกค้าหรือผู้รับบริการได้รับสิ่งที่ตกลงไว้",
+  "text_en": "I follow up to ensure customers or service users receive what was agreed."
+ },
+ {
+  "id": "Q63",
+  "section": "competency",
+  "construct": "C12",
+  "target": "C12",
+  "reverse": false,
+  "text_th": "ฉันสามารถหาจุดร่วมเมื่อแต่ละฝ่ายมีเงื่อนไขหรือผลประโยชน์ต่างกัน",
+  "text_en": "I can find common ground when parties have different conditions or interests."
+ },
+ {
+  "id": "Q64",
+  "section": "competency",
+  "construct": "C12",
+  "target": "C12",
+  "reverse": false,
+  "text_th": "ฉันกล้านำเสนอเหตุผลและต่อรองเงื่อนไขโดยยังรักษาความสัมพันธ์ที่ดี",
+  "text_en": "I am willing to present reasons and negotiate terms while keeping good relationships."
+ },
+ {
+  "id": "Q65",
+  "section": "competency",
+  "construct": "C13",
+  "target": "C13",
+  "reverse": false,
+  "text_th": "ฉันปรับตัวได้เมื่อแผนงานหรือเงื่อนไขเปลี่ยนโดยไม่คาดคิด",
+  "text_en": "I adapt well when plans or conditions change unexpectedly."
+ },
+ {
+  "id": "Q66",
+  "section": "competency",
+  "construct": "C13",
+  "target": "C13",
+  "reverse": false,
+  "text_th": "ฉันเรียนรู้จากข้อผิดพลาดและเปลี่ยนวิธีทำงานได้รวดเร็ว",
+  "text_en": "I learn from mistakes and quickly change the way I work."
+ },
+ {
+  "id": "Q67",
+  "section": "competency",
+  "construct": "C14",
+  "target": "C14",
+  "reverse": false,
+  "text_th": "ฉันให้ความสำคัญกับการทำงานตามกฎ มาตรฐาน และข้อกำหนดความปลอดภัย",
+  "text_en": "I value working according to rules, standards, and safety requirements."
+ },
+ {
+  "id": "Q68",
+  "section": "competency",
+  "construct": "C14",
+  "target": "C14",
+  "reverse": false,
+  "text_th": "เมื่อพบขั้นตอนที่อาจเสี่ยงต่อความปลอดภัยหรือผิดข้อกำหนด ฉันพร้อมหยุดและตรวจสอบ",
+  "text_en": "If I find a step that risks safety or violates requirements, I am ready to stop and check."
+ },
+ {
+  "id": "Q69",
+  "section": "competency",
+  "construct": "C15",
+  "target": "C15",
+  "reverse": false,
+  "text_th": "ฉันคำนึงถึงพลังงาน ของเสีย และผลกระทบต่อสิ่งแวดล้อมเมื่อประเมินวิธีทำงาน",
+  "text_en": "I consider energy, waste, and environmental impact when evaluating work methods."
+ },
+ {
+  "id": "Q70",
+  "section": "competency",
+  "construct": "C15",
+  "target": "C15",
+  "reverse": false,
+  "text_th": "ฉันมองหาวิธีลดการใช้ทรัพยากรและผลกระทบตลอดกระบวนการโลจิสติกส์",
+  "text_en": "I look for ways to reduce resource use and impact across the logistics process."
+ },
+ {
+  "id": "Q71",
+  "section": "interest",
+  "construct": "DPTOL",
+  "target": "D",
+  "reverse": false,
+  "text_th": "ฉันสนใจงานที่ต้องวิเคราะห์ข้อมูล ตัวเลข แนวโน้ม หรือ KPI เป็นประจำ",
+  "text_en": "I am interested in work that regularly involves analyzing data, numbers, trends, or KPIs."
+ },
+ {
+  "id": "Q72",
+  "section": "interest",
+  "construct": "DPTOL",
+  "target": "P",
+  "reverse": false,
+  "text_th": "ฉันสนใจงานที่ต้องติดต่อ ประสาน เจรจา หรือดูแลลูกค้าและคู่ค้า",
+  "text_en": "I am interested in work involving contact, coordination, negotiation, or caring for customers and partners."
+ },
+ {
+  "id": "Q73",
+  "section": "interest",
+  "construct": "DPTOL",
+  "target": "T",
+  "reverse": false,
+  "text_th": "ฉันสนใจเทคโนโลยี ระบบสารสนเทศ ระบบอัตโนมัติ หรือการพัฒนาดิจิทัล",
+  "text_en": "I am interested in technology, information systems, automation, or digital development."
+ },
+ {
+  "id": "Q74",
+  "section": "interest",
+  "construct": "DPTOL",
+  "target": "O",
+  "reverse": false,
+  "text_th": "ฉันสนใจงานหน้างานที่ต้องควบคุมการปฏิบัติจริง การขนส่ง หรือคลังสินค้า",
+  "text_en": "I am interested in hands-on work controlling real operations, transportation, or warehouses."
+ },
+ {
+  "id": "Q75",
+  "section": "interest",
+  "construct": "DPTOL",
+  "target": "L",
+  "reverse": false,
+  "text_th": "ฉันสนใจบทบาทที่ต้องนำทีม ตัดสินใจ และรับผิดชอบผลลัพธ์ระดับหน่วยงาน",
+  "text_en": "I am interested in roles that lead teams, make decisions, and take responsibility for unit-level results."
+ },
+ {
+  "id": "Q76",
+  "section": "program_specific",
+  "construct": "LOG",
+  "target": "LOG",
+  "text_th": "ฉันรู้สึกตื่นเต้นเมื่อได้จัดระบบคลังสินค้าให้มีประสิทธิภาพ",
+  "text_en": "I feel excited when organizing warehouse inventory for maximum efficiency",
+  "reverse": false
+ },
+ {
+  "id": "Q77",
+  "section": "program_specific",
+  "construct": "LOG",
+  "target": "LOG",
+  "text_th": "ฉันชอบวางแผนเส้นทางการจัดส่งสินค้า",
+  "text_en": "I enjoy planning delivery routes and schedules",
+  "reverse": false
+ },
+ {
+  "id": "Q78",
+  "section": "program_specific",
+  "construct": "LOG",
+  "target": "LOG",
+  "text_th": "ฉันเข้าใจความสำคัญของซัพพลายเชนในธุรกิจ",
+  "text_en": "I understand the importance of supply chain management in business",
+  "reverse": false
+ },
+ {
+  "id": "Q79",
+  "section": "program_specific",
+  "construct": "LOG",
+  "target": "LOG",
+  "text_th": "ฉันสนใจที่จะเรียนรู้เกี่ยวกับระบบจัดการคลังสินค้าดิจิทัล",
+  "text_en": "I am interested in learning about digital warehouse management systems",
+  "reverse": false
+ },
+ {
+  "id": "Q80",
+  "section": "program_specific",
+  "construct": "LOG",
+  "target": "LOG",
+  "text_th": "ฉันสามารถแก้ปัญหาการขนส่งที่ไม่คาดคิดได้อย่างรวดเร็ว",
+  "text_en": "I can quickly solve unexpected transportation problems",
+  "reverse": false
+ },
+ {
+  "id": "Q81",
+  "section": "program_specific",
+  "construct": "ACC",
+  "target": "ACC",
+  "text_th": "ฉันมีความละเอียดรอบคอบในการทำงานกับตัวเลขและงบประมาณ",
+  "text_en": "I am meticulous when working with numbers and budgets",
+  "reverse": false
+ },
+ {
+  "id": "Q82",
+  "section": "program_specific",
+  "construct": "ACC",
+  "target": "ACC",
+  "text_th": "ฉันเข้าใจหลักการบัญชีและสามารถอ่านงบการเงินได้",
+  "text_en": "I understand accounting principles and can read financial statements",
+  "reverse": false
+ },
+ {
+  "id": "Q83",
+  "section": "program_specific",
+  "construct": "ACC",
+  "target": "ACC",
+  "text_th": "ฉันสนใจที่จะเรียนรู้เกี่ยวกับระบบบัญชีดิจิทัล",
+  "text_en": "I am interested in learning about digital accounting systems",
+  "reverse": false
+ },
+ {
+  "id": "Q84",
+  "section": "program_specific",
+  "construct": "ACC",
+  "target": "ACC",
+  "text_th": "ฉันรู้สึกพึงพอใจเมื่องบการเงินสมดุลและถูกต้อง",
+  "text_en": "I feel satisfied when financial statements are balanced and accurate",
+  "reverse": false
+ },
+ {
+  "id": "Q85",
+  "section": "program_specific",
+  "construct": "ACC",
+  "target": "ACC",
+  "text_th": "ฉันสามารถวิเคราะห์ข้อมูลทางการเงินเพื่อการตัดสินใจได้",
+  "text_en": "I can analyze financial data to support decision-making",
+  "reverse": false
+ },
+ {
+  "id": "Q86",
+  "section": "program_specific",
+  "construct": "MKT",
+  "target": "MKT",
+  "text_th": "ฉันชอบคิดไอเดียสร้างสรรค์สำหรับแคมเปญการตลาด",
+  "text_en": "I enjoy creating creative ideas for marketing campaigns",
+  "reverse": false
+ },
+ {
+  "id": "Q87",
+  "section": "program_specific",
+  "construct": "MKT",
+  "target": "MKT",
+  "text_th": "ฉันเข้าใจพฤติกรรมผู้บริโภคและสิ่งที่ขับเคลื่อนการตัดสินใจซื้อ",
+  "text_en": "I understand consumer behavior and what drives purchasing decisions",
+  "reverse": false
+ },
+ {
+  "id": "Q88",
+  "section": "program_specific",
+  "construct": "MKT",
+  "target": "MKT",
+  "text_th": "ฉันสนใจแพลตฟอร์มดิจิทัลและการตลาดผ่านโซเชียลมีเดีย",
+  "text_en": "I am interested in digital platforms and social media marketing",
+  "reverse": false
+ },
+ {
+  "id": "Q89",
+  "section": "program_specific",
+  "construct": "MKT",
+  "target": "MKT",
+  "text_th": "ฉันสามารถสื่อสารเรื่องราวของแบรนด์ได้อย่างน่าสนใจ",
+  "text_en": "I can communicate a brand story in an engaging way",
+  "reverse": false
+ },
+ {
+  "id": "Q90",
+  "section": "program_specific",
+  "construct": "MKT",
+  "target": "MKT",
+  "text_th": "ฉันชอบวิเคราะห์ข้อมูลยอดขายและผลตอบแทนจากการลงทุน",
+  "text_en": "I enjoy analyzing sales data and return on investment",
+  "reverse": false
+ },
+ {
+  "id": "Q91",
+  "section": "program_specific",
+  "construct": "IT",
+  "target": "IT",
+  "text_th": "ฉันชอบแก้ปัญหาทางเทคนิคและเขียนโค้ด",
+  "text_en": "I enjoy solving technical problems and writing code",
+  "reverse": false
+ },
+ {
+  "id": "Q92",
+  "section": "program_specific",
+  "construct": "IT",
+  "target": "IT",
+  "text_th": "ฉันเข้าใจระบบฐานข้อมูลและสามารถออกแบบโครงสร้างข้อมูลได้",
+  "text_en": "I understand database systems and can design data structures",
+  "reverse": false
+ },
+ {
+  "id": "Q93",
+  "section": "program_specific",
+  "construct": "IT",
+  "target": "IT",
+  "text_th": "ฉันสนใจเทคโนโลยีใหม่ๆ เช่น AI คลาวด์ และ IoT",
+  "text_en": "I am interested in new technologies like AI, cloud, and IoT",
+  "reverse": false
+ },
+ {
+  "id": "Q94",
+  "section": "program_specific",
+  "construct": "IT",
+  "target": "IT",
+  "text_th": "ฉันสามารถเรียนรู้ภาษาโปรแกรมใหม่ได้อย่างรวดเร็ว",
+  "text_en": "I can learn new programming languages quickly",
+  "reverse": false
+ },
+ {
+  "id": "Q95",
+  "section": "program_specific",
+  "construct": "IT",
+  "target": "IT",
+  "text_th": "ฉันชอบออกแบบและพัฒนาระบบที่ใช้งานง่ายสำหรับผู้ใช้",
+  "text_en": "I enjoy designing and developing user-friendly systems",
+  "reverse": false
+ },
+ {
+  "id": "Q96",
+  "section": "program_specific",
+  "construct": "HOS",
+  "target": "HOS",
+  "text_th": "ฉันชอบให้บริการและทำให้แขกรู้สึกพึงพอใจ",
+  "text_en": "I enjoy serving others and making guests feel satisfied",
+  "reverse": false
+ },
+ {
+  "id": "Q97",
+  "section": "program_specific",
+  "construct": "HOS",
+  "target": "HOS",
+  "text_th": "ฉันเข้าใจมาตรฐานการบริการในอุตสาหกรรมโรงแรม",
+  "text_en": "I understand service standards in the hotel industry",
+  "reverse": false
+ },
+ {
+  "id": "Q98",
+  "section": "program_specific",
+  "construct": "HOS",
+  "target": "HOS",
+  "text_th": "ฉันสามารถจัดการสถานการณ์ที่มีแรงกดดันสูงในโรงแรมได้",
+  "text_en": "I can handle high-pressure situations in a hotel environment",
+  "reverse": false
+ },
+ {
+  "id": "Q99",
+  "section": "program_specific",
+  "construct": "TRV",
+  "target": "TRV",
+  "text_th": "ฉันชอบวางแผนและออกแบบประสบการณ์การท่องเที่ยว",
+  "text_en": "I enjoy planning and designing tourism experiences",
+  "reverse": false
+ },
+ {
+  "id": "Q100",
+  "section": "program_specific",
+  "construct": "TRV",
+  "target": "TRV",
+  "text_th": "ฉันเข้าใจแนวโน้มการท่องเที่ยวและพฤติกรรมนักท่องเที่ยว",
+  "text_en": "I understand tourism trends and tourist behavior",
+  "reverse": false
+ }
+]

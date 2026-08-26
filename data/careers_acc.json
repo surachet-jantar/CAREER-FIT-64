@@ -1,0 +1,5452 @@
+[
+  {
+    "id": "CR51",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL11",
+      "th": "การบัญชีทั่วไป",
+      "en": "General Accounting"
+    },
+    "name_en": "Staff Accountant",
+    "name_th": "เจ้าหน้าที่บัญชี",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "บันทึกรายการบัญชี กระทบยอด และจัดทำงบการเงิน",
+    "description_en": "Record accounting entries, reconcile accounts, and prepare financial statements",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานบัญชี",
+      "เจ้าหน้าที่บัญชี",
+      "นักบัญชี",
+      "หัวหน้างานบัญชี",
+      "ผู้จัดการบัญชี",
+      "ผู้อำนวยการฝ่ายบัญชี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Accounting Intern",
+      "Staff Accountant",
+      "Accountant",
+      "Accounting Supervisor",
+      "Accounting Manager",
+      "Director of Accounting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR52",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL11",
+      "th": "การบัญชีทั่วไป",
+      "en": "General Accounting"
+    },
+    "name_en": "Accounts Payable Clerk",
+    "name_th": "เจ้าหน้าที่เจ้าหนี้",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ตรวจสอบใบแจ้งหนี้ บันทึกรายการจ่าย และกระทบยอดบัญชีเจ้าหนี้",
+    "description_en": "Verify invoices, record payables, and reconcile vendor accounts",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "เจ้าหน้าที่เจ้าหนี้",
+      "เจ้าหน้าที่อาวุโสเจ้าหนี้",
+      "หัวหน้างานเจ้าหนี้",
+      "ผู้จัดการเจ้าหนี้/บัญชี",
+      "ผู้อำนวยการฝ่ายบัญชี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "Accounts Payable Clerk",
+      "Senior AP Clerk",
+      "AP Supervisor",
+      "AP/Accounting Manager",
+      "Director of Accounting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR53",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL11",
+      "th": "การบัญชีทั่วไป",
+      "en": "General Accounting"
+    },
+    "name_en": "Accounts Receivable Officer",
+    "name_th": "เจ้าหน้าที่ลูกหนี้",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ติดตามลูกหนี้ บันทึกรายการรับ และจัดการวงเงินเครดิต",
+    "description_en": "Track receivables, record receipts, and manage credit limits",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "เจ้าหน้าที่ลูกหนี้",
+      "เจ้าหน้าที่อาวุโสลูกหนี้",
+      "หัวหน้างานลูกหนี้",
+      "ผู้จัดการลูกหนี้/บัญชี",
+      "ผู้อำนวยการฝ่ายบัญชี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "AR Clerk",
+      "Senior AR Clerk",
+      "AR Supervisor",
+      "AR/Accounting Manager",
+      "Director of Accounting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR54",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL11",
+      "th": "การบัญชีทั่วไป",
+      "en": "General Accounting"
+    },
+    "name_en": "Bookkeeper",
+    "name_th": "นักบัญชีผู้ทำบัญชี",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดทำบัญชีรายวัน จดบันทึก และดูแลระบบบัญชีสำหรับธุรกิจขนาดเล็ก",
+    "description_en": "Maintain daily ledgers, journals, and books for small businesses",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 1,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "นักบัญชีผู้ทำบัญชี",
+      "เจ้าหน้าที่บัญชี",
+      "นักบัญชี",
+      "ผู้จัดการบัญชี",
+      "ผู้อำนวยการฝ่ายบัญชี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "Bookkeeper",
+      "Staff Accountant",
+      "Accountant",
+      "Accounting Manager",
+      "Director of Accounting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR55",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL11",
+      "th": "การบัญชีทั่วไป",
+      "en": "General Accounting"
+    },
+    "name_en": "Financial Reporting Analyst",
+    "name_th": "นักวิเคราะห์รายงานการเงิน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดทำและวิเคราะห์งบการเงินตามมาตรฐานบัญชีที่รับรอง",
+    "description_en": "Prepare and analyze financial reports under recognized accounting standards",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "นักวิเคราะห์รายงานการเงิน",
+      "นักบัญชีรายงาน",
+      "หัวหน้างานรายงานการเงิน",
+      "ผู้จัดการรายงานการเงิน",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "Financial Reporting Analyst",
+      "Reporting Accountant",
+      "Reporting Supervisor",
+      "Reporting Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR56",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL12",
+      "th": "การบัญชีต้นทุน",
+      "en": "Cost Accounting"
+    },
+    "name_en": "Cost Accountant",
+    "name_th": "นักบัญชีต้นทุน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "คำนวณต้นทุนการผลิต วิเคราะห์ความแปรปรวน และจัดทำรายงานต้นทุน",
+    "description_en": "Calculate production costs, analyze variances, and prepare cost reports",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "นักบัญชีต้นทุน",
+      "นักบัญชีต้นทุนอาวุโส",
+      "หัวหน้างานบัญชีต้นทุน",
+      "ผู้จัดการบัญชีต้นทุน",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "Cost Accountant",
+      "Senior Cost Accountant",
+      "Cost Accounting Supervisor",
+      "Cost Accounting Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR57",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL12",
+      "th": "การบัญชีต้นทุน",
+      "en": "Cost Accounting"
+    },
+    "name_en": "Cost Analyst",
+    "name_th": "นักวิเคราะห์ต้นทุน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วิเคราะห์ต้นทุนต่อหน่วย ต้นทุนกิจกรรม และกำไรต่อผลิตภัณฑ์",
+    "description_en": "Analyze unit costs, activity-based costs, and product profitability",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "นักวิเคราะห์ต้นทุน",
+      "นักวิเคราะห์ต้นทุนอาวุโส",
+      "หัวหน้างานวิเคราะห์ต้นทุน",
+      "ผู้จัดการวิเคราะห์ต้นทุน",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "Cost Analyst",
+      "Senior Cost Analyst",
+      "Cost Analysis Supervisor",
+      "Cost Analysis Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR58",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL12",
+      "th": "การบัญชีต้นทุน",
+      "en": "Cost Accounting"
+    },
+    "name_en": "Cost Controller",
+    "name_th": "เจ้าหน้าที่ควบคุมต้นทุน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ควบคุมและตรวจสอบต้นทุนการผลิต การดำเนินงาน และงบประมาณ",
+    "description_en": "Control and audit production and operational costs against budgets",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "เจ้าหน้าที่ควบคุมต้นทุน",
+      "เจ้าหน้าที่อาวุโสควบคุมต้นทุน",
+      "หัวหน้างานควบคุมต้นทุน",
+      "ผู้จัดการควบคุมต้นทุน",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "Cost Controller",
+      "Senior Cost Controller",
+      "Cost Control Supervisor",
+      "Cost Control Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR59",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL12",
+      "th": "การบัญชีต้นทุน",
+      "en": "Cost Accounting"
+    },
+    "name_en": "Inventory Cost Analyst",
+    "name_th": "นักวิเคราะห์ต้นทุนสินค้าคงคลัง",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วิเคราะห์ต้นทุนการถือครอง ต้นทุนการสั่งซื้อ และประสิทธิภาพสินค้าคงคลัง",
+    "description_en": "Analyze holding costs, ordering costs, and inventory efficiency",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "นักวิเคราะห์ต้นทุนสินค้าคงคลัง",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิเคราะห์",
+      "ผู้จัดการวิเคราะห์ต้นทุน",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "Inventory Cost Analyst",
+      "Senior Cost Analyst",
+      "Analysis Supervisor",
+      "Cost Analysis Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR60",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL12",
+      "th": "การบัญชีต้นทุน",
+      "en": "Cost Accounting"
+    },
+    "name_en": "Cost Accounting Manager",
+    "name_th": "ผู้จัดการบัญชีต้นทุน",
+    "level": 4,
+    "level_label": "Manager",
+    "description_th": "บริหารระบบบัญชีต้นทุน ทีมงาน และกลยุทธ์การควบคุมต้นทุนองค์กร",
+    "description_en": "Lead cost accounting systems, teams, and enterprise cost strategy",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์บริหารที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 3,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 2,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "นักบัญชีต้นทุน",
+      "นักบัญชีต้นทุนอาวุโส",
+      "ผู้จัดการบัญชีต้นทุน",
+      "ผู้อำนวยการฝ่ายบัญชี",
+      "รองประธานฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "Cost Accountant",
+      "Senior Cost Accountant",
+      "Cost Accounting Manager",
+      "Director of Accounting",
+      "VP of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR61",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL13",
+      "th": "การตรวจสอบ",
+      "en": "Auditing"
+    },
+    "name_en": "Junior Auditor",
+    "name_th": "ผู้ตรวจสอบบัญชี Junior",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ดำเนินการตรวจสอบภายใน ทดสอบรายการ และจัดทำเอกสารการตรวจสอบ",
+    "description_en": "Perform internal audit procedures, test transactions, and document findings",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานตรวจสอบ",
+      "ผู้ตรวจสอบบัญชี Junior",
+      "ผู้ตรวจสอบบัญชี",
+      "ผู้ตรวจสอบอาวุโส",
+      "ผู้จัดการตรวจสอบ",
+      "ผู้อำนวยการตรวจสอบภายใน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Audit Intern",
+      "Junior Auditor",
+      "Auditor",
+      "Senior Auditor",
+      "Audit Manager",
+      "Director of Internal Audit",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR62",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL13",
+      "th": "การตรวจสอบ",
+      "en": "Auditing"
+    },
+    "name_en": "Internal Auditor",
+    "name_th": "ผู้ตรวจสอบภายใน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ประเมินความเสี่ยง ทดสอบการควบคุม และแนะนำการปรับปรุง",
+    "description_en": "Assess risks, test controls, and recommend improvements",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานตรวจสอบ",
+      "ผู้ตรวจสอบบัญชี Junior",
+      "ผู้ตรวจสอบภายใน",
+      "ผู้ตรวจสอบอาวุโส",
+      "ผู้จัดการตรวจสอบ",
+      "ผู้อำนวยการตรวจสอบภายใน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Audit Intern",
+      "Junior Auditor",
+      "Internal Auditor",
+      "Senior Auditor",
+      "Audit Manager",
+      "Director of Internal Audit",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR63",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL13",
+      "th": "การตรวจสอบ",
+      "en": "Auditing"
+    },
+    "name_en": "External Auditor",
+    "name_th": "ผู้ตรวจสอบบัญชีภายนอก",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ตรวจสอบงบการเงินตามมาตรฐานการตรวจสอบ และออกความเห็น",
+    "description_en": "Audit financial statements per auditing standards and issue opinions",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานตรวจสอบ",
+      "ผู้ตรวจสอบบัญชี Junior",
+      "ผู้ตรวจสอบบัญชี",
+      "ผู้ตรวจสอบอาวุโส",
+      "ผู้จัดการตรวจสอบ",
+      "หุ้นส่วนผู้ตรวจสอบบัญชี",
+      "หุ้นส่วนผู้จัดการ"
+    ],
+    "roadmap_en": [
+      "Student / Audit Intern",
+      "Junior Auditor",
+      "Auditor",
+      "Senior Auditor",
+      "Audit Manager",
+      "Audit Partner",
+      "Managing Partner"
+    ]
+  },
+  {
+    "id": "CR64",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL13",
+      "th": "การตรวจสอบ",
+      "en": "Auditing"
+    },
+    "name_en": "IT Auditor",
+    "name_th": "ผู้ตรวจสอบระบบสารสนเทศ",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ตรวจสอบระบบ IT การควบคุมข้อมูล และความปลอดภัยไซเบอร์",
+    "description_en": "Audit IT systems, data controls, and cybersecurity measures",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานตรวจสอบ IT",
+      "ผู้ตรวจสอบระบบสารสนเทศ",
+      "ผู้ตรวจสอบ IT อาวุโส",
+      "หัวหน้างานตรวจสอบ IT",
+      "ผู้จัดการตรวจสอบ IT",
+      "ผู้อำนวยการตรวจสอบภายใน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / IT Audit Intern",
+      "IT Auditor",
+      "Senior IT Auditor",
+      "IT Audit Supervisor",
+      "IT Audit Manager",
+      "Director of Internal Audit",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR65",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL13",
+      "th": "การตรวจสอบ",
+      "en": "Auditing"
+    },
+    "name_en": "Audit Manager",
+    "name_th": "ผู้จัดการฝ่ายตรวจสอบ",
+    "level": 4,
+    "level_label": "Manager",
+    "description_th": "บริหารทีมตรวจสอบ วางแผนการตรวจสอบ และรายงานผลแก่ผู้บริหาร",
+    "description_en": "Manage audit teams, plan audit engagements, and report to management",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์บริหารที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานตรวจสอบ",
+      "ผู้ตรวจสอบบัญชี",
+      "ผู้ตรวจสอบอาวุโส",
+      "ผู้จัดการฝ่ายตรวจสอบ",
+      "ผู้อำนวยการตรวจสอบภายใน",
+      "รองประธานฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Audit Intern",
+      "Auditor",
+      "Senior Auditor",
+      "Audit Manager",
+      "Director of Internal Audit",
+      "VP of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR66",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL14",
+      "th": "การบัญชีภาษี",
+      "en": "Tax Accounting"
+    },
+    "name_en": "Tax Preparer",
+    "name_th": "เจ้าหน้าที่จัดทำภาษี",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "จัดทำเอกสารและยื่นแบบแสดงรายการภาษีตามกำหนดเวลา",
+    "description_en": "Prepare and file tax returns and documents within deadlines",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานภาษี",
+      "เจ้าหน้าที่จัดทำภาษี",
+      "นักบัญชีภาษี",
+      "นักบัญชีภาษีอาวุโส",
+      "ผู้จัดการภาษี",
+      "ผู้อำนวยการภาษี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Tax Intern",
+      "Tax Preparer",
+      "Tax Accountant",
+      "Senior Tax Accountant",
+      "Tax Manager",
+      "Director of Tax",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR67",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL14",
+      "th": "การบัญชีภาษี",
+      "en": "Tax Accounting"
+    },
+    "name_en": "Tax Accountant",
+    "name_th": "นักบัญชีภาษี",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "คำนวณภาษีเงินได้ ภาษีมูลค่าเพิ่ม และจัดทำรายงานภาษี",
+    "description_en": "Calculate income tax, VAT, and prepare tax reports",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 1,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานภาษี",
+      "เจ้าหน้าที่จัดทำภาษี",
+      "นักบัญชีภาษี",
+      "นักบัญชีภาษีอาวุโส",
+      "ผู้จัดการภาษี",
+      "ผู้อำนวยการภาษี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Tax Intern",
+      "Tax Preparer",
+      "Tax Accountant",
+      "Senior Tax Accountant",
+      "Tax Manager",
+      "Director of Tax",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR68",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL14",
+      "th": "การบัญชีภาษี",
+      "en": "Tax Accounting"
+    },
+    "name_en": "Tax Advisor",
+    "name_th": "ที่ปรึกษาภาษี",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ให้คำปรึกษาด้านภาษี วางแผนภาษี และแนะนำโครงสร้างภาษีที่เหมาะสม",
+    "description_en": "Advise on tax planning, optimize structures, and ensure compliance",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 2,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานภาษี",
+      "เจ้าหน้าที่ภาษี",
+      "นักบัญชีภาษี",
+      "ที่ปรึกษาภาษี",
+      "ผู้จัดการภาษี",
+      "ผู้อำนวยการภาษี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Tax Intern",
+      "Tax Clerk",
+      "Tax Accountant",
+      "Tax Advisor",
+      "Tax Manager",
+      "Director of Tax",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR69",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL14",
+      "th": "การบัญชีภาษี",
+      "en": "Tax Accounting"
+    },
+    "name_en": "Transfer Pricing Analyst",
+    "name_th": "นักวิเคราะห์ราคาโอน",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วิเคราะห์ราคาโอนระหว่างบริษัทในเครือ จัดทำเอกสาร และปฏิบัติตามกฎระเบียบ",
+    "description_en": "Analyze intercompany transfer pricing, prepare documentation, and ensure compliance",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานภาษี",
+      "นักวิเคราะห์ราคาโอน",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานราคาโอน",
+      "ผู้จัดการภาษี",
+      "ผู้อำนวยการภาษี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Tax Intern",
+      "Transfer Pricing Analyst",
+      "Senior TP Analyst",
+      "TP Supervisor",
+      "Tax Manager",
+      "Director of Tax",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR70",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL14",
+      "th": "การบัญชีภาษี",
+      "en": "Tax Accounting"
+    },
+    "name_en": "Tax Director",
+    "name_th": "ผู้อำนวยการฝ่ายภาษี",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "บริหารกลยุทธ์ภาษีองค์กร ดูแลทีมภาษี และเป็นตัวแทนต่อหน่วยงานราชการ",
+    "description_en": "Lead enterprise tax strategy, oversee tax teams, and liaise with authorities",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานภาษี",
+      "นักบัญชีภาษี",
+      "นักบัญชีภาษีอาวุโส",
+      "ผู้จัดการภาษี",
+      "ผู้อำนวยการภาษี",
+      "รองประธานฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Tax Intern",
+      "Tax Accountant",
+      "Senior Tax Accountant",
+      "Tax Manager",
+      "Director of Tax",
+      "VP of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR71",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL15",
+      "th": "การเงินองค์กร",
+      "en": "Corporate Finance"
+    },
+    "name_en": "Junior Financial Analyst",
+    "name_th": "นักวิเคราะห์การเงิน Junior",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "วิเคราะห์งบประมาณ ประมาณการทางการเงิน และรายงานผลประกอบการ",
+    "description_en": "Analyze budgets, financial forecasts, and performance reports",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์การเงิน Junior",
+      "นักวิเคราะห์การเงิน",
+      "นักวิเคราะห์อาวุโส",
+      "ผู้จัดการการเงิน",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Junior Financial Analyst",
+      "Financial Analyst",
+      "Senior Financial Analyst",
+      "Finance Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR72",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL15",
+      "th": "การเงินองค์กร",
+      "en": "Corporate Finance"
+    },
+    "name_en": "Treasury Analyst",
+    "name_th": "นักวิเคราะห์คลังเงิน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "บริหารสภาพคล่อง อัตราแลกเปลี่ยน และการลงทุนระยะสั้น",
+    "description_en": "Manage liquidity, foreign exchange, and short-term investments",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานคลังเงิน",
+      "นักวิเคราะห์คลังเงิน",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานคลังเงิน",
+      "ผู้จัดการคลังเงิน",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Treasury Analyst",
+      "Senior Treasury Analyst",
+      "Treasury Supervisor",
+      "Treasury Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR73",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL15",
+      "th": "การเงินองค์กร",
+      "en": "Corporate Finance"
+    },
+    "name_en": "M&A Analyst",
+    "name_th": "นักวิเคราะห์การควบรวมกิจการ",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วิเคราะห์โอกาสการควบรวมกิจการ ประเมินมูลค่า และจัดทำแผนธุรกิจ",
+    "description_en": "Analyze M&A opportunities, perform valuations, and prepare business plans",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 3,
+      "operations": 2,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์การเงิน",
+      "นักวิเคราะห์ M&A",
+      "นักวิเคราะห์อาวุโส",
+      "ผู้จัดการ M&A",
+      "ผู้อำนวยการฝ่ายกลยุทธ์",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Financial Analyst",
+      "M&A Analyst",
+      "Senior M&A Analyst",
+      "M&A Manager",
+      "Director of Strategy",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR74",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL15",
+      "th": "การเงินองค์กร",
+      "en": "Corporate Finance"
+    },
+    "name_en": "Investor Relations Officer",
+    "name_th": "เจ้าหน้าที่สัมพันธ์นักลงทุน",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "สื่อสารข้อมูลทางการเงินแก่นักลงทุน จัดการประชุมผู้ถือหุ้น และดูแลการเปิดเผยข้อมูล",
+    "description_en": "Communicate financial information to investors, manage shareholder meetings, and oversee disclosures",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "เจ้าหน้าที่สัมพันธ์นักลงทุน",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานสัมพันธ์นักลงทุน",
+      "ผู้จัดการสัมพันธ์นักลงทุน",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Investor Relations Officer",
+      "Senior IR Officer",
+      "IR Supervisor",
+      "IR Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR75",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL15",
+      "th": "การเงินองค์กร",
+      "en": "Corporate Finance"
+    },
+    "name_en": "Corporate Finance Director",
+    "name_th": "ผู้อำนวยการฝ่ายการเงินองค์กร",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "บริหารกลยุทธ์การเงินองค์กร การจัดหาเงินทุน และความสัมพันธ์กับนักลงทุน",
+    "description_en": "Lead corporate finance strategy, capital raising, and investor relations",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์การเงิน",
+      "นักวิเคราะห์อาวุโส",
+      "ผู้จัดการการเงิน",
+      "ผู้อำนวยการฝ่ายการเงินองค์กร",
+      "รองประธานฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Financial Analyst",
+      "Senior Analyst",
+      "Finance Manager",
+      "Corporate Finance Director",
+      "VP of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR76",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL16",
+      "th": "การบัญชีดิจิทัล",
+      "en": "Digital Accounting"
+    },
+    "name_en": "Accounting Software Specialist",
+    "name_th": "เจ้าหน้าที่ระบบบัญชีดิจิทัล",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ติดตั้ง ตั้งค่า และดูแลระบบซอฟต์แวร์บัญชีและ ERP",
+    "description_en": "Implement, configure, and maintain accounting software and ERP systems",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "เจ้าหน้าที่ระบบบัญชี",
+      "นักวิเคราะห์ระบบบัญชี",
+      "หัวหน้างานระบบบัญชี",
+      "ผู้จัดการระบบบัญชี",
+      "ผู้อำนวยการเทคโนโลยีการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Accounting Software Specialist",
+      "Accounting Systems Analyst",
+      "Systems Supervisor",
+      "Systems Manager",
+      "Director of Finance Technology",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR77",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL16",
+      "th": "การบัญชีดิจิทัล",
+      "en": "Digital Accounting"
+    },
+    "name_en": "RPA Accountant",
+    "name_th": "นักบัญชีระบบอัตโนมัติ",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ออกแบบและดูแลบอทอัตโนมัติสำหรับงานบัญชี",
+    "description_en": "Design and maintain RPA bots for accounting tasks such as posting and reconciliation",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 5,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "นักบัญชีระบบอัตโนมัติ",
+      "นักบัญชีอาวุโส",
+      "หัวหน้างานระบบอัตโนมัติ",
+      "ผู้จัดการระบบอัตโนมัติ",
+      "ผู้อำนวยการเทคโนโลยีการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "RPA Accountant",
+      "Senior RPA Accountant",
+      "Automation Supervisor",
+      "Automation Manager",
+      "Director of Finance Technology",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR78",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL16",
+      "th": "การบัญชีดิจิทัล",
+      "en": "Digital Accounting"
+    },
+    "name_en": "Blockchain Accounting Analyst",
+    "name_th": "นักวิเคราะห์บัญชีบล็อกเชน",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วิเคราะห์ธุรกรรมบล็อกเชน ตรวจสอบสินทรัพย์ดิจิทัล และจัดทำรายงานตามมาตรฐาน",
+    "description_en": "Analyze blockchain transactions, audit digital assets, and prepare compliant reports",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน",
+      "นักวิเคราะห์บัญชีบล็อกเชน",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานบัญชีบล็อกเชน",
+      "ผู้จัดการบัญชีดิจิทัล",
+      "ผู้อำนวยการเทคโนโลยีการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Intern",
+      "Blockchain Accounting Analyst",
+      "Senior Analyst",
+      "Blockchain Audit Supervisor",
+      "Digital Accounting Manager",
+      "Director of Finance Technology",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR79",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL16",
+      "th": "การบัญชีดิจิทัล",
+      "en": "Digital Accounting"
+    },
+    "name_en": "AI-Powered Audit Analyst",
+    "name_th": "นักวิเคราะห์ตรวจสอบด้วย AI",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ใช้ปัญญาประดิษฐ์เพื่อวิเคราะห์ธุรกรรม ตรวจจับความผิดปกติ และสร้างรายงาน",
+    "description_en": "Apply AI to analyze transactions, detect anomalies, and generate audit reports",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิเคราะห์ตรวจสอบด้วย AI",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานตรวจสอบด้วย AI",
+      "ผู้จัดการตรวจสอบด้วย AI",
+      "ผู้อำนวยการตรวจสอบภายใน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "AI Audit Analyst",
+      "Senior AI Audit Analyst",
+      "AI Audit Supervisor",
+      "AI Audit Manager",
+      "Director of Internal Audit",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR80",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL16",
+      "th": "การบัญชีดิจิทัล",
+      "en": "Digital Accounting"
+    },
+    "name_en": "Chief Digital Finance Officer",
+    "name_th": "ประธานเจ้าหน้าที่ฝ่ายการเงินดิจิทัล",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การเงินดิจิทัล ระบบอัตโนมัติ และนวัตกรรมทางการเงินขององค์กร",
+    "description_en": "Lead digital finance strategy, automation initiatives, and financial innovation",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิเคราะห์การเงิน",
+      "ผู้จัดการระบบดิจิทัล",
+      "ผู้อำนวยการเทคโนโลยีการเงิน",
+      "รองประธานฝ่ายการเงินดิจิทัล",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงินดิจิทัล",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Financial Analyst",
+      "Digital Systems Manager",
+      "Director of Finance Technology",
+      "VP of Digital Finance",
+      "Chief Digital Finance Officer",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR81",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL17",
+      "th": "การจัดการงบประมาณ",
+      "en": "Budget Management"
+    },
+    "name_en": "Budget Analyst",
+    "name_th": "นักวิเคราะห์งบประมาณ",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดทำ ติดตาม และวิเคราะห์งบประมาณขององค์กร",
+    "description_en": "Prepare, monitor, and analyze organizational budgets",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 1,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์งบประมาณ",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานงบประมาณ",
+      "ผู้จัดการงบประมาณ",
+      "ผู้อำนวยการฝ่ายงบประมาณ",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Budget Analyst",
+      "Senior Budget Analyst",
+      "Budget Supervisor",
+      "Budget Manager",
+      "Director of Budgeting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR82",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL17",
+      "th": "การจัดการงบประมาณ",
+      "en": "Budget Management"
+    },
+    "name_en": "Financial Planning Analyst",
+    "name_th": "นักวิเคราะห์การเงินเชิงวางแผน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วางแผนการเงินระยะสั้นและยาว ประมาณการรายได้ และวิเคราะห์สถานการณ์",
+    "description_en": "Perform short/long-range financial planning, revenue forecasting, and scenario analysis",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 3,
+      "operations": 2,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์การเงินเชิงวางแผน",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างาน FP&A",
+      "ผู้จัดการ FP&A",
+      "ผู้อำนวยการฝ่ายงบประมาณ",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "FP&A Analyst",
+      "Senior FP&A Analyst",
+      "FP&A Supervisor",
+      "FP&A Manager",
+      "Director of Budgeting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR83",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL17",
+      "th": "การจัดการงบประมาณ",
+      "en": "Budget Management"
+    },
+    "name_en": "Revenue Budget Controller",
+    "name_th": "เจ้าหน้าที่ควบคุมงบประมาณรายได้",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ควบคุมและตรวจสอบงบประมาณรายได้ เปรียบเทียบผลจริงกับเป้าหมาย",
+    "description_en": "Control and audit revenue budgets, comparing actuals against targets",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "เจ้าหน้าที่ควบคุมงบประมาณรายได้",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานควบคุมงบประมาณ",
+      "ผู้จัดการควบคุมงบประมาณ",
+      "ผู้อำนวยการฝ่ายงบประมาณ",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Revenue Budget Controller",
+      "Senior Controller",
+      "Budget Control Supervisor",
+      "Budget Control Manager",
+      "Director of Budgeting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR84",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL17",
+      "th": "การจัดการงบประมาณ",
+      "en": "Budget Management"
+    },
+    "name_en": "Cost Reduction Specialist",
+    "name_th": "ผู้เชี่ยวชาญการลดต้นทุน",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วิเคราะห์และแนะนำกลยุทธ์การลดต้นทุน ปรับปรุงประสิทธิภาพการใช้จ่าย",
+    "description_en": "Analyze and recommend cost reduction strategies to improve spending efficiency",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "ผู้เชี่ยวชาญการลดต้นทุน",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานลดต้นทุน",
+      "ผู้จัดการลดต้นทุน",
+      "ผู้อำนวยการฝ่ายงบประมาณ",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Cost Reduction Specialist",
+      "Senior Specialist",
+      "Cost Reduction Supervisor",
+      "Cost Reduction Manager",
+      "Director of Budgeting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR85",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL17",
+      "th": "การจัดการงบประมาณ",
+      "en": "Budget Management"
+    },
+    "name_en": "Budget Director",
+    "name_th": "ผู้อำนวยการฝ่ายงบประมาณ",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "บริหารแผนงบประมาณองค์กร นำทีมวิเคราะห์ และรายงานแก่ผู้บริหารระดับสูง",
+    "description_en": "Lead enterprise budgeting, manage analysis teams, and report to senior executives",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์งบประมาณ",
+      "นักวิเคราะห์อาวุโส",
+      "ผู้จัดการงบประมาณ",
+      "ผู้อำนวยการฝ่ายงบประมาณ",
+      "รองประธานฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Budget Analyst",
+      "Senior Analyst",
+      "Budget Manager",
+      "Director of Budgeting",
+      "VP of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR86",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL18",
+      "th": "การวิเคราะห์การเงิน",
+      "en": "Financial Analysis"
+    },
+    "name_en": "Junior Financial Analyst",
+    "name_th": "นักวิเคราะห์การเงินระดับต้น",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "รวบรวมและวิเคราะห์ข้อมูลทางการเงิน จัดทำรายงานผลประกอบการ",
+    "description_en": "Gather and analyze financial data, prepare performance reports",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C13": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์การเงินระดับต้น",
+      "นักวิเคราะห์การเงิน",
+      "นักวิเคราะห์อาวุโส",
+      "ผู้จัดการวิเคราะห์การเงิน",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Junior Financial Analyst",
+      "Financial Analyst",
+      "Senior Analyst",
+      "Financial Analysis Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR87",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL18",
+      "th": "การวิเคราะห์การเงิน",
+      "en": "Financial Analysis"
+    },
+    "name_en": "Investment Analyst",
+    "name_th": "นักวิเคราะห์การลงทุน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วิเคราะห์หลักทรัพย์ ประเมินผลตอบแทน และจัดทำพอร์ตการลงทุน",
+    "description_en": "Analyze securities, evaluate returns, and manage investment portfolios",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 1,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์การลงทุน",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิเคราะห์การลงทุน",
+      "ผู้จัดการวิเคราะห์การลงทุน",
+      "ผู้อำนวยการฝ่ายการลงทุน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Investment Analyst",
+      "Senior Investment Analyst",
+      "Investment Supervisor",
+      "Investment Manager",
+      "Director of Investments",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR88",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL18",
+      "th": "การวิเคราะห์การเงิน",
+      "en": "Financial Analysis"
+    },
+    "name_en": "Credit Analyst",
+    "name_th": "นักวิเคราะห์สินเชื่อ",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ประเมินความเสี่ยงสินเชื่อ วิเคราะห์งบการเงิน และจัดทำรายงานสินเชื่อ",
+    "description_en": "Assess credit risk, analyze financial statements, and prepare credit reports",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์สินเชื่อ",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานสินเชื่อ",
+      "ผู้จัดการสินเชื่อ",
+      "ผู้อำนวยการฝ่ายสินเชื่อ",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Credit Analyst",
+      "Senior Credit Analyst",
+      "Credit Supervisor",
+      "Credit Manager",
+      "Director of Credit",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR89",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL18",
+      "th": "การวิเคราะห์การเงิน",
+      "en": "Financial Analysis"
+    },
+    "name_en": "Risk Modeling Analyst",
+    "name_th": "นักวิเคราะห์แบบจำลองความเสี่ยง",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "สร้างแบบจำลองความเสี่ยงทางการเงิน วิเคราะห์สถานการณ์ และจัดทำรายงาน",
+    "description_en": "Build financial risk models, run scenario analyses, and produce reports",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์แบบจำลองความเสี่ยง",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิเคราะห์ความเสี่ยง",
+      "ผู้จัดการวิเคราะห์ความเสี่ยง",
+      "ผู้อำนวยการฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Risk Modeling Analyst",
+      "Senior Risk Analyst",
+      "Risk Analysis Supervisor",
+      "Risk Analysis Manager",
+      "Director of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR90",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL18",
+      "th": "การวิเคราะห์การเงิน",
+      "en": "Financial Analysis"
+    },
+    "name_en": "Director of Financial Strategy",
+    "name_th": "ผู้อำนวยการฝ่ายกลยุทธ์การเงิน",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การเงินองค์กร วิเคราะห์การลงทุน และแนะนำทิศทางการเงินแก่ผู้บริหาร",
+    "description_en": "Lead corporate financial strategy, analyze investments, and advise executives",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 3,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์การเงิน",
+      "นักวิเคราะห์อาวุโส",
+      "ผู้จัดการการเงิน",
+      "ผู้อำนวยการฝ่ายกลยุทธ์การเงิน",
+      "รองประธานฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Financial Analyst",
+      "Senior Analyst",
+      "Finance Manager",
+      "Director of Financial Strategy",
+      "VP of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR91",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL19",
+      "th": "การบัญชีระหว่างประเทศ",
+      "en": "International Accounting"
+    },
+    "name_en": "International Tax Specialist",
+    "name_th": "ผู้เชี่ยวชาญภาษีระหว่างประเทศ",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วิเคราะห์ภาษีข้ามแดน สนธิสัญญาภาษี และการปฏิบัติตามกฎระเบียบสากล",
+    "description_en": "Analyze cross-border taxes, tax treaties, and international compliance",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานภาษี",
+      "ผู้เชี่ยวชาญภาษีระหว่างประเทศ",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานภาษีระหว่างประเทศ",
+      "ผู้จัดการภาษีระหว่างประเทศ",
+      "ผู้อำนวยการภาษี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Tax Intern",
+      "International Tax Specialist",
+      "Senior Specialist",
+      "International Tax Supervisor",
+      "International Tax Manager",
+      "Director of Tax",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR92",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL19",
+      "th": "การบัญชีระหว่างประเทศ",
+      "en": "International Accounting"
+    },
+    "name_en": "IFRS Reporting Analyst",
+    "name_th": "นักวิเคราะห์รายงาน IFRS",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดทำงบการเงินตามมาตรฐาน IFRS และวิเคราะห์ผลกระทบที่เกี่ยวข้อง",
+    "description_en": "Prepare financial statements under IFRS and analyze related impacts",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 1,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานบัญชี",
+      "นักวิเคราะห์รายงาน IFRS",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานรายงาน IFRS",
+      "ผู้จัดการรายงาน IFRS",
+      "ผู้อำนวยการฝ่ายบัญชี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Accounting Intern",
+      "IFRS Reporting Analyst",
+      "Senior Analyst",
+      "IFRS Reporting Supervisor",
+      "IFRS Reporting Manager",
+      "Director of Accounting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR93",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL19",
+      "th": "การบัญชีระหว่างประเทศ",
+      "en": "International Accounting"
+    },
+    "name_en": "Cross-Border Compliance Officer",
+    "name_th": "เจ้าหน้าที่ปฏิบัติตามกฎระเบียบข้ามแดน",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ตรวจสอบและปฏิบัติตามกฎระเบียบการเงินระหว่างประเทศและกฎหมายภาษีข้ามแดน",
+    "description_en": "Ensure compliance with international financial regulations and cross-border tax laws",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานกฎหมาย",
+      "เจ้าหน้าที่ปฏิบัติตามกฎระเบียบข้ามแดน",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานปฏิบัติตามกฎระเบียบ",
+      "ผู้จัดการปฏิบัติตามกฎระเบียบ",
+      "ผู้อำนวยการฝ่ายปฏิบัติตามกฎระเบียบ",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Legal Intern",
+      "Cross-Border Compliance Officer",
+      "Senior Compliance Officer",
+      "Compliance Supervisor",
+      "Compliance Manager",
+      "Director of Compliance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR94",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL19",
+      "th": "การบัญชีระหว่างประเทศ",
+      "en": "International Accounting"
+    },
+    "name_en": "Foreign Currency Accountant",
+    "name_th": "นักบัญชีเงินตราต่างประเทศ",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดทำบัญชีธุรกรรมเงินตราต่างประเทศ แปลงสกุลเงิน และกระทบยอด",
+    "description_en": "Account for foreign currency transactions, perform conversions, and reconcile",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานบัญชี",
+      "นักบัญชีเงินตราต่างประเทศ",
+      "นักบัญชีอาวุโส",
+      "หัวหน้างานบัญชีเงินตราต่างประเทศ",
+      "ผู้จัดการบัญชีระหว่างประเทศ",
+      "ผู้อำนวยการฝ่ายบัญชี",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Accounting Intern",
+      "Foreign Currency Accountant",
+      "Senior Accountant",
+      "FX Accounting Supervisor",
+      "International Accounting Manager",
+      "Director of Accounting",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR95",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL19",
+      "th": "การบัญชีระหว่างประเทศ",
+      "en": "International Accounting"
+    },
+    "name_en": "VP of International Finance",
+    "name_th": "รองประธานฝ่ายการเงินระหว่างประเทศ",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "บริหารการเงินระหว่างประเทศ การปฏิบัติตามกฎระเบียบ และกลยุทธ์ข้ามแดน",
+    "description_en": "Lead international finance, compliance, and cross-border strategy",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการเงิน",
+      "นักวิเคราะห์การเงิน",
+      "ผู้จัดการการเงินระหว่างประเทศ",
+      "ผู้อำนวยการฝ่ายการเงินระหว่างประเทศ",
+      "รองประธานฝ่ายการเงินระหว่างประเทศ",
+      "รองประธานฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Finance Intern",
+      "Financial Analyst",
+      "International Finance Manager",
+      "Director of International Finance",
+      "VP of International Finance",
+      "VP of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR96",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL20",
+      "th": "การบริหารความเสี่ยง",
+      "en": "Risk Management"
+    },
+    "name_en": "Risk Analyst",
+    "name_th": "นักวิเคราะห์ความเสี่ยง",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ระบุ ประเมิน และจัดทำรายงานความเสี่ยงทางการเงินและการดำเนินงาน",
+    "description_en": "Identify, assess, and report financial and operational risks",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานความเสี่ยง",
+      "นักวิเคราะห์ความเสี่ยง",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานความเสี่ยง",
+      "ผู้จัดการความเสี่ยง",
+      "ผู้อำนวยการฝ่ายความเสี่ยง",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Risk Intern",
+      "Risk Analyst",
+      "Senior Risk Analyst",
+      "Risk Supervisor",
+      "Risk Manager",
+      "Director of Risk",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR97",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL20",
+      "th": "การบริหารความเสี่ยง",
+      "en": "Risk Management"
+    },
+    "name_en": "Compliance Officer",
+    "name_th": "เจ้าหน้าที่ปฏิบัติตามกฎระเบียบ",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ตรวจสอบการปฏิบัติตามกฎหมายและกฎระเบียบทางการเงิน จัดทำรายงาน",
+    "description_en": "Monitor compliance with financial laws and regulations, prepare reports",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานกฎหมาย",
+      "เจ้าหน้าที่ปฏิบัติตามกฎระเบียบ",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานปฏิบัติตามกฎระเบียบ",
+      "ผู้จัดการปฏิบัติตามกฎระเบียบ",
+      "ผู้อำนวยการฝ่ายปฏิบัติตามกฎระเบียบ",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Legal Intern",
+      "Compliance Officer",
+      "Senior Compliance Officer",
+      "Compliance Supervisor",
+      "Compliance Manager",
+      "Director of Compliance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR98",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL20",
+      "th": "การบริหารความเสี่ยง",
+      "en": "Risk Management"
+    },
+    "name_en": "Fraud Examiner",
+    "name_th": "ผู้ตรวจจับการทุจริต",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "สอบสวนการทุจริต วิเคราะห์ธุรกรรมผิดปกติ และจัดทำรายงานการตรวจสอบ",
+    "description_en": "Investigate fraud, analyze unusual transactions, and prepare audit reports",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานตรวจสอบ",
+      "ผู้ตรวจจับการทุจริต",
+      "ผู้ตรวจจับอาวุโส",
+      "หัวหน้างานตรวจสอบการทุจริต",
+      "ผู้จัดการตรวจสอบการทุจริต",
+      "ผู้อำนวยการฝ่ายตรวจสอบ",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Audit Intern",
+      "Fraud Examiner",
+      "Senior Fraud Examiner",
+      "Fraud Investigation Supervisor",
+      "Fraud Investigation Manager",
+      "Director of Audit",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR99",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL20",
+      "th": "การบริหารความเสี่ยง",
+      "en": "Risk Management"
+    },
+    "name_en": "Operational Risk Manager",
+    "name_th": "ผู้จัดการความเสี่ยงเชิงปฏิบัติการ",
+    "level": 4,
+    "level_label": "Manager",
+    "description_th": "บริหารความเสี่ยงเชิงปฏิบัติการ ออกแบบการควบคุม และติดตามสถานการณ์เสี่ยง",
+    "description_en": "Manage operational risks, design controls, and monitor risk situations",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์บริหารที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 3,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 2,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานความเสี่ยง",
+      "นักวิเคราะห์ความเสี่ยง",
+      "ผู้เชี่ยวชาญความเสี่ยง",
+      "ผู้จัดการความเสี่ยงเชิงปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายความเสี่ยง",
+      "รองประธานฝ่ายการเงิน",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Risk Intern",
+      "Risk Analyst",
+      "Risk Specialist",
+      "Operational Risk Manager",
+      "Director of Risk",
+      "VP of Finance",
+      "Chief Financial Officer"
+    ]
+  },
+  {
+    "id": "CR100",
+    "program": "ACC",
+    "cluster": {
+      "id": "CL20",
+      "th": "การบริหารความเสี่ยง",
+      "en": "Risk Management"
+    },
+    "name_en": "Chief Risk Officer",
+    "name_th": "ประธานเจ้าหน้าที่ฝ่ายความเสี่ยง",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การบริหารความเสี่ยงองค์กร ดูแลทีม และรายงานแก่คณะกรรมการ",
+    "description_en": "Lead enterprise risk strategy, oversee risk teams, and report to the board",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานความเสี่ยง",
+      "นักวิเคราะห์ความเสี่ยง",
+      "ผู้จัดการความเสี่ยง",
+      "ผู้อำนวยการฝ่ายความเสี่ยง",
+      "รองประธานฝ่ายความเสี่ยง",
+      "ประธานเจ้าหน้าที่ฝ่ายความเสี่ยง",
+      "ประธานเจ้าหน้าที่ฝ่ายการเงิน"
+    ],
+    "roadmap_en": [
+      "Student / Risk Intern",
+      "Risk Analyst",
+      "Risk Manager",
+      "Director of Risk",
+      "VP of Risk",
+      "Chief Risk Officer",
+      "Chief Financial Officer"
+    ]
+  }
+]

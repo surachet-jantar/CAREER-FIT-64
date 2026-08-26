@@ -1,0 +1,31 @@
+{
+  "title_th": "หลักสูตร 6 สาขา",
+  "title_en": "6 Programs",
+  "sections": [
+    {
+      "heading_th": "ภาพรวม",
+      "heading_en": "Overview",
+      "body_th": "CAREER-FIT 64 รองรับ <strong>6 หลักสูตร</strong> แต่ละหลักสูตรมีชุดอาชีพ 50 ตำแหน่งที่คัดสรรมาเฉพาะสาขา คุณเลือกหลักสูตรก่อนเริ่มทำแบบประเมิน ระบบจะปรับอันดับอาชีพให้เหมาะกับสาขาของคุณ",
+      "body_en": "CAREER-FIT 64 supports <strong>6 programs</strong>. Each program has a curated set of 50 careers specific to that field. You pick your program before starting the assessment, and the system tailors career rankings to your field."
+    },
+    {
+      "heading_th": "หลักสูตรทั้ง 6",
+      "heading_en": "All 6 Programs",
+      "body_th": "<div class='wiki-cards'><div class='wiki-card'><strong>📦 โลจิสติกส์ (LOG)</strong><div class='muted'>สำรวจอาชีพในสายโลจิสติกส์ ซัพพลายเชน และการจัดการคลังสินค้า</div></div><div class='wiki-card'><strong>📒 การบัญชี (ACC)</strong><div class='muted'>สำรวจอาชีพในสายบัญชี การเงิน และการตรวจสอบ</div></div><div class='wiki-card'><strong>📢 การตลาด (MKT)</strong><div class='muted'>สำรวจอาชีพในสายการตลาด ดิจิทัล และการสื่อสารแบรนด์</div></div><div class='wiki-card'><strong>💻 คอมพิวเตอร์ (IT)</strong><div class='muted'>สำรวจอาชีพในสายเทคโนโลยีสารสนเทศ การพัฒนาซอฟต์แวร์ และดิจิทัล</div></div><div class='wiki-card'><strong>🏨 การโรงแรม (HOS)</strong><div class='muted'>สำรวจอาชีพในสายโรงแรม รีสอร์ท และการบริการ</div></div><div class='wiki-card'><strong>✈️ การท่องเที่ยว (TRV)</strong><div class='muted'>สำรวจอาชีพในสายการท่องเที่ยว ทัวร์ และสันทนาการ</div></div></div>",
+      "body_en": "<div class='wiki-cards'><div class='wiki-card'><strong>📦 Logistics (LOG)</strong><div class='muted'>Explore careers in logistics, supply chain, and warehouse management</div></div><div class='wiki-card'><strong>📒 Accounting (ACC)</strong><div class='muted'>Explore careers in accounting, finance, and auditing</div></div><div class='wiki-card'><strong>📢 Marketing (MKT)</strong><div class='muted'>Explore careers in marketing, digital, and brand communication</div></div><div class='wiki-card'><strong>💻 Computers & IT (IT)</strong><div class='muted'>Explore careers in IT, software development, and digital technology</div></div><div class='wiki-card'><strong>🏨 Hospitality (HOS)</strong><div class='muted'>Explore careers in hotels, resorts, and hospitality services</div></div><div class='wiki-card'><strong>✈️ Tourism (TRV)</strong><div class='muted'>Explore careers in tourism, tours, and recreation</div></div></div>"
+    },
+    {
+      "heading_th": "โปรแกรมบูสต์ (Program Boost)",
+      "heading_en": "Program Boost",
+      "body_th": "เมื่อคุณเลือกหลักสูตร อาชีพในหลักสูตรเดียวกันจะได้รับตัวคูณ <strong>×1.06</strong> (สูงสุด 100%) เพื่อจัดอันดับให้สูงขึ้น ตัวอย่าง: ถ้าคุณเลือกหลักสูตร IT อาชีพ \"Data Analyst\" จะได้คะแนนสูงขึ้นเล็กน้อย แต่อาชีพ \"Data Analyst\" ในหลักสูตรอื่นก็ยังคงปรากฏในผลลัพธ์",
+      "body_en": "When you choose a program, careers within that program get a <strong>×1.06 multiplier</strong> (capped at 100%) to rank slightly higher. Example: if you pick IT, \"Data Analyst\" in the IT set ranks a bit higher — but the same career in other programs still appears in your results."
+    },
+    {
+      "heading_th": "อาชีพข้ามหลักสูตร",
+      "heading_en": "Cross-Program Careers",
+      "body_th": "อาชีพบางตำแหน่งอาจปรากฏในหลายหลักสูตร เช่น \"Data Analyst\" อยู่ในทั้ง IT และบัญชี แต่ละหลักสูตรมีบริบทเฉพาะของตัวเอง (เส้นทางอาชีพ คำอธิบาย แผนพัฒนา) ไม่มีระบบ cross-reference ระหว่างหลักสูตร",
+      "body_en": "Some careers appear in multiple programs — e.g., \"Data Analyst\" exists in both IT and Accounting. Each program has its own context (roadmap, description, development plan) for that career. There's no cross-referencing between programs."
+    }
+  ],
+  "related": ["how-it-works", "the-64-profiles", "competencies"]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "code": "LOG",
+    "name_th": "โลจิสติกส์",
+    "name_en": "Logistics",
+    "desc_th": "สำรวจอาชีพในสายโลจิสติกส์ ซัพพลายเชน และการจัดการคลังสินค้า",
+    "desc_en": "Explore careers in logistics, supply chain, and warehouse management"
+  },
+  {
+    "code": "ACC",
+    "name_th": "การบัญชี",
+    "name_en": "Accounting",
+    "desc_th": "สำรวจอาชีพในสายบัญชี การเงิน และการตรวจสอบ",
+    "desc_en": "Explore careers in accounting, finance, and auditing"
+  },
+  {
+    "code": "MKT",
+    "name_th": "การตลาด",
+    "name_en": "Marketing",
+    "desc_th": "สำรวจอาชีพในสายการตลาด ดิจิทัล และการสื่อสารแบรนด์",
+    "desc_en": "Explore careers in marketing, digital, and brand communication"
+  },
+  {
+    "code": "IT",
+    "name_th": "คอมพิวเตอร์",
+    "name_en": "Computers & IT",
+    "desc_th": "สำรวจอาชีพในสายเทคโนโลยีสารสนเทศ การพัฒนาซอฟต์แวร์ และดิจิทัล",
+    "desc_en": "Explore careers in IT, software development, and digital technology"
+  },
+  {
+    "code": "HOS",
+    "name_th": "การโรงแรม",
+    "name_en": "Hospitality",
+    "desc_th": "สำรวจอาชีพในสายโรงแรม รีสอร์ท และการบริการ",
+    "desc_en": "Explore careers in hotels, resorts, and hospitality services"
+  },
+  {
+    "code": "TRV",
+    "name_th": "การท่องเที่ยว",
+    "name_en": "Tourism",
+    "desc_th": "สำรวจอาชีพในสายการท่องเที่ยว ทัวร์ และสันทนาการ",
+    "desc_en": "Explore careers in tourism, tours, and recreation"
+  }
+]

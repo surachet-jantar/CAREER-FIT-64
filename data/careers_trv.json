@@ -1,0 +1,5452 @@
+[
+  {
+    "id": "CR251",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL51",
+      "th": "การนำเที่ยว",
+      "en": "Tour Guiding"
+    },
+    "name_en": "Tour Guide Trainee",
+    "name_th": "นักศึกษาฝึกนำเที่ยว",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ฝึกนำเที่ยว ให้ข้อมูลสถานที่ และดูแลนักท่องเที่ยว",
+    "description_en": "Train in guiding, provide site information, and care for tourists",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานนำเที่ยว",
+      "นักศึกษาฝึกนำเที่ยว",
+      "มัคคุเทศก์",
+      "มัคคุเทศก์อาวุโส",
+      "หัวหน้างานนำเที่ยว",
+      "ผู้จัดการนำเที่ยว",
+      "ผู้อำนวยการฝ่ายนำเที่ยว"
+    ],
+    "roadmap_en": [
+      "Student / Tour Intern",
+      "Tour Guide Trainee",
+      "Tour Guide",
+      "Senior Tour Guide",
+      "Tour Supervisor",
+      "Tour Manager",
+      "Director of Tour Operations"
+    ]
+  },
+  {
+    "id": "CR252",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL51",
+      "th": "การนำเที่ยว",
+      "en": "Tour Guiding"
+    },
+    "name_en": "Licensed Tour Guide",
+    "name_th": "มัคคุเทศก์Licensed",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "นำเที่ยวตามเส้นทาง ให้ข้อมูลวัฒนธรรม และดูแลความปลอดภัย",
+    "description_en": "Guide tourists on routes, provide cultural info, and ensure safety",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานนำเที่ยว",
+      "มัคคุเทศก์ Licensed",
+      "มัคคุเทศก์อาวุโส",
+      "หัวหน้างานนำเที่ยว",
+      "ผู้จัดการนำเที่ยว",
+      "ผู้อำนวยการฝ่ายนำเที่ยว",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Tour Intern",
+      "Licensed Tour Guide",
+      "Senior Tour Guide",
+      "Tour Supervisor",
+      "Tour Manager",
+      "Director of Tour Operations",
+      "Director of Operations"
+    ]
+  },
+  {
+    "id": "CR253",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL51",
+      "th": "การนำเที่ยว",
+      "en": "Tour Guiding"
+    },
+    "name_en": "Specialized Tour Guide",
+    "name_th": "มัคคุเทศก์เฉพาะทาง",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "นำเที่ยวเฉพาะทาง เช่น อาหาร ศิลปะ หรือผจญภัย",
+    "description_en": "Specialized tours in niche areas like food, art, or adventure",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานนำเที่ยว",
+      "มัคคุเทศก์เฉพาะทาง",
+      "มัคคุเทศก์อาวุโส",
+      "หัวหน้างานนำเที่ยว",
+      "ผู้จัดการนำเที่ยว",
+      "ผู้อำนวยการฝ่ายนำเที่ยว",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Tour Intern",
+      "Specialized Tour Guide",
+      "Senior Specialist Guide",
+      "Tour Supervisor",
+      "Tour Manager",
+      "Director of Tour Operations",
+      "Director of Operations"
+    ]
+  },
+  {
+    "id": "CR254",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL51",
+      "th": "การนำเที่ยว",
+      "en": "Tour Guiding"
+    },
+    "name_en": "Tour Coordinator",
+    "name_th": "เจ้าหน้าที่ประสานงานทัวร์",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดการโปรแกรมทัวร์ ติดต่อซัพพลายเออร์ และดูแลลูกค้า",
+    "description_en": "Manage tour programs, contact suppliers, and attend to clients",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานนำเที่ยว",
+      "เจ้าหน้าที่ประสานงานทัวร์",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานประสานงาน",
+      "ผู้จัดการประสานงาน",
+      "ผู้อำนวยการฝ่ายนำเที่ยว",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Tour Intern",
+      "Tour Coordinator",
+      "Senior Tour Coordinator",
+      "Tour Supervisor",
+      "Tour Manager",
+      "Director of Tour Operations",
+      "Director of Operations"
+    ]
+  },
+  {
+    "id": "CR255",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL51",
+      "th": "การนำเที่ยว",
+      "en": "Tour Guiding"
+    },
+    "name_en": "Director of Tour Operations",
+    "name_th": "ผู้อำนวยการฝ่ายนำเที่ยว",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ฝ่ายนำเที่ยว จัดการทีม และพัฒนาเส้นทาง",
+    "description_en": "Lead tour strategy, manage teams, and develop routes",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานนำเที่ยว",
+      "มัคคุเทศก์",
+      "ผู้จัดการนำเที่ยว",
+      "ผู้อำนวยการฝ่ายนำเที่ยว",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Tour Intern",
+      "Tour Guide",
+      "Tour Manager",
+      "Director of Tour Operations",
+      "Operations Manager",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR256",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL52",
+      "th": "การจัดการทัวร์",
+      "en": "Tour Operations"
+    },
+    "name_en": "Tour Operator Assistant",
+    "name_th": "ผู้ช่วยผู้จัดการทัวร์",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "จัดการรายละเอียดทัวร์ ติดต่อซัพพลายเออร์ และจัดการเอกสาร",
+    "description_en": "Manage tour details, contact suppliers, and handle documents",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานทัวร์",
+      "ผู้ช่วยผู้จัดการทัวร์",
+      "เจ้าหน้าที่ทัวร์",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานทัวร์",
+      "ผู้จัดการทัวร์",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Tour Intern",
+      "Tour Operator Assistant",
+      "Tour Operator",
+      "Senior Tour Operator",
+      "Tour Supervisor",
+      "Tour Manager",
+      "Director of Operations"
+    ]
+  },
+  {
+    "id": "CR257",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL52",
+      "th": "การจัดการทัวร์",
+      "en": "Tour Operations"
+    },
+    "name_en": "Tour Product Developer",
+    "name_th": "นักพัฒนาผลิตภัณฑ์ทัวร์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ออกแบบและพัฒนาโปรแกรมทัวร์ใหม่ วิเคราะห์ตลาด และตั้งราคา",
+    "description_en": "Design and develop new tour programs, analyze markets, and set pricing",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 3,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 2,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานทัวร์",
+      "เจ้าหน้าที่ทัวร์",
+      "นักพัฒนาผลิตภัณฑ์ทัวร์",
+      "หัวหน้างานพัฒนา",
+      "ผู้จัดการพัฒนา",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Tour Intern",
+      "Tour Operator",
+      "Tour Product Developer",
+      "Product Development Supervisor",
+      "Product Development Manager",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR258",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL52",
+      "th": "การจัดการทัวร์",
+      "en": "Tour Operations"
+    },
+    "name_en": "Tour Sales Executive",
+    "name_th": "เจ้าหน้าที่ขายทัวร์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ขายโปรแกรมทัวร์ จัดการลูกค้า และเพิ่มยอดขาย",
+    "description_en": "Sell tour programs, manage clients, and increase sales",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 5,
+        "weight": 1
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานขาย",
+      "เจ้าหน้าที่ขายทัวร์",
+      "เจ้าหน้าที่ขายอาวุโส",
+      "หัวหน้างานขาย",
+      "ผู้จัดการขาย",
+      "ผู้อำนวยการฝ่ายขาย",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Sales Intern",
+      "Tour Sales Executive",
+      "Senior Sales Executive",
+      "Sales Supervisor",
+      "Sales Manager",
+      "Director of Sales",
+      "Director of Operations"
+    ]
+  },
+  {
+    "id": "CR259",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL52",
+      "th": "การจัดการทัวร์",
+      "en": "Tour Operations"
+    },
+    "name_en": "Tour Operations Manager",
+    "name_th": "ผู้จัดการฝ่ายปฏิบัติการทัวร์",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "บริหารฝ่ายปฏิบัติการทัวร์ จัดการทีม และดูแลคุณภาพ",
+    "description_en": "Manage tour operations, teams, and quality",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานทัวร์",
+      "เจ้าหน้าที่ทัวร์",
+      "ผู้จัดการฝ่ายปฏิบัติการทัวร์",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Tour Intern",
+      "Tour Operator",
+      "Tour Operations Manager",
+      "Senior Operations Manager",
+      "Operations Supervisor",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR260",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL52",
+      "th": "การจัดการทัวร์",
+      "en": "Tour Operations"
+    },
+    "name_en": "Director of Tour Operations",
+    "name_th": "ผู้อำนวยการฝ่ายปฏิบัติการทัวร์",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ฝ่ายปฏิบัติการทัวร์ จัดการทีม และพัฒนาธุรกิจ",
+    "description_en": "Lead tour operations strategy, manage teams, and develop business",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานทัวร์",
+      "เจ้าหน้าที่ทัวร์",
+      "ผู้จัดการฝ่ายปฏิบัติการทัวร์",
+      "ผู้อำนวยการฝ่ายปฏิบัติการทัวร์",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Tour Intern",
+      "Tour Operator",
+      "Tour Operations Manager",
+      "Director of Tour Operations",
+      "Operations Manager",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR261",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL53",
+      "th": "การท่องเที่ยวเชิงนิเวศ",
+      "en": "Ecotourism"
+    },
+    "name_en": "Eco-Tour Guide",
+    "name_th": "มัคคุเทศก์ eco-tourism",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "นำเที่ยวเชิงนิเวศ ให้ความรู้ธรรมชาติ และดูแลสิ่งแวดล้อม",
+    "description_en": "Guide eco-tours, educate on nature, and protect the environment",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C01": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน eco-tourism",
+      "มัคคุเทศก์ eco-tourism",
+      "มัคคุเทศก์อาวุโส",
+      "หัวหน้างาน eco-tourism",
+      "ผู้จัดการ eco-tourism",
+      "ผู้อำนวยการฝ่าย eco-tourism",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Eco Intern",
+      "Eco-Tour Guide",
+      "Senior Eco Guide",
+      "Eco Tour Supervisor",
+      "Eco Tour Manager",
+      "Director of Ecotourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR262",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL53",
+      "th": "การท่องเที่ยวเชิงนิเวศ",
+      "en": "Ecotourism"
+    },
+    "name_en": "Conservation Coordinator",
+    "name_th": "เจ้าหน้าที่อนุรักษ์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการโครงการอนุรักษ์ ดูแลพื้นที่ และให้ความรู้ชุมชน",
+    "description_en": "Manage conservation projects, oversee areas, and educate communities",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 5,
+        "weight": 1
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานอนุรักษ์",
+      "เจ้าหน้าที่อนุรักษ์",
+      "เจ้าหน้าที่อนุรักษ์อาวุโส",
+      "หัวหน้างานอนุรักษ์",
+      "ผู้จัดการอนุรักษ์",
+      "ผู้อำนวยการฝ่าย eco-tourism",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Conservation Intern",
+      "Conservation Coordinator",
+      "Senior Conservation Coordinator",
+      "Conservation Supervisor",
+      "Conservation Manager",
+      "Director of Ecotourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR263",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL53",
+      "th": "การท่องเที่ยวเชิงนิเวศ",
+      "en": "Ecotourism"
+    },
+    "name_en": "Community Engagement Officer",
+    "name_th": "เจ้าหน้าที่มีส่วนร่วมชุมชน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "สร้างความสัมพันธ์กับชุมชน จัดการโครงการชุมชน และส่งเสริมการท่องเที่ยว",
+    "description_en": "Build community relationships, manage community projects, and promote tourism",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานชุมชน",
+      "เจ้าหน้าที่มีส่วนร่วมชุมชน",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานชุมชน",
+      "ผู้จัดการชุมชน",
+      "ผู้อำนวยการฝ่าย eco-tourism",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Community Intern",
+      "Community Engagement Officer",
+      "Senior Community Officer",
+      "Community Supervisor",
+      "Community Manager",
+      "Director of Ecotourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR264",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL53",
+      "th": "การท่องเที่ยวเชิงนิเวศ",
+      "en": "Ecotourism"
+    },
+    "name_en": "Eco-Tourism Program Manager",
+    "name_th": "ผู้จัดการโปรแกรม eco-tourism",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบและจัดการโปรแกรม eco-tourism วัดผลผลกระทบ",
+    "description_en": "Design and manage eco-tourism programs, measure impacts",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน eco-tourism",
+      "เจ้าหน้าที่ eco-tourism",
+      "ผู้จัดการโปรแกรม eco-tourism",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างาน eco-tourism",
+      "ผู้อำนวยการฝ่าย eco-tourism",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Eco Intern",
+      "Eco-Tourism Staff",
+      "Eco-Tourism Program Manager",
+      "Senior Program Manager",
+      "Program Supervisor",
+      "Director of Ecotourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR265",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL53",
+      "th": "การท่องเที่ยวเชิงนิเวศ",
+      "en": "Ecotourism"
+    },
+    "name_en": "Director of Ecotourism",
+    "name_th": "ผู้อำนวยการฝ่าย eco-tourism",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ eco-tourism จัดการทีม และพัฒนาโครงการอนุรักษ์",
+    "description_en": "Lead ecotourism strategy, manage teams, and develop conservation projects",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน eco-tourism",
+      "เจ้าหน้าที่ eco-tourism",
+      "ผู้จัดการ eco-tourism",
+      "ผู้อำนวยการฝ่าย eco-tourism",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Eco Intern",
+      "Eco-Tourism Staff",
+      "Eco-Tourism Manager",
+      "Director of Ecotourism",
+      "Operations Manager",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR266",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL54",
+      "th": "การท่องเที่ยวเชิงวัฒนธรรม",
+      "en": "Cultural Tourism"
+    },
+    "name_en": "Cultural Tour Guide",
+    "name_th": "มัคคุเทศก์วัฒนธรรม",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "นำเที่ยวเชิงวัฒนธรรม ให้ข้อมูลประวัติศาสตร์และวัฒนธรรม",
+    "description_en": "Guide cultural tours, provide historical and cultural information",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวัฒนธรรม",
+      "มัคคุเทศก์วัฒนธรรม",
+      "มัคคุเทศก์อาวุโส",
+      "หัวหน้างานวัฒนธรรม",
+      "ผู้จัดการวัฒนธรรม",
+      "ผู้อำนวยการฝ่ายวัฒนธรรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Culture Intern",
+      "Cultural Tour Guide",
+      "Senior Cultural Guide",
+      "Cultural Tour Supervisor",
+      "Cultural Tour Manager",
+      "Director of Cultural Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR267",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL54",
+      "th": "การท่องเที่ยวเชิงวัฒนธรรม",
+      "en": "Cultural Tourism"
+    },
+    "name_en": "Heritage Site Interpreter",
+    "name_th": "ผู้แปลแหล่งมรดก",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ให้ข้อมูลและแปลความหมายแหล่งมรดกทางวัฒนธรรม",
+    "description_en": "Interpret and explain cultural heritage sites",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวัฒนธรรม",
+      "ผู้แปลแหล่งมรดก",
+      "ผู้แปลอาวุโส",
+      "หัวหน้างานมรดก",
+      "ผู้จัดการมรดก",
+      "ผู้อำนวยการฝ่ายวัฒนธรรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Heritage Intern",
+      "Heritage Site Interpreter",
+      "Senior Heritage Interpreter",
+      "Heritage Supervisor",
+      "Heritage Manager",
+      "Director of Cultural Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR268",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL54",
+      "th": "การท่องเที่ยวเชิงวัฒนธรรม",
+      "en": "Cultural Tourism"
+    },
+    "name_en": "Museum Education Officer",
+    "name_th": "เจ้าหน้าที่การศึกษาพิพิธภัณฑ์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการโปรแกรมการศึกษาพิพิธภัณฑ์ กิจกรรม และนิทรรศการ",
+    "description_en": "Manage museum education programs, activities, and exhibitions",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 3,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานพิพิธภัณฑ์",
+      "เจ้าหน้าที่การศึกษาพิพิธภัณฑ์",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานการศึกษา",
+      "ผู้จัดการการศึกษา",
+      "ผู้อำนวยการฝ่ายวัฒนธรรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Museum Intern",
+      "Museum Education Officer",
+      "Senior Education Officer",
+      "Education Supervisor",
+      "Education Manager",
+      "Director of Cultural Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR269",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL54",
+      "th": "การท่องเที่ยวเชิงวัฒนธรรม",
+      "en": "Cultural Tourism"
+    },
+    "name_en": "Cultural Experience Designer",
+    "name_th": "นักออกแบบประสบการณ์วัฒนธรรม",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบและจัดการประสบการณ์วัฒนธรรมท้องถิ่น",
+    "description_en": "Design and manage local cultural experiences",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวัฒนธรรม",
+      "เจ้าหน้าที่วัฒนธรรม",
+      "นักออกแบบประสบการณ์วัฒนธรรม",
+      "หัวหน้างานออกแบบ",
+      "ผู้จัดการออกแบบ",
+      "ผู้อำนวยการฝ่ายวัฒนธรรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Culture Intern",
+      "Cultural Staff",
+      "Cultural Experience Designer",
+      "Design Supervisor",
+      "Design Manager",
+      "Director of Cultural Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR270",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL54",
+      "th": "การท่องเที่ยวเชิงวัฒนธรรม",
+      "en": "Cultural Tourism"
+    },
+    "name_en": "Director of Cultural Tourism",
+    "name_th": "ผู้อำนวยการฝ่ายการท่องเที่ยวเชิงวัฒนธรรม",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การท่องเที่ยวเชิงวัฒนธรรม จัดการทีม และพัฒนาโครงการ",
+    "description_en": "Lead cultural tourism strategy, manage teams, and develop projects",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวัฒนธรรม",
+      "เจ้าหน้าที่วัฒนธรรม",
+      "ผู้จัดการวัฒนธรรม",
+      "ผู้อำนวยการฝ่ายการท่องเที่ยวเชิงวัฒนธรรม",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Culture Intern",
+      "Cultural Staff",
+      "Cultural Manager",
+      "Director of Cultural Tourism",
+      "Operations Manager",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR271",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL55",
+      "th": "การท่องเที่ยวเชิงผจญภัย",
+      "en": "Adventure Tourism"
+    },
+    "name_en": "Adventure Tour Guide",
+    "name_th": "มัคคุเทศก์ผจญภัย",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "นำเที่ยวเชิงผจญภัย ดูแลความปลอดภัย และให้คำแนะนำ",
+    "description_en": "Guide adventure tours, ensure safety, and provide instructions",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C01": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานผจญภัย",
+      "มัคคุเทศก์ผจญภัย",
+      "มัคคุเทศก์อาวุโส",
+      "หัวหน้างานผจญภัย",
+      "ผู้จัดการผจญภัย",
+      "ผู้อำนวยการฝ่ายผจญภัย",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Adventure Intern",
+      "Adventure Tour Guide",
+      "Senior Adventure Guide",
+      "Adventure Tour Supervisor",
+      "Adventure Tour Manager",
+      "Director of Adventure Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR272",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL55",
+      "th": "การท่องเที่ยวเชิงผจญภัย",
+      "en": "Adventure Tourism"
+    },
+    "name_en": "Safety Officer",
+    "name_th": "เจ้าหน้าที่ความปลอดภัย",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ดูแลความปลอดภัยกิจกรรมผจญภัย จัดการอุปกรณ์ และฝึกอบรม",
+    "description_en": "Oversee adventure safety, manage equipment, and train staff",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 5,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานความปลอดภัย",
+      "เจ้าหน้าที่ความปลอดภัย",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานความปลอดภัย",
+      "ผู้จัดการความปลอดภัย",
+      "ผู้อำนวยการฝ่ายผจญภัย",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Safety Intern",
+      "Safety Officer",
+      "Senior Safety Officer",
+      "Safety Supervisor",
+      "Safety Manager",
+      "Director of Adventure Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR273",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL55",
+      "th": "การท่องเที่ยวเชิงผจญภัย",
+      "en": "Adventure Tourism"
+    },
+    "name_en": "Equipment Manager",
+    "name_th": "ผู้จัดการอุปกรณ์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ดูแลและซ่อมบำรุงอุปกรณ์ผจญภัย จัดการสินค้าคงคลัง",
+    "description_en": "Maintain adventure equipment, manage inventory",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานผจญภัย",
+      "เจ้าหน้าที่อุปกรณ์",
+      "ผู้จัดการอุปกรณ์",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานอุปกรณ์",
+      "ผู้อำนวยการฝ่ายผจญภัย",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Adventure Intern",
+      "Equipment Staff",
+      "Equipment Manager",
+      "Senior Equipment Manager",
+      "Equipment Supervisor",
+      "Director of Adventure Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR274",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL55",
+      "th": "การท่องเที่ยวเชิงผจญภัย",
+      "en": "Adventure Tourism"
+    },
+    "name_en": "Adventure Program Manager",
+    "name_th": "ผู้จัดการโปรแกรมผจญภัย",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบและจัดการโปรแกรมผจญภัย วัดผลความปลอดภัย",
+    "description_en": "Design and manage adventure programs, measure safety",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C14": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานผจญภัย",
+      "เจ้าหน้าที่ผจญภัย",
+      "ผู้จัดการโปรแกรมผจญภัย",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานผจญภัย",
+      "ผู้อำนวยการฝ่ายผจญภัย",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Adventure Intern",
+      "Adventure Staff",
+      "Adventure Program Manager",
+      "Senior Program Manager",
+      "Adventure Supervisor",
+      "Director of Adventure Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR275",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL55",
+      "th": "การท่องเที่ยวเชิงผจญภัย",
+      "en": "Adventure Tourism"
+    },
+    "name_en": "Director of Adventure Tourism",
+    "name_th": "ผู้อำนวยการฝ่ายการท่องเที่ยวเชิงผจญภัย",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การท่องเที่ยวเชิงผจญภัย จัดการทีม และดูแลความปลอดภัย",
+    "description_en": "Lead adventure tourism strategy, manage teams, and oversee safety",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 5,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานผจญภัย",
+      "เจ้าหน้าที่ผจญภัย",
+      "ผู้จัดการผจญภัย",
+      "ผู้อำนวยการฝ่ายการท่องเที่ยวเชิงผจญภัย",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Adventure Intern",
+      "Adventure Staff",
+      "Adventure Manager",
+      "Director of Adventure Tourism",
+      "Operations Manager",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR276",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL56",
+      "th": "การจัดการ OTA",
+      "en": "Online Travel Agency"
+    },
+    "name_en": "OTA Operations Assistant",
+    "name_th": "ผู้ช่วยปฏิบัติการ OTA",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "จัดการรายชื่อที่พัก อัพเดทข้อมูล และตอบรีวิว",
+    "description_en": "Manage property listings, update information, and respond to reviews",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน OTA",
+      "ผู้ช่วยปฏิบัติการ OTA",
+      "เจ้าหน้าที่ OTA",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างาน OTA",
+      "ผู้จัดการ OTA",
+      "ผู้อำนวยการฝ่ายดิจิทัล"
+    ],
+    "roadmap_en": [
+      "Student / OTA Intern",
+      "OTA Operations Assistant",
+      "OTA Operations Specialist",
+      "OTA Supervisor",
+      "OTA Manager",
+      "Director of Digital",
+      "Director of Digital"
+    ]
+  },
+  {
+    "id": "CR277",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL56",
+      "th": "การจัดการ OTA",
+      "en": "Online Travel Agency"
+    },
+    "name_en": "OTA Marketing Specialist",
+    "name_th": "ผู้เชี่ยวชาญการตลาด OTA",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการแคมเปญ OTA โฆษณา และโปรโมชั่น",
+    "description_en": "Manage OTA campaigns, advertising, and promotions",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน OTA",
+      "ผู้เชี่ยวชาญการตลาด OTA",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานการตลาด OTA",
+      "ผู้จัดการการตลาด OTA",
+      "ผู้อำนวยการฝ่ายดิจิทัล",
+      "รองประธานฝ่ายดิจิทัล"
+    ],
+    "roadmap_en": [
+      "Student / OTA Intern",
+      "OTA Marketing Specialist",
+      "Senior OTA Marketer",
+      "OTA Marketing Supervisor",
+      "OTA Marketing Manager",
+      "Director of Digital",
+      "VP of Digital"
+    ]
+  },
+  {
+    "id": "CR278",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL56",
+      "th": "การจัดการ OTA",
+      "en": "Online Travel Agency"
+    },
+    "name_en": "OTA Revenue Analyst",
+    "name_th": "นักวิเคราะห์รายได้ OTA",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วิเคราะห์ข้อมูลการจอง ราคา และผลกำไร",
+    "description_en": "Analyze booking data, pricing, and profitability",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน OTA",
+      "นักวิเคราะห์รายได้ OTA",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิเคราะห์ OTA",
+      "ผู้จัดการวิเคราะห์ OTA",
+      "ผู้อำนวยการฝ่ายดิจิทัล",
+      "รองประธานฝ่ายดิจิทัล"
+    ],
+    "roadmap_en": [
+      "Student / OTA Intern",
+      "OTA Revenue Analyst",
+      "Senior OTA Analyst",
+      "OTA Analytics Supervisor",
+      "OTA Analytics Manager",
+      "Director of Digital",
+      "VP of Digital"
+    ]
+  },
+  {
+    "id": "CR279",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL56",
+      "th": "การจัดการ OTA",
+      "en": "Online Travel Agency"
+    },
+    "name_en": "OTA Platform Manager",
+    "name_th": "ผู้จัดการ platform OTA",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดการ platform ปรับปรุง UX และดูแลระบบ",
+    "description_en": "Manage platform, improve UX, and maintain systems",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "เจ้าหน้าที่ OTA",
+      "ผู้จัดการ platform OTA",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างาน platform",
+      "ผู้อำนวยการฝ่ายดิจิทัล",
+      "รองประธานฝ่ายดิจิทัล"
+    ],
+    "roadmap_en": [
+      "Student / OTA Intern",
+      "OTA Staff",
+      "OTA Platform Manager",
+      "Senior Platform Manager",
+      "Platform Supervisor",
+      "Director of Digital",
+      "VP of Digital"
+    ]
+  },
+  {
+    "id": "CR280",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL56",
+      "th": "การจัดการ OTA",
+      "en": "Online Travel Agency"
+    },
+    "name_en": "Director of OTA",
+    "name_th": "ผู้อำนวยการฝ่าย OTA",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ OTA จัดการทีม และพัฒนาธุรกิจออนไลน์",
+    "description_en": "Lead OTA strategy, manage teams, and develop online business",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน OTA",
+      "เจ้าหน้าที่ OTA",
+      "ผู้จัดการ OTA",
+      "ผู้อำนวยการฝ่าย OTA",
+      "ผู้อำนวยการฝ่ายดิจิทัล",
+      "รองประธานฝ่ายดิจิทัล",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / OTA Intern",
+      "OTA Staff",
+      "OTA Manager",
+      "Director of OTA",
+      "Director of Digital",
+      "VP of Digital",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR281",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL57",
+      "th": "การท่องเที่ยวเชิงสุขภาพ",
+      "en": "Wellness Tourism"
+    },
+    "name_en": "Wellness Tour Coordinator",
+    "name_th": "เจ้าหน้าที่ประสานงาน wellness tour",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "จัดการโปรแกรม wellness ติดต่อสปา และดูแลลูกค้า",
+    "description_en": "Manage wellness programs, contact spas, and care for clients",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน wellness",
+      "เจ้าหน้าที่ประสานงาน wellness tour",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างาน wellness",
+      "ผู้จัดการ wellness",
+      "ผู้อำนวยการฝ่าย wellness",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Wellness Intern",
+      "Wellness Tour Coordinator",
+      "Senior Wellness Coordinator",
+      "Wellness Supervisor",
+      "Wellness Manager",
+      "Director of Wellness Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR282",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL57",
+      "th": "การท่องเที่ยวเชิงสุขภาพ",
+      "en": "Wellness Tourism"
+    },
+    "name_en": "Yoga/Meditation Instructor",
+    "name_th": "ครูสอนโยคะ/สมาธิ",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "สอนโยคะ สมาธิ และกิจกรรมสุขภาพ",
+    "description_en": "Teach yoga, meditation, and wellness activities",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C11": {
+        "required": 5,
+        "weight": 1
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน wellness",
+      "ครูสอนโยคะ/สมาธิ",
+      "ครูสอนอาวุโส",
+      "หัวหน้างานสอน",
+      "ผู้จัดการกิจกรรม",
+      "ผู้อำนวยการฝ่าย wellness",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Wellness Intern",
+      "Yoga/Meditation Instructor",
+      "Senior Instructor",
+      "Wellness Activity Supervisor",
+      "Wellness Activity Manager",
+      "Director of Wellness Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR283",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL57",
+      "th": "การท่องเที่ยวเชิงสุขภาพ",
+      "en": "Wellness Tourism"
+    },
+    "name_en": "Spa & Wellness Consultant",
+    "name_th": "ที่ปรึกษาสปาและ wellness",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ให้คำปรึกษา wellness treatment แนะนำโปรแกรม และดูแลลูกค้า",
+    "description_en": "Advise on wellness treatments, recommend programs, and care for clients",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C11": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน wellness",
+      "ที่ปรึกษาสปาและ wellness",
+      "ที่ปรึกษาอาวุโส",
+      "หัวหน้างานที่ปรึกษา",
+      "ผู้จัดการที่ปรึกษา",
+      "ผู้อำนวยการฝ่าย wellness",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Wellness Intern",
+      "Spa & Wellness Consultant",
+      "Senior Wellness Consultant",
+      "Wellness Consultation Supervisor",
+      "Wellness Consultation Manager",
+      "Director of Wellness Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR284",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL57",
+      "th": "การท่องเที่ยวเชิงสุขภาพ",
+      "en": "Wellness Tourism"
+    },
+    "name_en": "Wellness Program Director",
+    "name_th": "ผู้อำนวยการโปรแกรม wellness",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบและจัดการโปรแกรม wellness วัดผลลัพธ์",
+    "description_en": "Design and manage wellness programs, measure outcomes",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน wellness",
+      "เจ้าหน้าที่ wellness",
+      "ผู้จัดการโปรแกรม wellness",
+      "ผู้อำนวยการโปรแกรม wellness",
+      "ผู้อำนวยการฝ่าย wellness",
+      "รองประธานฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Wellness Intern",
+      "Wellness Staff",
+      "Wellness Program Manager",
+      "Wellness Program Director",
+      "Director of Wellness Tourism",
+      "VP of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR285",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL57",
+      "th": "การท่องเที่ยวเชิงสุขภาพ",
+      "en": "Wellness Tourism"
+    },
+    "name_en": "Director of Wellness Tourism",
+    "name_th": "ผู้อำนวยการฝ่ายการท่องเที่ยวเชิงสุขภาพ",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ wellness tourism จัดการทีม และพัฒนาโปรแกรม",
+    "description_en": "Lead wellness tourism strategy, manage teams, and develop programs",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน wellness",
+      "เจ้าหน้าที่ wellness",
+      "ผู้จัดการ wellness",
+      "ผู้อำนวยการฝ่ายการท่องเที่ยวเชิงสุขภาพ",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Wellness Intern",
+      "Wellness Staff",
+      "Wellness Manager",
+      "Director of Wellness Tourism",
+      "Operations Manager",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR286",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL58",
+      "th": "การจัดการจุดหมายปลายทาง",
+      "en": "Destination Management"
+    },
+    "name_en": "Destination Research Analyst",
+    "name_th": "นักวิเคราะห์วิจัยจุดหมายปลายทาง",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วิเคราะห์ข้อมูลนักท่องเที่ยว แนวโน้ม และพฤติกรรม",
+    "description_en": "Analyze tourist data, trends, and behavior",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวิจัย",
+      "นักวิเคราะห์วิจัยจุดหมายปลายทาง",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิจัย",
+      "ผู้จัดการวิจัย",
+      "ผู้อำนวยการฝ่ายจุดหมายปลายทาง",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Research Intern",
+      "Destination Research Analyst",
+      "Senior Research Analyst",
+      "Research Supervisor",
+      "Research Manager",
+      "Director of Destination Management",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR287",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL58",
+      "th": "การจัดการจุดหมายปลายทาง",
+      "en": "Destination Management"
+    },
+    "name_en": "Destination Safety Coordinator",
+    "name_th": "เจ้าหน้าที่ความปลอดภัยจุดหมายปลายทาง",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ดูแลความปลอดภัยนักท่องเที่ยว จัดการวิกฤต และประสานงาน",
+    "description_en": "Oversee tourist safety, manage crises, and coordinate",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานความปลอดภัย",
+      "เจ้าหน้าที่ความปลอดภัยจุดหมายปลายทาง",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานความปลอดภัย",
+      "ผู้จัดการความปลอดภัย",
+      "ผู้อำนวยการฝ่ายจุดหมายปลายทาง",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Safety Intern",
+      "Destination Safety Coordinator",
+      "Senior Safety Coordinator",
+      "Safety Supervisor",
+      "Safety Manager",
+      "Director of Destination Management",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR288",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL58",
+      "th": "การจัดการจุดหมายปลายทาง",
+      "en": "Destination Management"
+    },
+    "name_en": "Stakeholder Liaison Officer",
+    "name_th": "เจ้าหน้าที่ประสานงานผู้มีส่วนได้เสีย",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ประสานงานกับชุมชน รัฐบาล และธุรกิจท้องถิ่น",
+    "description_en": "Coordinate with communities, government, and local businesses",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 5,
+        "weight": 1
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานจุดหมายปลายทาง",
+      "เจ้าหน้าที่ประสานงานผู้มีส่วนได้เสีย",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานประสานงาน",
+      "ผู้จัดการประสานงาน",
+      "ผู้อำนวยการฝ่ายจุดหมายปลายทาง",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Destination Intern",
+      "Stakeholder Liaison Officer",
+      "Senior Liaison Officer",
+      "Liaison Supervisor",
+      "Liaison Manager",
+      "Director of Destination Management",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR289",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL58",
+      "th": "การจัดการจุดหมายปลายทาง",
+      "en": "Destination Management"
+    },
+    "name_en": "Destination Marketing Manager",
+    "name_th": "ผู้จัดการการตลาดจุดหมายปลายทาง",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "พัฒนากลยุทธ์การตลาดจุดหมายปลายทาง จัดการแคมเปญ และวัดผล",
+    "description_en": "Develop destination marketing strategy, manage campaigns, and measure results",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "เจ้าหน้าที่การตลาด",
+      "ผู้จัดการการตลาดจุดหมายปลายทาง",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานการตลาด",
+      "ผู้อำนวยการฝ่ายจุดหมายปลายทาง",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Destination Marketing Staff",
+      "Destination Marketing Manager",
+      "Senior Marketing Manager",
+      "Marketing Supervisor",
+      "Director of Destination Management",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR290",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL58",
+      "th": "การจัดการจุดหมายปลายทาง",
+      "en": "Destination Management"
+    },
+    "name_en": "Director of Destination Management",
+    "name_th": "ผู้อำนวยการฝ่ายจัดการจุดหมายปลายทาง",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์จุดหมายปลายทาง จัดการทีม และพัฒนาการท่องเที่ยว",
+    "description_en": "Lead destination strategy, manage teams, and develop tourism",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานจุดหมายปลายทาง",
+      "เจ้าหน้าที่จุดหมายปลายทาง",
+      "ผู้จัดการจุดหมายปลายทาง",
+      "ผู้อำนวยการฝ่ายจัดการจุดหมายปลายทาง",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Destination Intern",
+      "Destination Staff",
+      "Destination Manager",
+      "Director of Destination Management",
+      "Operations Manager",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR291",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL59",
+      "th": "การท่องเที่ยวชุมชน",
+      "en": "Community Tourism"
+    },
+    "name_en": "Community Tourism Coordinator",
+    "name_th": "เจ้าหน้าที่ประสานงานการท่องเที่ยวชุมชน",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "จัดการโครงการท่องเที่ยวชุมชน ติดต่อชาวบ้าน และดูแลนักท่องเที่ยว",
+    "description_en": "Manage community tourism projects, contact locals, and care for tourists",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานชุมชน",
+      "เจ้าหน้าที่ประสานงานการท่องเที่ยวชุมชน",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานชุมชน",
+      "ผู้จัดการชุมชน",
+      "ผู้อำนวยการฝ่ายชุมชน",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Community Intern",
+      "Community Tourism Coordinator",
+      "Senior Community Coordinator",
+      "Community Supervisor",
+      "Community Manager",
+      "Director of Community Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR292",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL59",
+      "th": "การท่องเที่ยวชุมชน",
+      "en": "Community Tourism"
+    },
+    "name_en": "Homestay Manager",
+    "name_th": "ผู้จัดการโฮมสเตย์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการโฮมสเตย์ ดูแลผู้เข้าพัก และฝึกอบรมชาวบ้าน",
+    "description_en": "Manage homestays, care for guests, and train locals",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานชุมชน",
+      "ผู้จัดการโฮมสเตย์",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานโฮมสเตย์",
+      "ผู้จัดการฝ่ายชุมชน",
+      "ผู้อำนวยการฝ่ายชุมชน",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Community Intern",
+      "Homestay Manager",
+      "Senior Homestay Manager",
+      "Homestay Supervisor",
+      "Community Manager",
+      "Director of Community Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR293",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL59",
+      "th": "การท่องเที่ยวชุมชน",
+      "en": "Community Tourism"
+    },
+    "name_en": "Local Craft Coordinator",
+    "name_th": "เจ้าหน้าที่ประสานงานหัตถกรรมท้องถิ่น",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ส่งเสริมและจัดการหัตถกรรมท้องถิ่น จัดแสดง และขายผลิตภัณฑ์",
+    "description_en": "Promote and manage local crafts, display and sell products",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานชุมชน",
+      "เจ้าหน้าที่ประสานงานหัตถกรรมท้องถิ่น",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานหัตถกรรม",
+      "ผู้จัดการหัตถกรรม",
+      "ผู้อำนวยการฝ่ายชุมชน",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Craft Intern",
+      "Local Craft Coordinator",
+      "Senior Craft Coordinator",
+      "Craft Supervisor",
+      "Craft Manager",
+      "Director of Community Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR294",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL59",
+      "th": "การท่องเที่ยวชุมชน",
+      "en": "Community Tourism"
+    },
+    "name_en": "Community Tourism Program Manager",
+    "name_th": "ผู้จัดการโปรแกรมการท่องเที่ยวชุมชน",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบและจัดการโปรแกรมท่องเที่ยวชุมชน วัดผลผลกระทบ",
+    "description_en": "Design and manage community tourism programs, measure impacts",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานชุมชน",
+      "เจ้าหน้าที่ชุมชน",
+      "ผู้จัดการโปรแกรมชุมชน",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานชุมชน",
+      "ผู้อำนวยการฝ่ายชุมชน",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Community Intern",
+      "Community Staff",
+      "Community Tourism Program Manager",
+      "Senior Program Manager",
+      "Program Supervisor",
+      "Director of Community Tourism",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR295",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL59",
+      "th": "การท่องเที่ยวชุมชน",
+      "en": "Community Tourism"
+    },
+    "name_en": "Director of Community Tourism",
+    "name_th": "ผู้อำนวยการฝ่ายการท่องเที่ยวชุมชน",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การท่องเที่ยวชุมชน จัดการทีม และพัฒนาโครงการ",
+    "description_en": "Lead community tourism strategy, manage teams, and develop projects",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 5,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานชุมชน",
+      "เจ้าหน้าที่ชุมชน",
+      "ผู้จัดการชุมชน",
+      "ผู้อำนวยการฝ่ายการท่องเที่ยวชุมชน",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Community Intern",
+      "Community Staff",
+      "Community Manager",
+      "Director of Community Tourism",
+      "Operations Manager",
+      "Director of Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR296",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL60",
+      "th": "การจัดการเรือสำราญ",
+      "en": "Cruise Management"
+    },
+    "name_en": "Cruise Ship Receptionist",
+    "name_th": "พนักงานต้อนรับเรือสำราญ",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ต้อนรับผู้โดยสาร จัดการเช็คอิน และให้บริการข้อมูล",
+    "description_en": "Greet passengers, manage check-in, and provide information",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเรือสำราญ",
+      "พนักงานต้อนรับเรือสำราญ",
+      "พนักงานต้อนรับอาวุโส",
+      "หัวหน้างานต้อนรับ",
+      "ผู้จัดการต้อนรับ",
+      "ผู้จัดการเรือสำราญ",
+      "รองประธานฝ่ายเรือสำราญ"
+    ],
+    "roadmap_en": [
+      "Student / Cruise Intern",
+      "Cruise Ship Receptionist",
+      "Senior Receptionist",
+      "Reception Supervisor",
+      "Reception Manager",
+      "Cruise Manager",
+      "VP of Cruise Operations"
+    ]
+  },
+  {
+    "id": "CR297",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL60",
+      "th": "การจัดการเรือสำราญ",
+      "en": "Cruise Management"
+    },
+    "name_en": "Shore Excursion Coordinator",
+    "name_th": "เจ้าหน้าที่ประสานงานทัวร์ชายฝั่ง",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการทัวร์ชายฝั่ง ติดต่อซัพพลายเออร์ และดูแลผู้โดยสาร",
+    "description_en": "Manage shore tours, contact suppliers, and care for passengers",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเรือสำราญ",
+      "เจ้าหน้าที่ประสานงานทัวร์ชายฝั่ง",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานชายฝั่ง",
+      "ผู้จัดการชายฝั่ง",
+      "ผู้จัดการเรือสำราญ",
+      "รองประธานฝ่ายเรือสำราญ"
+    ],
+    "roadmap_en": [
+      "Student / Cruise Intern",
+      "Shore Excursion Coordinator",
+      "Senior Excursion Coordinator",
+      "Excursion Supervisor",
+      "Excursion Manager",
+      "Cruise Manager",
+      "VP of Cruise Operations"
+    ]
+  },
+  {
+    "id": "CR298",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL60",
+      "th": "การจัดการเรือสำราญ",
+      "en": "Cruise Management"
+    },
+    "name_en": "Entertainment Coordinator",
+    "name_th": "เจ้าหน้าที่ประสานงานบันเทิง",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการกิจกรรมบันเทิงบนเรือ แสดง และกิจกรรม",
+    "description_en": "Manage onboard entertainment, shows, and activities",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 5,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเรือสำราญ",
+      "เจ้าหน้าที่ประสานงานบันเทิง",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานบันเทิง",
+      "ผู้จัดการบันเทิง",
+      "ผู้จัดการเรือสำราญ",
+      "รองประธานฝ่ายเรือสำราญ"
+    ],
+    "roadmap_en": [
+      "Student / Cruise Intern",
+      "Entertainment Coordinator",
+      "Senior Entertainment Coordinator",
+      "Entertainment Supervisor",
+      "Entertainment Manager",
+      "Cruise Manager",
+      "VP of Cruise Operations"
+    ]
+  },
+  {
+    "id": "CR299",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL60",
+      "th": "การจัดการเรือสำราญ",
+      "en": "Cruise Management"
+    },
+    "name_en": "Marine Safety Officer",
+    "name_th": "เจ้าหน้าที่ความปลอดภัยทางทะเล",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ดูแลความปลอดภัยเรือ จัดการฝึกอบรม และตอบสนองฉุกเฉิน",
+    "description_en": "Oversee ship safety, manage training, and emergency response",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเรือสำราญ",
+      "เจ้าหน้าที่ความปลอดภัยทางทะเล",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานความปลอดภัย",
+      "ผู้จัดการความปลอดภัย",
+      "ผู้จัดการเรือสำราญ",
+      "รองประธานฝ่ายเรือสำราญ"
+    ],
+    "roadmap_en": [
+      "Student / Cruise Intern",
+      "Marine Safety Officer",
+      "Senior Safety Officer",
+      "Safety Supervisor",
+      "Safety Manager",
+      "Cruise Manager",
+      "VP of Cruise Operations"
+    ]
+  },
+  {
+    "id": "CR300",
+    "program": "TRV",
+    "cluster": {
+      "id": "CL60",
+      "th": "การจัดการเรือสำราญ",
+      "en": "Cruise Management"
+    },
+    "name_en": "Cruise Director",
+    "name_th": "ผู้อำนวยการฝ่ายเรือสำราญ",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์เรือสำราญ จัดการทีม และดูแลประสบการณ์ผู้โดยสาร",
+    "description_en": "Lead cruise strategy, manage teams, and oversee passenger experience",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเรือสำราญ",
+      "เจ้าหน้าที่เรือสำราญ",
+      "ผู้จัดการเรือสำราญ",
+      "ผู้อำนวยการฝ่ายเรือสำราญ",
+      "รองประธานฝ่ายเรือสำราญ",
+      "รองประธานฝ่ายปฏิบัติการ",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Cruise Intern",
+      "Cruise Staff",
+      "Cruise Manager",
+      "Cruise Director",
+      "VP of Cruise Operations",
+      "VP of Operations",
+      "VP of Operations"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "title_th": "CAREER-FIT Wiki",
+  "title_en": "CAREER-FIT Wiki",
+  "intro_th": "เรียนรู้วิธีการทำงานของระบบ CAREER-FIT 64 ตั้งแต่วิธีการประเมิน โครงสร้างบุคลิกภาพ สมรรถนะ ไปจนถึงวิธีตีความผลลัพธ์",
+  "intro_en": "Learn how CAREER-FIT 64 works — from assessment methodology and personality frameworks to competency analysis and result interpretation.",
+  "pages": [
+    {
+      "slug": "how-it-works",
+      "icon": "⚙️",
+      "title_th": "วิธีการทำงาน",
+      "title_en": "How It Works",
+      "desc_th": "ทำความเข้าใจ 4 มิติการประเมิน สูตรคำนวณ และวิธีจัดอันดับอาชีพ",
+      "desc_en": "Understand the 4 assessment dimensions, scoring formula, and career ranking system"
+    },
+    {
+      "slug": "the-64-profiles",
+      "icon": "🧬",
+      "title_th": "64 โปรไฟล์บุคลิกภาพ",
+      "title_en": "The 64 Profiles",
+      "desc_th": "16 บุคลิกภาพ × 4 รูปแบบการทำงาน = 64 โปรไฟล์สายอาชีพ",
+      "desc_en": "16 personality types × 4 career modes = 64 career personality profiles"
+    },
+    {
+      "slug": "competencies",
+      "icon": "📊",
+      "title_th": "สมรรถนะ 15 ด้าน",
+      "title_en": "15 Competencies",
+      "desc_th": "กรอบสมรรถนะหลักที่ใช้วัดความพร้อมของผู้เข้ารับการประเมิน",
+      "desc_en": "The core competency framework used to measure assessment readiness"
+    },
+    {
+      "slug": "programs",
+      "icon": "🎓",
+      "title_th": "หลักสูตร 6 สาขา",
+      "title_en": "6 Programs",
+      "desc_th": "ทำความเข้าใจแต่ละหลักสูตรและวิธีที่ระบบปรับอันดับอาชีพตามสาขา",
+      "desc_en": "Understand each program and how the system tailors career rankings by field"
+    },
+    {
+      "slug": "faq",
+      "icon": "❓",
+      "title_th": "คำถามที่พบบ่อย",
+      "title_en": "FAQ",
+      "desc_th": "วิธีตีความผลลัพธ์ ความเป็นส่วนตัว และข้อมูลเกี่ยวกับผู้สร้างระบบ",
+      "desc_en": "How to interpret results, privacy details, and system credits"
+    }
+  ]
+}

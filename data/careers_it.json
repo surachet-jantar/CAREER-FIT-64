@@ -1,0 +1,5452 @@
+[
+  {
+    "id": "CR151",
+    "program": "IT",
+    "cluster": {
+      "id": "CL31",
+      "th": "การพัฒนาซอฟต์แวร์",
+      "en": "Software Development"
+    },
+    "name_en": "Junior Software Developer",
+    "name_th": "นักพัฒนาซอฟต์แวร์ Junior",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "เขียนโค้ด แก้ไขข้อผิดพลาด และทดสอบฟีเจอร์ภายใต้การกำกับดูแล",
+    "description_en": "Write code, fix bugs, and test features under supervision",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนาซอฟต์แวร์ Junior",
+      "นักพัฒนาซอฟต์แวร์",
+      "นักพัฒนาอาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Junior Software Developer",
+      "Software Developer",
+      "Senior Developer",
+      "Tech Lead",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR152",
+    "program": "IT",
+    "cluster": {
+      "id": "CL31",
+      "th": "การพัฒนาซอฟต์แวร์",
+      "en": "Software Development"
+    },
+    "name_en": "Full-Stack Developer",
+    "name_th": "นักพัฒนา Full-Stack",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "พัฒนาระบบฝั่ง Front-end และ Back-end รวมถึง API และฐานข้อมูล",
+    "description_en": "Develop both front-end and back-end systems including APIs and databases",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 1,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนา Full-Stack",
+      "นักพัฒนา Full-Stack อาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Full-Stack Developer",
+      "Senior Full-Stack Developer",
+      "Dev Supervisor",
+      "Dev Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR153",
+    "program": "IT",
+    "cluster": {
+      "id": "CL31",
+      "th": "การพัฒนาซอฟต์แวร์",
+      "en": "Software Development"
+    },
+    "name_en": "Backend Developer",
+    "name_th": "นักพัฒนา Back-end",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "พัฒนาระบบฝั่ง Server API และฐานข้อมูล",
+    "description_en": "Develop server-side systems, APIs, and databases",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 1,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนา Back-end",
+      "นักพัฒนา Back-end อาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Backend Developer",
+      "Senior Backend Developer",
+      "Dev Supervisor",
+      "Dev Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR154",
+    "program": "IT",
+    "cluster": {
+      "id": "CL31",
+      "th": "การพัฒนาซอฟต์แวร์",
+      "en": "Software Development"
+    },
+    "name_en": "DevOps Engineer",
+    "name_th": "วิศวกร DevOps",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบและดูแล CI/CD pipeline การ deploy และ infra",
+    "description_en": "Design and maintain CI/CD pipelines, deployments, and infrastructure",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกร DevOps",
+      "วิศวกร DevOps อาวุโส",
+      "หัวหน้างาน DevOps",
+      "ผู้จัดการ DevOps",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "DevOps Engineer",
+      "Senior DevOps Engineer",
+      "DevOps Supervisor",
+      "DevOps Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR155",
+    "program": "IT",
+    "cluster": {
+      "id": "CL31",
+      "th": "การพัฒนาซอฟต์แวร์",
+      "en": "Software Development"
+    },
+    "name_en": "VP of Engineering",
+    "name_th": "รองประธานฝ่ายวิศวกรรม",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์วิศวกรรม จัดการทีม และกำกับดูแลสถาปัตยกรรมระบบ",
+    "description_en": "Lead engineering strategy, manage teams, and oversee system architecture",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนาซอฟต์แวร์",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้อำนวยการฝ่ายเทคโนโลยี",
+      "รองประธานฝ่ายวิศวกรรม",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Software Developer",
+      "Dev Manager",
+      "Director of Technology",
+      "VP of Engineering",
+      "Chief Technology Officer",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR156",
+    "program": "IT",
+    "cluster": {
+      "id": "CL32",
+      "th": "การจัดการฐานข้อมูล",
+      "en": "Database Administration"
+    },
+    "name_en": "Database Administrator",
+    "name_th": "ผู้ดูแลฐานข้อมูล",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ติดตั้ง กำหนดค่า และดูแลฐานข้อมูล สำรองข้อมูล และรักษาความปลอดภัย",
+    "description_en": "Install, configure, and maintain databases, backups, and security",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "ผู้ดูแลฐานข้อมูล",
+      "ผู้ดูแลฐานข้อมูลอาวุโส",
+      "หัวหน้างานฐานข้อมูล",
+      "ผู้จัดการฐานข้อมูล",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Database Administrator",
+      "Senior DBA",
+      "DBA Supervisor",
+      "DBA Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR157",
+    "program": "IT",
+    "cluster": {
+      "id": "CL32",
+      "th": "การจัดการฐานข้อมูล",
+      "en": "Database Administration"
+    },
+    "name_en": "Data Engineer",
+    "name_th": "วิศวกรข้อมูล",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ออกแบบและสร้าง data pipeline ETL และระบบจัดเก็บข้อมูล",
+    "description_en": "Design and build data pipelines, ETL, and data storage systems",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 1,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกรข้อมูล",
+      "วิศวกรข้อมูลอาวุโส",
+      "หัวหน้างานวิศวกรข้อมูล",
+      "ผู้จัดการวิศวกรข้อมูล",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Data Engineer",
+      "Senior Data Engineer",
+      "Data Engineering Supervisor",
+      "Data Engineering Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR158",
+    "program": "IT",
+    "cluster": {
+      "id": "CL32",
+      "th": "การจัดการฐานข้อมูล",
+      "en": "Database Administration"
+    },
+    "name_en": "Data Architect",
+    "name_th": "สถาปนิกข้อมูล",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบสถาปัตยกรรมข้อมูล กำหนดมาตรฐาน และจัดการ master data",
+    "description_en": "Design data architecture, set standards, and manage master data",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 1,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกรข้อมูล",
+      "สถาปนิกข้อมูล",
+      "หัวหน้างานสถาปัตยกรรมข้อมูล",
+      "ผู้จัดการสถาปัตยกรรมข้อมูล",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Data Engineer",
+      "Data Architect",
+      "Data Architecture Supervisor",
+      "Data Architecture Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR159",
+    "program": "IT",
+    "cluster": {
+      "id": "CL32",
+      "th": "การจัดการฐานข้อมูล",
+      "en": "Database Administration"
+    },
+    "name_en": "Cloud Database Specialist",
+    "name_th": "ผู้เชี่ยวชาญฐานข้อมูลคลาวด์",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดการฐานข้อมูลบน AWS Azure และ GCP ปรับขนาด และรักษาความปลอดภัย",
+    "description_en": "Manage databases on AWS, Azure, and GCP, scale, and secure",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 1,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "ผู้เชี่ยวชาญฐานข้อมูลคลาวด์",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานคลาวด์",
+      "ผู้จัดการคลาวด์",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Cloud Database Specialist",
+      "Senior Cloud Specialist",
+      "Cloud Supervisor",
+      "Cloud Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR160",
+    "program": "IT",
+    "cluster": {
+      "id": "CL32",
+      "th": "การจัดการฐานข้อมูล",
+      "en": "Database Administration"
+    },
+    "name_en": "Director of Data Management",
+    "name_th": "ผู้อำนวยการฝ่ายจัดการข้อมูล",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ข้อมูล จัดการทีม และกำกับดูแลคุณภาพข้อมูล",
+    "description_en": "Lead data strategy, manage teams, and oversee data quality",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกรข้อมูล",
+      "ผู้จัดการฐานข้อมูล",
+      "ผู้อำนวยการฝ่ายจัดการข้อมูล",
+      "รองประธานฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Data Engineer",
+      "DBA Manager",
+      "Director of Data Management",
+      "VP of Technology",
+      "Chief Technology Officer",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR161",
+    "program": "IT",
+    "cluster": {
+      "id": "CL33",
+      "th": "ความปลอดภัยทางไซเบอร์",
+      "en": "Cybersecurity"
+    },
+    "name_en": "Security Analyst",
+    "name_th": "นักวิเคราะห์ความปลอดภัย",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ตรวจสอบและตอบสนองต่อภัยคุกคาม วิเคราะห์ log และรายงาน",
+    "description_en": "Monitor and respond to threats, analyze logs, and report incidents",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิเคราะห์ความปลอดภัย",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานความปลอดภัย",
+      "ผู้จัดการความปลอดภัย",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Security Analyst",
+      "Senior Security Analyst",
+      "Security Supervisor",
+      "Security Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR162",
+    "program": "IT",
+    "cluster": {
+      "id": "CL33",
+      "th": "ความปลอดภัยทางไซเบอร์",
+      "en": "Cybersecurity"
+    },
+    "name_en": "Penetration Tester",
+    "name_th": "นักทดสอบเจาะระบบ",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ทดสอบความปลอดภัยระบบ ค้นหาช่องโหว่ และจัดทำรายงาน",
+    "description_en": "Test system security, find vulnerabilities, and prepare reports",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักทดสอบเจาะระบบ",
+      "นักทดสอบอาวุโส",
+      "หัวหน้างานทดสอบ",
+      "ผู้จัดการทดสอบความปลอดภัย",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Penetration Tester",
+      "Senior Pen Tester",
+      "Security Testing Supervisor",
+      "Security Testing Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR163",
+    "program": "IT",
+    "cluster": {
+      "id": "CL33",
+      "th": "ความปลอดภัยทางไซเบอร์",
+      "en": "Cybersecurity"
+    },
+    "name_en": "Security Architect",
+    "name_th": "สถาปนิกความปลอดภัย",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบสถาปัตยกรรมความปลอดภัย กำหนดนโยบาย และกำกับดูแล",
+    "description_en": "Design security architecture, set policies, and oversee implementation",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิเคราะห์ความปลอดภัย",
+      "สถาปนิกความปลอดภัย",
+      "หัวหน้างานสถาปัตยกรรมความปลอดภัย",
+      "ผู้จัดการสถาปัตยกรรมความปลอดภัย",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Security Analyst",
+      "Security Architect",
+      "Security Architecture Supervisor",
+      "Security Architecture Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR164",
+    "program": "IT",
+    "cluster": {
+      "id": "CL33",
+      "th": "ความปลอดภัยทางไซเบอร์",
+      "en": "Cybersecurity"
+    },
+    "name_en": "Incident Response Manager",
+    "name_th": "ผู้จัดการตอบสนองเหตุการณ์",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดการตอบสนองต่อเหตุการณ์ความปลอดภัย สอบสวน และกู้คืน",
+    "description_en": "Manage security incident response, investigate, and recover",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิเคราะห์ความปลอดภัย",
+      "ผู้เชี่ยวชาญเหตุการณ์",
+      "ผู้จัดการตอบสนองเหตุการณ์",
+      "ผู้อำนวยการฝ่ายความปลอดภัย",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Security Analyst",
+      "Incident Response Specialist",
+      "Incident Response Manager",
+      "Director of Security",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR165",
+    "program": "IT",
+    "cluster": {
+      "id": "CL33",
+      "th": "ความปลอดภัยทางไซเบอร์",
+      "en": "Cybersecurity"
+    },
+    "name_en": "Chief Information Security Officer",
+    "name_th": "ประธานเจ้าหน้าที่ฝ่ายรักษาความปลอดภัยข้อมูล",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ความปลอดภัย จัดการทีม และรายงานแก่คณะกรรมการ",
+    "description_en": "Lead security strategy, manage teams, and report to the board",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิเคราะห์ความปลอดภัย",
+      "ผู้จัดการความปลอดภัย",
+      "ผู้อำนวยการฝ่ายความปลอดภัย",
+      "รองประธานฝ่ายความปลอดภัย",
+      "ประธานเจ้าหน้าที่ฝ่ายรักษาความปลอดภัยข้อมูล",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Security Analyst",
+      "Security Manager",
+      "Director of Security",
+      "VP of Security",
+      "Chief Information Security Officer",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR166",
+    "program": "IT",
+    "cluster": {
+      "id": "CL34",
+      "th": "การวิเคราะห์ข้อมูล",
+      "en": "Data Analytics"
+    },
+    "name_en": "Data Analyst",
+    "name_th": "นักวิเคราะห์ข้อมูล",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "เก็บ วิเคราะห์ และแสดงข้อมูลเพื่อสนับสนุนการตัดสินใจทางธุรกิจ",
+    "description_en": "Gather, analyze, and visualize data to support business decisions",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิเคราะห์ข้อมูล",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิเคราะห์",
+      "ผู้จัดการวิเคราะห์ข้อมูล",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Data Analyst",
+      "Senior Data Analyst",
+      "Analytics Supervisor",
+      "Analytics Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR167",
+    "program": "IT",
+    "cluster": {
+      "id": "CL34",
+      "th": "การวิเคราะห์ข้อมูล",
+      "en": "Data Analytics"
+    },
+    "name_en": "Business Intelligence Analyst",
+    "name_th": "นักวิเคราะห์ Business Intelligence",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "สร้างรายงาน BI dashboard และ数据分析เพื่อสนับสนุนการตัดสินใจ",
+    "description_en": "Create BI reports, dashboards, and analytics to support decisions",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 1,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิเคราะห์ Business Intelligence",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างาน BI",
+      "ผู้จัดการ BI",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "BI Analyst",
+      "Senior BI Analyst",
+      "BI Supervisor",
+      "BI Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR168",
+    "program": "IT",
+    "cluster": {
+      "id": "CL34",
+      "th": "การวิเคราะห์ข้อมูล",
+      "en": "Data Analytics"
+    },
+    "name_en": "Data Scientist",
+    "name_th": "นักวิทยาศาสตร์ข้อมูล",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "สร้างโมเดล machine learning วิเคราะห์ข้อมูล และทำนายผลลัพธ์",
+    "description_en": "Build machine learning models, analyze data, and predict outcomes",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิทยาศาสตร์ข้อมูล",
+      "นักวิทยาศาสตร์อาวุโส",
+      "หัวหน้างาน data science",
+      "ผู้จัดการ data science",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Data Scientist",
+      "Senior Data Scientist",
+      "Data Science Supervisor",
+      "Data Science Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR169",
+    "program": "IT",
+    "cluster": {
+      "id": "CL34",
+      "th": "การวิเคราะห์ข้อมูล",
+      "en": "Data Analytics"
+    },
+    "name_en": "Analytics Engineer",
+    "name_th": "วิศวกร analytics",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบและสร้าง data model analytics pipeline และ dashboard",
+    "description_en": "Design and build data models, analytics pipelines, and dashboards",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกร analytics",
+      "วิศวกรอาวุโส",
+      "หัวหน้างาน analytics",
+      "ผู้จัดการ analytics",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Analytics Engineer",
+      "Senior Analytics Engineer",
+      "Analytics Supervisor",
+      "Analytics Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR170",
+    "program": "IT",
+    "cluster": {
+      "id": "CL34",
+      "th": "การวิเคราะห์ข้อมูล",
+      "en": "Data Analytics"
+    },
+    "name_en": "Director of Data & Analytics",
+    "name_th": "ผู้อำนวยการฝ่ายข้อมูลและการวิเคราะห์",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ข้อมูล จัดการทีม และให้ข้อมูลเชิงลึกแก่ผู้บริหาร",
+    "description_en": "Lead data strategy, manage teams, and provide insights to executives",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิเคราะห์ข้อมูล",
+      "ผู้จัดการวิเคราะห์ข้อมูล",
+      "ผู้อำนวยการฝ่ายข้อมูลและการวิเคราะห์",
+      "รองประธานฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Data Analyst",
+      "Analytics Manager",
+      "Director of Data & Analytics",
+      "VP of Technology",
+      "Chief Technology Officer",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR171",
+    "program": "IT",
+    "cluster": {
+      "id": "CL35",
+      "th": "การพัฒนาเว็บ",
+      "en": "Web Development"
+    },
+    "name_en": "Front-End Developer",
+    "name_th": "นักพัฒนา Front-End",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "พัฒนา UI ของเว็บไซต์ ใช้ HTML CSS และ JavaScript",
+    "description_en": "Develop website UI using HTML, CSS, and JavaScript",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C05": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C06": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนา Front-End",
+      "นักพัฒนา Front-End อาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Front-End Developer",
+      "Senior Front-End Developer",
+      "Dev Supervisor",
+      "Dev Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR172",
+    "program": "IT",
+    "cluster": {
+      "id": "CL35",
+      "th": "การพัฒนาเว็บ",
+      "en": "Web Development"
+    },
+    "name_en": "Web Developer",
+    "name_th": "นักพัฒนาเว็บ",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "พัฒนาและดูแลเว็บไซต์ application ทั้ง Front-end และ Back-end",
+    "description_en": "Develop and maintain web applications, both front-end and back-end",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 5,
+        "weight": 1
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนาเว็บ",
+      "นักพัฒนาเว็บอาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Web Developer",
+      "Senior Web Developer",
+      "Dev Supervisor",
+      "Dev Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR173",
+    "program": "IT",
+    "cluster": {
+      "id": "CL35",
+      "th": "การพัฒนาเว็บ",
+      "en": "Web Development"
+    },
+    "name_en": "WordPress Developer",
+    "name_th": "นักพัฒนา WordPress",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "พัฒนาและปรับแต่งเว็บไซต์ WordPress theme และ plugin",
+    "description_en": "Develop and customize WordPress sites, themes, and plugins",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนา WordPress",
+      "นักพัฒนา WordPress อาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "WordPress Developer",
+      "Senior WordPress Developer",
+      "Dev Supervisor",
+      "Dev Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR174",
+    "program": "IT",
+    "cluster": {
+      "id": "CL35",
+      "th": "การพัฒนาเว็บ",
+      "en": "Web Development"
+    },
+    "name_en": "Web Performance Engineer",
+    "name_th": "วิศวกรประสิทธิภาพเว็บ",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วิเคราะห์และปรับปรุงความเร็ว ประสิทธิภาพ และ user experience ของเว็บ",
+    "description_en": "Analyze and improve website speed, performance, and user experience",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกรประสิทธิภาพเว็บ",
+      "วิศวกรอาวุโส",
+      "หัวหน้างานประสิทธิภาพ",
+      "ผู้จัดการประสิทธิภาพ",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Web Performance Engineer",
+      "Senior Performance Engineer",
+      "Performance Supervisor",
+      "Performance Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR175",
+    "program": "IT",
+    "cluster": {
+      "id": "CL35",
+      "th": "การพัฒนาเว็บ",
+      "en": "Web Development"
+    },
+    "name_en": "Director of Web Engineering",
+    "name_th": "ผู้อำนวยการฝ่ายวิศวกรรมเว็บ",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์วิศวกรรมเว็บ จัดการทีม และดูแลสถาปัตยกรรม",
+    "description_en": "Lead web engineering strategy, manage teams, and oversee architecture",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนาเว็บ",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้อำนวยการฝ่ายวิศวกรรมเว็บ",
+      "รองประธานฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Web Developer",
+      "Dev Manager",
+      "Director of Web Engineering",
+      "VP of Technology",
+      "Chief Technology Officer",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR176",
+    "program": "IT",
+    "cluster": {
+      "id": "CL36",
+      "th": "การจัดการระบบคลาวด์",
+      "en": "Cloud Administration"
+    },
+    "name_en": "Cloud Administrator",
+    "name_th": "ผู้ดูแลระบบคลาวด์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ติดตั้ง กำหนดค่า และดูแล infrastructure บนคลาวด์",
+    "description_en": "Install, configure, and maintain cloud infrastructure",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "ผู้ดูแลระบบคลาวด์",
+      "ผู้ดูแลอาวุโส",
+      "หัวหน้างานคลาวด์",
+      "ผู้จัดการคลาวด์",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Cloud Administrator",
+      "Senior Cloud Admin",
+      "Cloud Supervisor",
+      "Cloud Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR177",
+    "program": "IT",
+    "cluster": {
+      "id": "CL36",
+      "th": "การจัดการระบบคลาวด์",
+      "en": "Cloud Administration"
+    },
+    "name_en": "Cloud Architect",
+    "name_th": "สถาปนิกระบบคลาวด์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ออกแบบสถาปัตยกรรมคลาวด์ เลือกบริการ และเพิ่มประสิทธิภาพต้นทุน",
+    "description_en": "Design cloud architecture, select services, and optimize costs",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกรคลาวด์",
+      "สถาปนิกระบบคลาวด์",
+      "หัวหน้างานสถาปัตยกรรมคลาวด์",
+      "ผู้จัดการสถาปัตยกรรมคลาวด์",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Cloud Engineer",
+      "Cloud Architect",
+      "Cloud Architecture Supervisor",
+      "Cloud Architecture Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR178",
+    "program": "IT",
+    "cluster": {
+      "id": "CL36",
+      "th": "การจัดการระบบคลาวด์",
+      "en": "Cloud Administration"
+    },
+    "name_en": "Site Reliability Engineer",
+    "name_th": "วิศวกรความน่าเชื่อถือระบบ",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบและดูแลระบบ monitor, alerting, และ incident response",
+    "description_en": "Design and maintain monitoring, alerting, and incident response systems",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกรความน่าเชื่อถือระบบ",
+      "วิศวกรอาวุโส",
+      "หัวหน้างาน SRE",
+      "ผู้จัดการ SRE",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "SRE",
+      "Senior SRE",
+      "SRE Supervisor",
+      "SRE Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR179",
+    "program": "IT",
+    "cluster": {
+      "id": "CL36",
+      "th": "การจัดการระบบคลาวด์",
+      "en": "Cloud Administration"
+    },
+    "name_en": "Platform Engineer",
+    "name_th": "วิศวกร platform",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "สร้างและดูแล platform ภายใน จัดการ developer experience",
+    "description_en": "Build and maintain internal platforms, manage developer experience",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกร platform",
+      "วิศวกรอาวุโส",
+      "หัวหน้างาน platform",
+      "ผู้จัดการ platform",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Platform Engineer",
+      "Senior Platform Engineer",
+      "Platform Supervisor",
+      "Platform Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR180",
+    "program": "IT",
+    "cluster": {
+      "id": "CL36",
+      "th": "การจัดการระบบคลาวด์",
+      "en": "Cloud Administration"
+    },
+    "name_en": "Director of Cloud Infrastructure",
+    "name_th": "ผู้อำนวยการฝ่ายโครงสร้างพื้นฐานคลาวด์",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์คลาวด์ จัดการทีม และกำกับดูแลต้นทุน",
+    "description_en": "Lead cloud strategy, manage teams, and oversee costs",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกรคลาวด์",
+      "ผู้จัดการคลาวด์",
+      "ผู้อำนวยการฝ่ายโครงสร้างพื้นฐานคลาวด์",
+      "รองประธานฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Cloud Engineer",
+      "Cloud Manager",
+      "Director of Cloud Infrastructure",
+      "VP of Technology",
+      "Chief Technology Officer",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR181",
+    "program": "IT",
+    "cluster": {
+      "id": "CL37",
+      "th": "การออกแบบ UX/UI",
+      "en": "UX/UI Design"
+    },
+    "name_en": "UI Designer",
+    "name_th": "นักออกแบบ UI",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ออกแบบ interface สร้าง wireframe และ prototype สำหรับแอปพลิเคชัน",
+    "description_en": "Design interfaces, create wireframes, and build prototypes for applications",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานออกแบบ",
+      "นักออกแบบ UI",
+      "นักออกแบบ UI อาวุโส",
+      "หัวหน้านักออกแบบ",
+      "ผู้จัดการฝ่ายออกแบบ",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / Design Intern",
+      "UI Designer",
+      "Senior UI Designer",
+      "Design Supervisor",
+      "Design Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR182",
+    "program": "IT",
+    "cluster": {
+      "id": "CL37",
+      "th": "การออกแบบ UX/UI",
+      "en": "UX/UI Design"
+    },
+    "name_en": "UX Researcher",
+    "name_th": "นักวิจัย UX",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วิจัยพฤติกรรมผู้ใช้ ทดสอบ usability และให้ข้อมูลเชิงลึกแก่ทีม",
+    "description_en": "Research user behavior, conduct usability testing, and provide insights",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน UX",
+      "นักวิจัย UX",
+      "นักวิจัย UX อาวุโส",
+      "หัวหน้างาน UX",
+      "ผู้จัดการ UX",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / UX Intern",
+      "UX Researcher",
+      "Senior UX Researcher",
+      "UX Supervisor",
+      "UX Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR183",
+    "program": "IT",
+    "cluster": {
+      "id": "CL37",
+      "th": "การออกแบบ UX/UI",
+      "en": "UX/UI Design"
+    },
+    "name_en": "Product Designer",
+    "name_th": "นักออกแบบผลิตภัณฑ์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ออกแบบผลิตภัณฑ์ดิจิทัล ตั้งแต่ UX research ถึง UI design",
+    "description_en": "Design digital products, from UX research to UI design",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานออกแบบ",
+      "นักออกแบบผลิตภัณฑ์",
+      "นักออกแบบผลิตภัณฑ์อาวุโส",
+      "หัวหน้านักออกแบบ",
+      "ผู้จัดการฝ่ายออกแบบ",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / Design Intern",
+      "Product Designer",
+      "Senior Product Designer",
+      "Design Supervisor",
+      "Design Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR184",
+    "program": "IT",
+    "cluster": {
+      "id": "CL37",
+      "th": "การออกแบบ UX/UI",
+      "en": "UX/UI Design"
+    },
+    "name_en": "Design System Manager",
+    "name_th": "ผู้จัดการระบบการออกแบบ",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "สร้างและดูแล design system component library และมาตรฐาน",
+    "description_en": "Build and maintain design systems, component libraries, and standards",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานออกแบบ",
+      "นักออกแบบผลิตภัณฑ์",
+      "ผู้จัดการระบบการออกแบบ",
+      "หัวหน้างานระบบออกแบบ",
+      "ผู้จัดการฝ่ายออกแบบ",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / Design Intern",
+      "Product Designer",
+      "Design System Manager",
+      "Design System Supervisor",
+      "Design Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR185",
+    "program": "IT",
+    "cluster": {
+      "id": "CL37",
+      "th": "การออกแบบ UX/UI",
+      "en": "UX/UI Design"
+    },
+    "name_en": "Director of Design",
+    "name_th": "ผู้อำนวยการฝ่ายออกแบบ",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การออกแบบ จัดการทีม และกำกับดูแล user experience",
+    "description_en": "Lead design strategy, manage teams, and oversee user experience",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 5,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานออกแบบ",
+      "นักออกแบบผลิตภัณฑ์",
+      "ผู้จัดการฝ่ายออกแบบ",
+      "ผู้อำนวยการฝ่ายออกแบบ",
+      "รองประธานฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Design Intern",
+      "Product Designer",
+      "Design Manager",
+      "Director of Design",
+      "VP of Technology",
+      "Chief Technology Officer",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR186",
+    "program": "IT",
+    "cluster": {
+      "id": "CL38",
+      "th": "การสนับสนุนด้านไอที",
+      "en": "IT Support"
+    },
+    "name_en": "IT Help Desk Technician",
+    "name_th": "เจ้าหน้าที่ IT Help Desk",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ให้การสนับสนุนทางเทคนิค แก้ไขปัญหาเบื้องต้น และจัดการตั๋ว",
+    "description_en": "Provide technical support, resolve basic issues, and manage tickets",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C05": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "เจ้าหน้าที่ IT Help Desk",
+      "เจ้าหน้าที่ IT อาวุโส",
+      "หัวหน้างาน IT",
+      "ผู้จัดการ IT",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "IT Help Desk Technician",
+      "Senior IT Support",
+      "IT Supervisor",
+      "IT Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR187",
+    "program": "IT",
+    "cluster": {
+      "id": "CL38",
+      "th": "การสนับสนุนด้านไอที",
+      "en": "IT Support"
+    },
+    "name_en": "Desktop Support Specialist",
+    "name_th": "ผู้เชี่ยวชาญ Desktop Support",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ติดตั้ง ดูแล และแก้ไขปัญหาอุปกรณ์ desktop และ peripheral",
+    "description_en": "Install, maintain, and troubleshoot desktop devices and peripherals",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "ผู้เชี่ยวชาญ Desktop Support",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างาน IT",
+      "ผู้จัดการ IT",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Desktop Support Specialist",
+      "Senior Desktop Support",
+      "IT Supervisor",
+      "IT Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR188",
+    "program": "IT",
+    "cluster": {
+      "id": "CL38",
+      "th": "การสนับสนุนด้านไอที",
+      "en": "IT Support"
+    },
+    "name_en": "Network Administrator",
+    "name_th": "ผู้ดูแลระบบ network",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ติดตั้ง ดูแล และแก้ไขปัญหา network infrastructure",
+    "description_en": "Install, maintain, and troubleshoot network infrastructure",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 5,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "ผู้ดูแลระบบ network",
+      "ผู้ดูแลอาวุโส",
+      "หัวหน้างาน network",
+      "ผู้จัดการ network",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Network Administrator",
+      "Senior Network Admin",
+      "Network Supervisor",
+      "Network Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR189",
+    "program": "IT",
+    "cluster": {
+      "id": "CL38",
+      "th": "การสนับสนุนด้านไอที",
+      "en": "IT Support"
+    },
+    "name_en": "Systems Administrator",
+    "name_th": "ผู้ดูแลระบบ",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ดูแล server OS และ infrastructure จัดการ patch และ security",
+    "description_en": "Maintain servers, OS, and infrastructure; manage patches and security",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C09": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "ผู้ดูแลระบบ",
+      "ผู้ดูแลอาวุโส",
+      "หัวหน้างาน systems",
+      "ผู้จัดการ systems",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Systems Administrator",
+      "Senior Systems Admin",
+      "Systems Supervisor",
+      "Systems Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR190",
+    "program": "IT",
+    "cluster": {
+      "id": "CL38",
+      "th": "การสนับสนุนด้านไอที",
+      "en": "IT Support"
+    },
+    "name_en": "Director of IT Operations",
+    "name_th": "ผู้อำนวยการฝ่ายปฏิบัติการ IT",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ IT ops จัดการทีม และกำกับดูแล infrastructure",
+    "description_en": "Lead IT ops strategy, manage teams, and oversee infrastructure",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 5,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "เจ้าหน้าที่ IT",
+      "ผู้จัดการ IT",
+      "ผู้อำนวยการฝ่ายปฏิบัติการ IT",
+      "รองประธานฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "IT Specialist",
+      "IT Manager",
+      "Director of IT Operations",
+      "VP of Technology",
+      "Chief Technology Officer",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR191",
+    "program": "IT",
+    "cluster": {
+      "id": "CL39",
+      "th": "การพัฒนาแอปพลิเคชันมือถือ",
+      "en": "Mobile App Development"
+    },
+    "name_en": "Mobile App Developer Junior",
+    "name_th": "นักพัฒนาแอปมือถือ Junior",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "พัฒนาฟีเจอร์แอปมือถือ แก้ไขข้อผิดพลาด และทดสอบ",
+    "description_en": "Develop mobile app features, fix bugs, and test",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C06": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนาแอปมือถือ Junior",
+      "นักพัฒนาแอปมือถือ",
+      "นักพัฒนาอาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Junior Mobile Developer",
+      "Mobile App Developer",
+      "Senior Mobile Developer",
+      "Dev Lead",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR192",
+    "program": "IT",
+    "cluster": {
+      "id": "CL39",
+      "th": "การพัฒนาแอปพลิเคชันมือถือ",
+      "en": "Mobile App Development"
+    },
+    "name_en": "iOS Developer",
+    "name_th": "นักพัฒนา iOS",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "พัฒนาแอป iOS ด้วย Swift/Objective-C และ UIKit/SwiftUI",
+    "description_en": "Develop iOS apps with Swift/Objective-C and UIKit/SwiftUI",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนา iOS",
+      "นักพัฒนา iOS อาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "iOS Developer",
+      "Senior iOS Developer",
+      "Dev Supervisor",
+      "Dev Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR193",
+    "program": "IT",
+    "cluster": {
+      "id": "CL39",
+      "th": "การพัฒนาแอปพลิเคชันมือถือ",
+      "en": "Mobile App Development"
+    },
+    "name_en": "Android Developer",
+    "name_th": "นักพัฒนา Android",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "พัฒนาแอป Android ด้วย Kotlin/Java และ Jetpack",
+    "description_en": "Develop Android apps with Kotlin/Java and Jetpack",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนา Android",
+      "นักพัฒนา Android อาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Android Developer",
+      "Senior Android Developer",
+      "Dev Supervisor",
+      "Dev Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR194",
+    "program": "IT",
+    "cluster": {
+      "id": "CL39",
+      "th": "การพัฒนาแอปพลิเคชันมือถือ",
+      "en": "Mobile App Development"
+    },
+    "name_en": "Cross-Platform Developer",
+    "name_th": "นักพัฒนาข้ามแพลตฟอร์ม",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "พัฒนาแอปข้ามแพลตฟอร์มด้วย React Native หรือ Flutter",
+    "description_en": "Develop cross-platform apps using React Native or Flutter",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C09": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 1,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนาข้ามแพลตฟอร์ม",
+      "นักพัฒนาอาวุโส",
+      "หัวหน้านักพัฒนา",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Cross-Platform Developer",
+      "Senior Cross-Platform Developer",
+      "Dev Supervisor",
+      "Dev Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR195",
+    "program": "IT",
+    "cluster": {
+      "id": "CL39",
+      "th": "การพัฒนาแอปพลิเคชันมือถือ",
+      "en": "Mobile App Development"
+    },
+    "name_en": "Director of Mobile Engineering",
+    "name_th": "ผู้อำนวยการฝ่ายวิศวกรรมมือถือ",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์วิศวกรรมมือถือ จัดการทีม และกำกับดูแล application",
+    "description_en": "Lead mobile engineering strategy, manage teams, and oversee applications",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักพัฒนาแอปมือถือ",
+      "ผู้จัดการฝ่ายพัฒนา",
+      "ผู้อำนวยการฝ่ายวิศวกรรมมือถือ",
+      "รองประธานฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Mobile Developer",
+      "Dev Manager",
+      "Director of Mobile Engineering",
+      "VP of Technology",
+      "Chief Technology Officer",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR196",
+    "program": "IT",
+    "cluster": {
+      "id": "CL40",
+      "th": "ปัญญาประดิษฐ์และ machine learning",
+      "en": "AI & Machine Learning"
+    },
+    "name_en": "ML Engineer",
+    "name_th": "วิศวกร Machine Learning",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "สร้างและ deploy โมเดล ML ปรับแต่ง และ monitor ประสิทธิภาพ",
+    "description_en": "Build and deploy ML models, fine-tune, and monitor performance",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 1,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกร ML",
+      "วิศวกร ML อาวุโส",
+      "หัวหน้างาน ML",
+      "ผู้จัดการ ML",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "ML Engineer",
+      "Senior ML Engineer",
+      "ML Supervisor",
+      "ML Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR197",
+    "program": "IT",
+    "cluster": {
+      "id": "CL40",
+      "th": "ปัญญาประดิษฐ์และ machine learning",
+      "en": "AI & Machine Learning"
+    },
+    "name_en": "AI Research Scientist",
+    "name_th": "นักวิจัย AI",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วิจัยและพัฒนาเทคนิค AI ใหม่ เผยแพร่งานวิจัย",
+    "description_en": "Research and develop new AI techniques, publish research",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "นักวิจัย AI",
+      "นักวิจัยอาวุโส",
+      "หัวหน้างานวิจัย",
+      "ผู้จัดการวิจัย",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "AI Research Scientist",
+      "Senior AI Researcher",
+      "Research Supervisor",
+      "Research Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR198",
+    "program": "IT",
+    "cluster": {
+      "id": "CL40",
+      "th": "ปัญญาประดิษฐ์และ machine learning",
+      "en": "AI & Machine Learning"
+    },
+    "name_en": "NLP Engineer",
+    "name_th": "วิศวกร NLP",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "พัฒนาระบบประมวลผลภาษาธรรมชาติ chatbot และ language model",
+    "description_en": "Develop NLP systems, chatbots, and language models",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกร NLP",
+      "วิศวกร NLP อาวุโส",
+      "หัวหน้างาน NLP",
+      "ผู้จัดการ NLP",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "NLP Engineer",
+      "Senior NLP Engineer",
+      "NLP Supervisor",
+      "NLP Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR199",
+    "program": "IT",
+    "cluster": {
+      "id": "CL40",
+      "th": "ปัญญาประดิษฐ์และ machine learning",
+      "en": "AI & Machine Learning"
+    },
+    "name_en": "Computer Vision Engineer",
+    "name_th": "วิศวกร Computer Vision",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "พัฒนาระบบประมวลผลภาพ detection และ image analysis",
+    "description_en": "Develop image processing systems, detection, and analysis",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 1,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกร Computer Vision",
+      "วิศวกรอาวุโส",
+      "หัวหน้างาน CV",
+      "ผู้จัดการ CV",
+      "ผู้จัดการฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "Computer Vision Engineer",
+      "Senior CV Engineer",
+      "CV Supervisor",
+      "CV Manager",
+      "Director of Technology",
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "CR200",
+    "program": "IT",
+    "cluster": {
+      "id": "CL40",
+      "th": "ปัญญาประดิษฐ์และ machine learning",
+      "en": "AI & Machine Learning"
+    },
+    "name_en": "Director of AI",
+    "name_th": "ผู้อำนวยการฝ่าย AI",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ AI จัดการทีม และกำกับดูแลการใช้งาน AI ในองค์กร",
+    "description_en": "Lead AI strategy, manage teams, and oversee enterprise AI usage",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน IT",
+      "วิศวกร AI",
+      "ผู้จัดการ AI",
+      "ผู้อำนวยการฝ่าย AI",
+      "รองประธานฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / IT Intern",
+      "AI Engineer",
+      "AI Manager",
+      "Director of AI",
+      "VP of Technology",
+      "Chief Technology Officer",
+      "Chief Operating Officer"
+    ]
+  }
+]

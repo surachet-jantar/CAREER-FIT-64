@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (scripts tooling)
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Build output (if any)
+dist/
+build/
+
+# Scratch / working notes
+.scratch/
+
+# Backup files
+*.bak

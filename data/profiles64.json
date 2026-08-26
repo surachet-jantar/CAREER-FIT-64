@@ -1,0 +1,1218 @@
+[
+ {
+  "id": "INTJ-S",
+  "base_type": "INTJ",
+  "mode": "S",
+  "name_en": "Strategic Logistics Architect",
+  "name_th": "นักวางระบบเชิงกลยุทธ์ • เชิงกลยุทธ์",
+  "top_careers": [
+   "Logistics Data Analyst",
+   "Supply Chain Analyst",
+   "Transportation Analyst"
+  ],
+  "top_career_ids": [
+   "CR16",
+   "CR17",
+   "CR18",
+   "CR19",
+   "CR20"
+  ]
+ },
+ {
+  "id": "INTJ-O",
+  "base_type": "INTJ",
+  "mode": "O",
+  "name_en": "Process Optimization Architect",
+  "name_th": "นักวางระบบเชิงกลยุทธ์ • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Logistics Data Analyst",
+   "Supply Chain Analyst",
+   "Transportation Analyst"
+  ],
+  "top_career_ids": [
+   "CR16",
+   "CR17",
+   "CR18",
+   "CR19",
+   "CR20"
+  ]
+ },
+ {
+  "id": "INTJ-C",
+  "base_type": "INTJ",
+  "mode": "C",
+  "name_en": "Supply Chain Strategy Coordinator",
+  "name_th": "นักวางระบบเชิงกลยุทธ์ • เชิงความร่วมมือ",
+  "top_careers": [
+   "Demand Planner",
+   "Supply Planner",
+   "Production Planner"
+  ],
+  "top_career_ids": [
+   "CR11",
+   "CR12",
+   "CR13",
+   "CR14",
+   "CR15"
+  ]
+ },
+ {
+  "id": "INTJ-A",
+  "base_type": "INTJ",
+  "mode": "A",
+  "name_en": "Digital Logistics Innovator",
+  "name_th": "นักวางระบบเชิงกลยุทธ์ • เชิงปรับตัว",
+  "top_careers": [
+   "WMS Specialist",
+   "TMS Specialist",
+   "ERP Supply Chain Specialist"
+  ],
+  "top_career_ids": [
+   "CR36",
+   "CR37",
+   "CR38",
+   "CR39",
+   "CR40"
+  ]
+ },
+ {
+  "id": "INTP-S",
+  "base_type": "INTP",
+  "mode": "S",
+  "name_en": "Supply Chain Systems Thinker",
+  "name_th": "นักคิดวิเคราะห์ระบบ • เชิงกลยุทธ์",
+  "top_careers": [
+   "Logistics Data Analyst",
+   "Supply Chain Analyst",
+   "Transportation Analyst"
+  ],
+  "top_career_ids": [
+   "CR16",
+   "CR17",
+   "CR18",
+   "CR19",
+   "CR20"
+  ]
+ },
+ {
+  "id": "INTP-O",
+  "base_type": "INTP",
+  "mode": "O",
+  "name_en": "Logistics Optimization Analyst",
+  "name_th": "นักคิดวิเคราะห์ระบบ • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Logistics Data Analyst",
+   "Supply Chain Analyst",
+   "Transportation Analyst"
+  ],
+  "top_career_ids": [
+   "CR16",
+   "CR17",
+   "CR18",
+   "CR19",
+   "CR20"
+  ]
+ },
+ {
+  "id": "INTP-C",
+  "base_type": "INTP",
+  "mode": "C",
+  "name_en": "Knowledge & Solution Analyst",
+  "name_th": "นักคิดวิเคราะห์ระบบ • เชิงความร่วมมือ",
+  "top_careers": [
+   "WMS Specialist",
+   "TMS Specialist",
+   "ERP Supply Chain Specialist"
+  ],
+  "top_career_ids": [
+   "CR36",
+   "CR37",
+   "CR38",
+   "CR39",
+   "CR40"
+  ]
+ },
+ {
+  "id": "INTP-A",
+  "base_type": "INTP",
+  "mode": "A",
+  "name_en": "Logistics Innovation Explorer",
+  "name_th": "นักคิดวิเคราะห์ระบบ • เชิงปรับตัว",
+  "top_careers": [
+   "WMS Specialist",
+   "TMS Specialist",
+   "ERP Supply Chain Specialist"
+  ],
+  "top_career_ids": [
+   "CR36",
+   "CR37",
+   "CR38",
+   "CR39",
+   "CR40"
+  ]
+ },
+ {
+  "id": "ENTJ-S",
+  "base_type": "ENTJ",
+  "mode": "S",
+  "name_en": "Supply Chain Commander",
+  "name_th": "ผู้นำเชิงกลยุทธ์ • เชิงกลยุทธ์",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENTJ-O",
+  "base_type": "ENTJ",
+  "mode": "O",
+  "name_en": "Operations Commander",
+  "name_th": "ผู้นำเชิงกลยุทธ์ • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENTJ-C",
+  "base_type": "ENTJ",
+  "mode": "C",
+  "name_en": "Logistics Team Director",
+  "name_th": "ผู้นำเชิงกลยุทธ์ • เชิงความร่วมมือ",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENTJ-A",
+  "base_type": "ENTJ",
+  "mode": "A",
+  "name_en": "Transformation Leader",
+  "name_th": "ผู้นำเชิงกลยุทธ์ • เชิงปรับตัว",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENTP-S",
+  "base_type": "ENTP",
+  "mode": "S",
+  "name_en": "Supply Chain Solution Strategist",
+  "name_th": "นักสร้างทางเลือกและนวัตกรรม • เชิงกลยุทธ์",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENTP-O",
+  "base_type": "ENTP",
+  "mode": "O",
+  "name_en": "Operations Problem Solver",
+  "name_th": "นักสร้างทางเลือกและนวัตกรรม • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENTP-C",
+  "base_type": "ENTP",
+  "mode": "C",
+  "name_en": "Logistics Business Innovator",
+  "name_th": "นักสร้างทางเลือกและนวัตกรรม • เชิงความร่วมมือ",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENTP-A",
+  "base_type": "ENTP",
+  "mode": "A",
+  "name_en": "Disruptive Logistics Creator",
+  "name_th": "นักสร้างทางเลือกและนวัตกรรม • เชิงปรับตัว",
+  "top_careers": [
+   "WMS Specialist",
+   "TMS Specialist",
+   "ERP Supply Chain Specialist"
+  ],
+  "top_career_ids": [
+   "CR36",
+   "CR37",
+   "CR38",
+   "CR39",
+   "CR40"
+  ]
+ },
+ {
+  "id": "INFJ-S",
+  "base_type": "INFJ",
+  "mode": "S",
+  "name_en": "Sustainable Supply Chain Planner",
+  "name_th": "นักวางแผนเพื่อผู้คนและคุณค่า • เชิงกลยุทธ์",
+  "top_careers": [
+   "Logistics Data Analyst",
+   "Supply Chain Analyst",
+   "Transportation Analyst"
+  ],
+  "top_career_ids": [
+   "CR16",
+   "CR17",
+   "CR18",
+   "CR19",
+   "CR20"
+  ]
+ },
+ {
+  "id": "INFJ-O",
+  "base_type": "INFJ",
+  "mode": "O",
+  "name_en": "Responsible Operations Planner",
+  "name_th": "นักวางแผนเพื่อผู้คนและคุณค่า • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Logistics Data Analyst",
+   "Supply Chain Analyst",
+   "Transportation Analyst"
+  ],
+  "top_career_ids": [
+   "CR16",
+   "CR17",
+   "CR18",
+   "CR19",
+   "CR20"
+  ]
+ },
+ {
+  "id": "INFJ-C",
+  "base_type": "INFJ",
+  "mode": "C",
+  "name_en": "People-Centered Coordinator",
+  "name_th": "นักวางแผนเพื่อผู้คนและคุณค่า • เชิงความร่วมมือ",
+  "top_careers": [
+   "Reverse Logistics Specialist",
+   "Green Logistics Specialist",
+   "Sustainable Supply Chain Analyst"
+  ],
+  "top_career_ids": [
+   "CR41",
+   "CR42",
+   "CR43",
+   "CR44",
+   "CR45"
+  ]
+ },
+ {
+  "id": "INFJ-A",
+  "base_type": "INFJ",
+  "mode": "A",
+  "name_en": "Sustainability Innovator",
+  "name_th": "นักวางแผนเพื่อผู้คนและคุณค่า • เชิงปรับตัว",
+  "top_careers": [
+   "Reverse Logistics Specialist",
+   "Green Logistics Specialist",
+   "Sustainable Supply Chain Analyst"
+  ],
+  "top_career_ids": [
+   "CR41",
+   "CR42",
+   "CR43",
+   "CR44",
+   "CR45"
+  ]
+ },
+ {
+  "id": "INFP-S",
+  "base_type": "INFP",
+  "mode": "S",
+  "name_en": "Ethical Logistics Planner",
+  "name_th": "นักสร้างคุณค่าและความหมาย • เชิงกลยุทธ์",
+  "top_careers": [
+   "Logistics Data Analyst",
+   "Supply Chain Analyst",
+   "Transportation Analyst"
+  ],
+  "top_career_ids": [
+   "CR16",
+   "CR17",
+   "CR18",
+   "CR19",
+   "CR20"
+  ]
+ },
+ {
+  "id": "INFP-O",
+  "base_type": "INFP",
+  "mode": "O",
+  "name_en": "Responsible Operations Supporter",
+  "name_th": "นักสร้างคุณค่าและความหมาย • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Reverse Logistics Specialist",
+   "Green Logistics Specialist",
+   "Sustainable Supply Chain Analyst"
+  ],
+  "top_career_ids": [
+   "CR41",
+   "CR42",
+   "CR43",
+   "CR44",
+   "CR45"
+  ]
+ },
+ {
+  "id": "INFP-C",
+  "base_type": "INFP",
+  "mode": "C",
+  "name_en": "Customer Experience Advocate",
+  "name_th": "นักสร้างคุณค่าและความหมาย • เชิงความร่วมมือ",
+  "top_careers": [
+   "Reverse Logistics Specialist",
+   "Green Logistics Specialist",
+   "Sustainable Supply Chain Analyst"
+  ],
+  "top_career_ids": [
+   "CR41",
+   "CR42",
+   "CR43",
+   "CR44",
+   "CR45"
+  ]
+ },
+ {
+  "id": "INFP-A",
+  "base_type": "INFP",
+  "mode": "A",
+  "name_en": "Green Logistics Creator",
+  "name_th": "นักสร้างคุณค่าและความหมาย • เชิงปรับตัว",
+  "top_careers": [
+   "Reverse Logistics Specialist",
+   "Green Logistics Specialist",
+   "Sustainable Supply Chain Analyst"
+  ],
+  "top_career_ids": [
+   "CR41",
+   "CR42",
+   "CR43",
+   "CR44",
+   "CR45"
+  ]
+ },
+ {
+  "id": "ENFJ-S",
+  "base_type": "ENFJ",
+  "mode": "S",
+  "name_en": "People Strategy Leader",
+  "name_th": "ผู้นำด้านคนและความสัมพันธ์ • เชิงกลยุทธ์",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENFJ-O",
+  "base_type": "ENFJ",
+  "mode": "O",
+  "name_en": "Operations Team Coach",
+  "name_th": "ผู้นำด้านคนและความสัมพันธ์ • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENFJ-C",
+  "base_type": "ENFJ",
+  "mode": "C",
+  "name_en": "Logistics Relationship Leader",
+  "name_th": "ผู้นำด้านคนและความสัมพันธ์ • เชิงความร่วมมือ",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENFJ-A",
+  "base_type": "ENFJ",
+  "mode": "A",
+  "name_en": "Change Management Leader",
+  "name_th": "ผู้นำด้านคนและความสัมพันธ์ • เชิงปรับตัว",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR30",
+   "CR46"
+  ]
+ },
+ {
+  "id": "ENFP-S",
+  "base_type": "ENFP",
+  "mode": "S",
+  "name_en": "Logistics Opportunity Planner",
+  "name_th": "นักเชื่อมโยงโอกาส • เชิงกลยุทธ์",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENFP-O",
+  "base_type": "ENFP",
+  "mode": "O",
+  "name_en": "Dynamic Operations Coordinator",
+  "name_th": "นักเชื่อมโยงโอกาส • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENFP-C",
+  "base_type": "ENFP",
+  "mode": "C",
+  "name_en": "Logistics Connector",
+  "name_th": "นักเชื่อมโยงโอกาส • เชิงความร่วมมือ",
+  "top_careers": [
+   "Logistics Operations Manager",
+   "Supply Chain Manager",
+   "Supply Chain Director"
+  ],
+  "top_career_ids": [
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR46",
+   "CR47"
+  ]
+ },
+ {
+  "id": "ENFP-A",
+  "base_type": "ENFP",
+  "mode": "A",
+  "name_en": "Business Innovation Explorer",
+  "name_th": "นักเชื่อมโยงโอกาส • เชิงปรับตัว",
+  "top_careers": [
+   "Reverse Logistics Specialist",
+   "Green Logistics Specialist",
+   "Sustainable Supply Chain Analyst"
+  ],
+  "top_career_ids": [
+   "CR41",
+   "CR42",
+   "CR43",
+   "CR44",
+   "CR45"
+  ]
+ },
+ {
+  "id": "ISTJ-S",
+  "base_type": "ISTJ",
+  "mode": "S",
+  "name_en": "Logistics Control Planner",
+  "name_th": "ผู้ควบคุมระบบอย่างเป็นระเบียบ • เชิงกลยุทธ์",
+  "top_careers": [
+   "Customs Documentation Officer",
+   "Customs Clearance Specialist",
+   "Trade Compliance Specialist"
+  ],
+  "top_career_ids": [
+   "CR31",
+   "CR32",
+   "CR33",
+   "CR34",
+   "CR04"
+  ]
+ },
+ {
+  "id": "ISTJ-O",
+  "base_type": "ISTJ",
+  "mode": "O",
+  "name_en": "Precision Operations Controller",
+  "name_th": "ผู้ควบคุมระบบอย่างเป็นระเบียบ • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Warehouse Officer",
+   "Inventory Controller",
+   "Warehouse Supervisor"
+  ],
+  "top_career_ids": [
+   "CR01",
+   "CR02",
+   "CR03",
+   "CR04",
+   "CR05"
+  ]
+ },
+ {
+  "id": "ISTJ-C",
+  "base_type": "ISTJ",
+  "mode": "C",
+  "name_en": "Compliance Coordinator",
+  "name_th": "ผู้ควบคุมระบบอย่างเป็นระเบียบ • เชิงความร่วมมือ",
+  "top_careers": [
+   "Warehouse Manager",
+   "Inventory Planning Manager",
+   "Customs & Compliance Manager"
+  ],
+  "top_career_ids": [
+   "CR04",
+   "CR05",
+   "CR35",
+   "CR01",
+   "CR02"
+  ]
+ },
+ {
+  "id": "ISTJ-A",
+  "base_type": "ISTJ",
+  "mode": "A",
+  "name_en": "Process Improvement Specialist",
+  "name_th": "ผู้ควบคุมระบบอย่างเป็นระเบียบ • เชิงปรับตัว",
+  "top_careers": [
+   "Warehouse Officer",
+   "Inventory Controller",
+   "Warehouse Supervisor"
+  ],
+  "top_career_ids": [
+   "CR01",
+   "CR02",
+   "CR03",
+   "CR04",
+   "CR05"
+  ]
+ },
+ {
+  "id": "ISFJ-S",
+  "base_type": "ISFJ",
+  "mode": "S",
+  "name_en": "Service Logistics Planner",
+  "name_th": "ผู้ดูแลระบบและบริการ • เชิงกลยุทธ์",
+  "top_careers": [
+   "Warehouse Manager",
+   "Inventory Planning Manager",
+   "Customs Documentation Officer"
+  ],
+  "top_career_ids": [
+   "CR04",
+   "CR05",
+   "CR31",
+   "CR32",
+   "CR33"
+  ]
+ },
+ {
+  "id": "ISFJ-O",
+  "base_type": "ISFJ",
+  "mode": "O",
+  "name_en": "Reliable Operations Supporter",
+  "name_th": "ผู้ดูแลระบบและบริการ • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Warehouse Officer",
+   "Inventory Controller",
+   "Warehouse Supervisor"
+  ],
+  "top_career_ids": [
+   "CR01",
+   "CR02",
+   "CR03",
+   "CR04",
+   "CR05"
+  ]
+ },
+ {
+  "id": "ISFJ-C",
+  "base_type": "ISFJ",
+  "mode": "C",
+  "name_en": "Customer Logistics Guardian",
+  "name_th": "ผู้ดูแลระบบและบริการ • เชิงความร่วมมือ",
+  "top_careers": [
+   "Warehouse Manager",
+   "Inventory Planning Manager",
+   "Customs & Compliance Manager"
+  ],
+  "top_career_ids": [
+   "CR04",
+   "CR05",
+   "CR35",
+   "CR01",
+   "CR02"
+  ]
+ },
+ {
+  "id": "ISFJ-A",
+  "base_type": "ISFJ",
+  "mode": "A",
+  "name_en": "Service Improvement Specialist",
+  "name_th": "ผู้ดูแลระบบและบริการ • เชิงปรับตัว",
+  "top_careers": [
+   "Warehouse Officer",
+   "Inventory Controller",
+   "Warehouse Supervisor"
+  ],
+  "top_career_ids": [
+   "CR01",
+   "CR02",
+   "CR03",
+   "CR04",
+   "CR05"
+  ]
+ },
+ {
+  "id": "ESTJ-S",
+  "base_type": "ESTJ",
+  "mode": "S",
+  "name_en": "Logistics Operations Strategist",
+  "name_th": "ผู้บริหารงานปฏิบัติการ • เชิงกลยุทธ์",
+  "top_careers": [
+   "Warehouse Manager",
+   "Inventory Planning Manager",
+   "Transportation Manager"
+  ],
+  "top_career_ids": [
+   "CR04",
+   "CR05",
+   "CR10",
+   "CR35",
+   "CR48"
+  ]
+ },
+ {
+  "id": "ESTJ-O",
+  "base_type": "ESTJ",
+  "mode": "O",
+  "name_en": "Operations Commander",
+  "name_th": "ผู้บริหารงานปฏิบัติการ • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Warehouse Manager",
+   "Inventory Planning Manager",
+   "Transportation Manager"
+  ],
+  "top_career_ids": [
+   "CR04",
+   "CR05",
+   "CR10",
+   "CR01",
+   "CR02"
+  ]
+ },
+ {
+  "id": "ESTJ-C",
+  "base_type": "ESTJ",
+  "mode": "C",
+  "name_en": "Logistics Team Supervisor",
+  "name_th": "ผู้บริหารงานปฏิบัติการ • เชิงความร่วมมือ",
+  "top_careers": [
+   "Warehouse Manager",
+   "Inventory Planning Manager",
+   "Transportation Manager"
+  ],
+  "top_career_ids": [
+   "CR04",
+   "CR05",
+   "CR10",
+   "CR35",
+   "CR25"
+  ]
+ },
+ {
+  "id": "ESTJ-A",
+  "base_type": "ESTJ",
+  "mode": "A",
+  "name_en": "Operational Transformation Manager",
+  "name_th": "ผู้บริหารงานปฏิบัติการ • เชิงปรับตัว",
+  "top_careers": [
+   "Transportation Manager",
+   "Dispatcher",
+   "Fleet Controller"
+  ],
+  "top_career_ids": [
+   "CR10",
+   "CR06",
+   "CR07",
+   "CR08",
+   "CR09"
+  ]
+ },
+ {
+  "id": "ESFJ-S",
+  "base_type": "ESFJ",
+  "mode": "S",
+  "name_en": "Customer Operations Planner",
+  "name_th": "ผู้ประสานงานและดูแลลูกค้า • เชิงกลยุทธ์",
+  "top_careers": [
+   "International Logistics Manager",
+   "Logistics Operations Manager",
+   "Supply Chain Manager"
+  ],
+  "top_career_ids": [
+   "CR30",
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR04"
+  ]
+ },
+ {
+  "id": "ESFJ-O",
+  "base_type": "ESFJ",
+  "mode": "O",
+  "name_en": "Service Operations Coordinator",
+  "name_th": "ผู้ประสานงานและดูแลลูกค้า • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Warehouse Manager",
+   "Inventory Planning Manager",
+   "Transportation Manager"
+  ],
+  "top_career_ids": [
+   "CR04",
+   "CR05",
+   "CR10",
+   "CR30",
+   "CR01"
+  ]
+ },
+ {
+  "id": "ESFJ-C",
+  "base_type": "ESFJ",
+  "mode": "C",
+  "name_en": "Logistics Relationship Champion",
+  "name_th": "ผู้ประสานงานและดูแลลูกค้า • เชิงความร่วมมือ",
+  "top_careers": [
+   "International Logistics Manager",
+   "Import Officer",
+   "Export Officer"
+  ],
+  "top_career_ids": [
+   "CR30",
+   "CR26",
+   "CR27",
+   "CR28",
+   "CR29"
+  ]
+ },
+ {
+  "id": "ESFJ-A",
+  "base_type": "ESFJ",
+  "mode": "A",
+  "name_en": "Customer Experience Improver",
+  "name_th": "ผู้ประสานงานและดูแลลูกค้า • เชิงปรับตัว",
+  "top_careers": [
+   "International Logistics Manager",
+   "Import Officer",
+   "Export Officer"
+  ],
+  "top_career_ids": [
+   "CR30",
+   "CR26",
+   "CR27",
+   "CR28",
+   "CR29"
+  ]
+ },
+ {
+  "id": "ISTP-S",
+  "base_type": "ISTP",
+  "mode": "S",
+  "name_en": "Technical Logistics Planner",
+  "name_th": "นักแก้ปัญหาเชิงเทคนิค • เชิงกลยุทธ์",
+  "top_careers": [
+   "Logistics Data Analyst",
+   "Supply Chain Analyst",
+   "Transportation Analyst"
+  ],
+  "top_career_ids": [
+   "CR16",
+   "CR17",
+   "CR18",
+   "CR19",
+   "CR20"
+  ]
+ },
+ {
+  "id": "ISTP-O",
+  "base_type": "ISTP",
+  "mode": "O",
+  "name_en": "Logistics Technical Specialist",
+  "name_th": "นักแก้ปัญหาเชิงเทคนิค • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Warehouse Officer",
+   "Inventory Controller",
+   "Warehouse Supervisor"
+  ],
+  "top_career_ids": [
+   "CR01",
+   "CR02",
+   "CR03",
+   "CR04",
+   "CR05"
+  ]
+ },
+ {
+  "id": "ISTP-C",
+  "base_type": "ISTP",
+  "mode": "C",
+  "name_en": "Technical Operations Coordinator",
+  "name_th": "นักแก้ปัญหาเชิงเทคนิค • เชิงความร่วมมือ",
+  "top_careers": [
+   "Warehouse Manager",
+   "Inventory Planning Manager",
+   "Customs & Compliance Manager"
+  ],
+  "top_career_ids": [
+   "CR04",
+   "CR05",
+   "CR35",
+   "CR06",
+   "CR07"
+  ]
+ },
+ {
+  "id": "ISTP-A",
+  "base_type": "ISTP",
+  "mode": "A",
+  "name_en": "Automation Problem Solver",
+  "name_th": "นักแก้ปัญหาเชิงเทคนิค • เชิงปรับตัว",
+  "top_careers": [
+   "Dispatcher",
+   "Fleet Controller",
+   "Transport Planner"
+  ],
+  "top_career_ids": [
+   "CR06",
+   "CR07",
+   "CR08",
+   "CR09",
+   "CR36"
+  ]
+ },
+ {
+  "id": "ISFP-S",
+  "base_type": "ISFP",
+  "mode": "S",
+  "name_en": "Sustainable Operations Designer",
+  "name_th": "ผู้ปฏิบัติงานยืดหยุ่นและใส่ใจคุณภาพ • เชิงกลยุทธ์",
+  "top_careers": [
+   "Customs Documentation Officer",
+   "Customs Clearance Specialist",
+   "Trade Compliance Specialist"
+  ],
+  "top_career_ids": [
+   "CR31",
+   "CR32",
+   "CR33",
+   "CR34",
+   "CR04"
+  ]
+ },
+ {
+  "id": "ISFP-O",
+  "base_type": "ISFP",
+  "mode": "O",
+  "name_en": "Quality Operations Specialist",
+  "name_th": "ผู้ปฏิบัติงานยืดหยุ่นและใส่ใจคุณภาพ • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Warehouse Officer",
+   "Inventory Controller",
+   "Warehouse Supervisor"
+  ],
+  "top_career_ids": [
+   "CR01",
+   "CR02",
+   "CR03",
+   "CR04",
+   "CR05"
+  ]
+ },
+ {
+  "id": "ISFP-C",
+  "base_type": "ISFP",
+  "mode": "C",
+  "name_en": "Service Operations Supporter",
+  "name_th": "ผู้ปฏิบัติงานยืดหยุ่นและใส่ใจคุณภาพ • เชิงความร่วมมือ",
+  "top_careers": [
+   "Import Officer",
+   "Export Officer",
+   "Shipping Coordinator"
+  ],
+  "top_career_ids": [
+   "CR26",
+   "CR27",
+   "CR28",
+   "CR29",
+   "CR04"
+  ]
+ },
+ {
+  "id": "ISFP-A",
+  "base_type": "ISFP",
+  "mode": "A",
+  "name_en": "Packaging & Process Creator",
+  "name_th": "ผู้ปฏิบัติงานยืดหยุ่นและใส่ใจคุณภาพ • เชิงปรับตัว",
+  "top_careers": [
+   "Dispatcher",
+   "Fleet Controller",
+   "Transport Planner"
+  ],
+  "top_career_ids": [
+   "CR06",
+   "CR07",
+   "CR08",
+   "CR09",
+   "CR41"
+  ]
+ },
+ {
+  "id": "ESTP-S",
+  "base_type": "ESTP",
+  "mode": "S",
+  "name_en": "Tactical Logistics Planner",
+  "name_th": "นักแก้สถานการณ์หน้างาน • เชิงกลยุทธ์",
+  "top_careers": [
+   "Transportation Manager",
+   "Logistics Operations Manager",
+   "Supply Chain Manager"
+  ],
+  "top_career_ids": [
+   "CR10",
+   "CR48",
+   "CR49",
+   "CR50",
+   "CR30"
+  ]
+ },
+ {
+  "id": "ESTP-O",
+  "base_type": "ESTP",
+  "mode": "O",
+  "name_en": "Fast-Paced Operations Controller",
+  "name_th": "นักแก้สถานการณ์หน้างาน • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Transportation Manager",
+   "Dispatcher",
+   "Fleet Controller"
+  ],
+  "top_career_ids": [
+   "CR10",
+   "CR06",
+   "CR07",
+   "CR08",
+   "CR09"
+  ]
+ },
+ {
+  "id": "ESTP-C",
+  "base_type": "ESTP",
+  "mode": "C",
+  "name_en": "Logistics Negotiator",
+  "name_th": "นักแก้สถานการณ์หน้างาน • เชิงความร่วมมือ",
+  "top_careers": [
+   "Transportation Manager",
+   "International Logistics Manager",
+   "Dispatcher"
+  ],
+  "top_career_ids": [
+   "CR10",
+   "CR30",
+   "CR06",
+   "CR07",
+   "CR08"
+  ]
+ },
+ {
+  "id": "ESTP-A",
+  "base_type": "ESTP",
+  "mode": "A",
+  "name_en": "Crisis Logistics Solver",
+  "name_th": "นักแก้สถานการณ์หน้างาน • เชิงปรับตัว",
+  "top_careers": [
+   "Transportation Manager",
+   "Dispatcher",
+   "Fleet Controller"
+  ],
+  "top_career_ids": [
+   "CR10",
+   "CR06",
+   "CR07",
+   "CR08",
+   "CR09"
+  ]
+ },
+ {
+  "id": "ESFP-S",
+  "base_type": "ESFP",
+  "mode": "S",
+  "name_en": "Customer Logistics Planner",
+  "name_th": "นักสร้างประสบการณ์และความสัมพันธ์ • เชิงกลยุทธ์",
+  "top_careers": [
+   "International Logistics Manager",
+   "Transportation Manager",
+   "Logistics Operations Manager"
+  ],
+  "top_career_ids": [
+   "CR30",
+   "CR10",
+   "CR48",
+   "CR49",
+   "CR50"
+  ]
+ },
+ {
+  "id": "ESFP-O",
+  "base_type": "ESFP",
+  "mode": "O",
+  "name_en": "Dynamic Logistics Operator",
+  "name_th": "นักสร้างประสบการณ์และความสัมพันธ์ • เชิงปฏิบัติการ",
+  "top_careers": [
+   "Transportation Manager",
+   "Dispatcher",
+   "Fleet Controller"
+  ],
+  "top_career_ids": [
+   "CR10",
+   "CR06",
+   "CR07",
+   "CR08",
+   "CR09"
+  ]
+ },
+ {
+  "id": "ESFP-C",
+  "base_type": "ESFP",
+  "mode": "C",
+  "name_en": "Logistics Relationship Specialist",
+  "name_th": "นักสร้างประสบการณ์และความสัมพันธ์ • เชิงความร่วมมือ",
+  "top_careers": [
+   "International Logistics Manager",
+   "Import Officer",
+   "Export Officer"
+  ],
+  "top_career_ids": [
+   "CR30",
+   "CR26",
+   "CR27",
+   "CR28",
+   "CR29"
+  ]
+ },
+ {
+  "id": "ESFP-A",
+  "base_type": "ESFP",
+  "mode": "A",
+  "name_en": "Experience & Service Innovator",
+  "name_th": "นักสร้างประสบการณ์และความสัมพันธ์ • เชิงปรับตัว",
+  "top_careers": [
+   "International Logistics Manager",
+   "Import Officer",
+   "Export Officer"
+  ],
+  "top_career_ids": [
+   "CR30",
+   "CR26",
+   "CR27",
+   "CR28",
+   "CR29"
+  ]
+ }
+]

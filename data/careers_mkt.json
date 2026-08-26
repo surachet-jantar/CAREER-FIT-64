@@ -1,0 +1,5452 @@
+[
+  {
+    "id": "CR101",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL21",
+      "th": "การตลาดดิจิทัล",
+      "en": "Digital Marketing"
+    },
+    "name_en": "Digital Marketing Assistant",
+    "name_th": "ผู้ช่วยนักการตลาดดิจิทัล",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ช่วยเหลือการวางแผนและดำเนินกลยุทธ์การตลาดดิจิทัล สร้างเนื้อหา และวิเคราะห์ผลลัพธ์",
+    "description_en": "Assist in planning and executing digital marketing strategies, create content, and analyze results",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C06": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้ช่วยนักการตลาดดิจิทัล",
+      "นักการตลาดดิจิทัล",
+      "นักการตลาดอาวุโส",
+      "ผู้จัดการการตลาดดิจิทัล",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Digital Marketing Assistant",
+      "Digital Marketing Specialist",
+      "Senior Digital Marketer",
+      "Digital Marketing Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR102",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL21",
+      "th": "การตลาดดิจิทัล",
+      "en": "Digital Marketing"
+    },
+    "name_en": "SEO Specialist",
+    "name_th": "ผู้เชี่ยวชาญ SEO",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "เพิ่มประสิทธิภาพเว็บไซต์สำหรับเครื่องมือค้นหา วิเคราะห์คีย์เวิร์ด และติดตามอันดับ",
+    "description_en": "Optimize websites for search engines, analyze keywords, and track rankings",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน SEO",
+      "ผู้เชี่ยวชาญ SEO",
+      "ผู้เชี่ยวชาญ SEO อาวุโส",
+      "หัวหน้างาน SEO",
+      "ผู้จัดการ SEO",
+      "ผู้อำนวยการฝ่ายการตลาดดิจิทัล",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / SEO Intern",
+      "SEO Specialist",
+      "Senior SEO Specialist",
+      "SEO Supervisor",
+      "SEO Manager",
+      "Director of Digital Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR103",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL21",
+      "th": "การตลาดดิจิทัล",
+      "en": "Digital Marketing"
+    },
+    "name_en": "PPC Specialist",
+    "name_th": "ผู้เชี่ยวชาญ PPC",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการโฆษณาแบบจ่ายต่อคลิก วิเคราะห์ ROI และเพิ่มประสิทธิภาพแคมเปญ",
+    "description_en": "Manage pay-per-click advertising, analyze ROI, and optimize campaigns",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโฆษณา",
+      "ผู้เชี่ยวชาญ PPC",
+      "ผู้เชี่ยวชาญ PPC อาวุโส",
+      "หัวหน้างาน PPC",
+      "ผู้จัดการ PPC",
+      "ผู้อำนวยการฝ่ายการตลาดดิจิทัล",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Ad Intern",
+      "PPC Specialist",
+      "Senior PPC Specialist",
+      "PPC Supervisor",
+      "PPC Manager",
+      "Director of Digital Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR104",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL21",
+      "th": "การตลาดดิจิทัล",
+      "en": "Digital Marketing"
+    },
+    "name_en": "Content Strategist",
+    "name_th": "นักกลยุทธ์เนื้อหา",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วางแผนเนื้อหาข้ามช่องทาง จัดการปฏิทินเนื้อหา และกำกับทีมสร้างสรรค์",
+    "description_en": "Plan cross-channel content, manage content calendars, and direct creative teams",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเนื้อหา",
+      "นักสร้างสรรค์เนื้อหา",
+      "นักกลยุทธ์เนื้อหา",
+      "หัวหน้างานเนื้อหา",
+      "ผู้จัดการเนื้อหา",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Content Intern",
+      "Content Creator",
+      "Content Strategist",
+      "Content Supervisor",
+      "Content Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR105",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL21",
+      "th": "การตลาดดิจิทัล",
+      "en": "Digital Marketing"
+    },
+    "name_en": "Director of Digital Strategy",
+    "name_th": "ผู้อำนวยการฝ่ายกลยุทธ์ดิจิทัล",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การตลาดดิจิทัล งบประมาณ และทีมงานระดับองค์กร",
+    "description_en": "Lead enterprise digital strategy, budgets, and teams",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "นักการตลาดดิจิทัล",
+      "ผู้จัดการการตลาดดิจิทัล",
+      "ผู้อำนวยการฝ่ายการตลาดดิจิทัล",
+      "รองประธานฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายกลยุทธ์ดิจิทัล",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Digital Marketer",
+      "Digital Marketing Manager",
+      "Director of Digital Marketing",
+      "VP of Marketing",
+      "Director of Digital Strategy",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR106",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL22",
+      "th": "การตลาดเนื้อหา",
+      "en": "Content Marketing"
+    },
+    "name_en": "Content Creator",
+    "name_th": "นักสร้างสรรค์เนื้อหา",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "สร้างเนื้อหาบทความ วิดีโอ และสื่อต่างๆ สำหรับช่องทางการตลาด",
+    "description_en": "Create articles, videos, and media content for marketing channels",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเนื้อหา",
+      "นักสร้างสรรค์เนื้อหา",
+      "นักสร้างสรรค์อาวุโส",
+      "หัวหน้างานเนื้อหา",
+      "ผู้จัดการเนื้อหา",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Content Intern",
+      "Content Creator",
+      "Senior Content Creator",
+      "Content Supervisor",
+      "Content Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR107",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL22",
+      "th": "การตลาดเนื้อหา",
+      "en": "Content Marketing"
+    },
+    "name_en": "Blog Editor",
+    "name_th": "บรรณาธิการบล็อก",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการและแก้ไขบทความบล็อก วางแผนปฏิทินเนื้อหา และดูแลคุณภาพ",
+    "description_en": "Manage and edit blog posts, plan content calendars, and ensure quality",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเนื้อหา",
+      "บรรณาธิการบล็อก",
+      "บรรณาธิการอาวุโส",
+      "หัวหน้างานเนื้อหา",
+      "ผู้จัดการเนื้อหา",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Content Intern",
+      "Blog Editor",
+      "Senior Editor",
+      "Content Supervisor",
+      "Content Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR108",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL22",
+      "th": "การตลาดเนื้อหา",
+      "en": "Content Marketing"
+    },
+    "name_en": "Video Content Producer",
+    "name_th": "ผู้ผลิตวิดีโอเนื้อหา",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ผลิตวิดีโอสั้นและยาวสำหรับ YouTube TikTok และโซเชียลมีเดีย",
+    "description_en": "Produce short and long videos for YouTube, TikTok, and social media",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวิดีโอ",
+      "ผู้ผลิตวิดีโอเนื้อหา",
+      "ผู้ผลิตวิดีโออาวุโส",
+      "หัวหน้างานวิดีโอ",
+      "ผู้จัดการวิดีโอ",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Video Intern",
+      "Video Content Producer",
+      "Senior Video Producer",
+      "Video Supervisor",
+      "Video Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR109",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL22",
+      "th": "การตลาดเนื้อหา",
+      "en": "Content Marketing"
+    },
+    "name_en": "SEO Content Writer",
+    "name_th": "นักเขียนเนื้อหา SEO",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "เขียนเนื้อหาที่ปรับ SEO วิเคราะห์คีย์เวิร์ด และเพิ่มอันดับการค้นหา",
+    "description_en": "Write SEO-optimized content, analyze keywords, and improve search rankings",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเขียน",
+      "นักเขียนเนื้อหา SEO",
+      "นักเขียนอาวุโส",
+      "หัวหน้างานเขียนเนื้อหา",
+      "ผู้จัดการเนื้อหา SEO",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Writing Intern",
+      "SEO Content Writer",
+      "Senior Content Writer",
+      "Writing Supervisor",
+      "SEO Content Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR110",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL22",
+      "th": "การตลาดเนื้อหา",
+      "en": "Content Marketing"
+    },
+    "name_en": "Content Marketing Director",
+    "name_th": "ผู้อำนวยการฝ่ายการตลาดเนื้อหา",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การตลาดเนื้อหา จัดการทีม และเพิ่มผลลัพธ์ทางธุรกิจ",
+    "description_en": "Lead content strategy, manage teams, and drive business results",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเนื้อหา",
+      "นักสร้างสรรค์เนื้อหา",
+      "ผู้จัดการเนื้อหา",
+      "ผู้อำนวยการฝ่ายการตลาดเนื้อหา",
+      "รองประธานฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายกลยุทธ์การตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Content Intern",
+      "Content Creator",
+      "Content Manager",
+      "Director of Content Marketing",
+      "VP of Marketing",
+      "Director of Marketing Strategy",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR111",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL23",
+      "th": "การตลาดผ่านอินฟลูเอนเซอร์",
+      "en": "Influencer Marketing"
+    },
+    "name_en": "Influencer Outreach Coordinator",
+    "name_th": "เจ้าหน้าที่ติดต่ออินฟลูเอนเซอร์",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ค้นหาและติดต่ออินฟลูเอนเซอร์ จัดการข้อเสนอ และติดตามผลลัพธ์",
+    "description_en": "Find and contact influencers, manage offers, and track results",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "เจ้าหน้าที่ติดต่ออินฟลูเอนเซอร์",
+      "ผู้เชี่ยวชาญอินฟลูเอนเซอร์",
+      "หัวหน้างานอินฟลูเอนเซอร์",
+      "ผู้จัดการอินฟลูเอนเซอร์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Influencer Outreach Coordinator",
+      "Influencer Marketing Specialist",
+      "Influencer Marketing Supervisor",
+      "Influencer Marketing Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR112",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL23",
+      "th": "การตลาดผ่านอินฟลูเอนเซอร์",
+      "en": "Influencer Marketing"
+    },
+    "name_en": "Influencer Marketing Specialist",
+    "name_th": "ผู้เชี่ยวชาญการตลาดอินฟลูเอนเซอร์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วางแผนแคมเปญอินฟลูเอนเซอร์ จัดการความสัมพันธ์ และวิเคราะห์ ROI",
+    "description_en": "Plan influencer campaigns, manage relationships, and analyze ROI",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้เชี่ยวชาญการตลาดอินฟลูเอนเซอร์",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานอินฟลูเอนเซอร์",
+      "ผู้จัดการอินฟลูเอนเซอร์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Influencer Marketing Specialist",
+      "Senior Specialist",
+      "Influencer Marketing Supervisor",
+      "Influencer Marketing Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR113",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL23",
+      "th": "การตลาดผ่านอินฟลูเอนเซอร์",
+      "en": "Influencer Marketing"
+    },
+    "name_en": "UGC Content Manager",
+    "name_th": "ผู้จัดการเนื้อหา UGC",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ส่งเสริมและจัดการเนื้อหาที่ผู้ใช้สร้าง จัดการแคมเปญ และติดตามประสิทธิภาพ",
+    "description_en": "Promote and manage user-generated content, run campaigns, and track performance",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 3,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานเนื้อหา",
+      "ผู้จัดการเนื้อหา UGC",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานเนื้อหา",
+      "ผู้จัดการเนื้อหา",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Content Intern",
+      "UGC Content Manager",
+      "Senior UGC Manager",
+      "Content Supervisor",
+      "Content Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR114",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL23",
+      "th": "การตลาดผ่านอินฟลูเอนเซอร์",
+      "en": "Influencer Marketing"
+    },
+    "name_en": "Affiliate Influencer Manager",
+    "name_th": "ผู้จัดการพันธมิตรอินฟลูเอนเซอร์",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดการโปรแกรมพันธมิตรกับอินฟลูเอนเซอร์ ติดตามยอดขาย และจัดการค่าคอมมิชชั่น",
+    "description_en": "Manage affiliate programs with influencers, track sales, and handle commissions",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C11": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้จัดการพันธมิตรอินฟลูเอนเซอร์",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานพันธมิตร",
+      "ผู้จัดการพันธมิตร",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Affiliate Influencer Manager",
+      "Senior Affiliate Manager",
+      "Affiliate Supervisor",
+      "Affiliate Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR115",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL23",
+      "th": "การตลาดผ่านอินฟลูเอนเซอร์",
+      "en": "Influencer Marketing"
+    },
+    "name_en": "Head of Influencer Marketing",
+    "name_th": "หัวหน้าฝ่ายการตลาดอินฟลูเอนเซอร์",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การตลาดอินฟลูเอนเซอร์ งบประมาณ และทีมงาน",
+    "description_en": "Lead influencer marketing strategy, budgets, and teams",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้เชี่ยวชาญอินฟลูเอนเซอร์",
+      "ผู้จัดการอินฟลูเอนเซอร์",
+      "หัวหน้าฝ่ายการตลาดอินฟลูเอนเซอร์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "รองประธานฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Influencer Marketing Specialist",
+      "Influencer Marketing Manager",
+      "Head of Influencer Marketing",
+      "Director of Marketing",
+      "VP of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR116",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL24",
+      "th": "การวิจัยตลาด",
+      "en": "Market Research"
+    },
+    "name_en": "Market Research Assistant",
+    "name_th": "ผู้ช่วยนักวิจัยตลาด",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "เก็บและวิเคราะห์ข้อมูลตลาด จัดทำแบบสำรวจ และจัดทำรายงาน",
+    "description_en": "Collect and analyze market data, conduct surveys, and prepare reports",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 1,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวิจัย",
+      "ผู้ช่วยนักวิจัยตลาด",
+      "นักวิจัยตลาด",
+      "นักวิจัยอาวุโส",
+      "หัวหน้างานวิจัยตลาด",
+      "ผู้จัดการวิจัยตลาด",
+      "ผู้อำนวยการฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Research Intern",
+      "Market Research Assistant",
+      "Market Research Analyst",
+      "Senior Research Analyst",
+      "Research Supervisor",
+      "Market Research Manager",
+      "Director of Marketing"
+    ]
+  },
+  {
+    "id": "CR117",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL24",
+      "th": "การวิจัยตลาด",
+      "en": "Market Research"
+    },
+    "name_en": "Consumer Insights Analyst",
+    "name_th": "นักวิเคราะห์ข้อมูลเชิงลึกผู้บริโภค",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วิเคราะห์พฤติกรรมและความต้องการของผู้บริโภค",
+    "description_en": "Analyze consumer behavior and needs",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวิจัย",
+      "นักวิเคราะห์ข้อมูลเชิงลึกผู้บริโภค",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิเคราะห์",
+      "ผู้จัดการวิเคราะห์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Research Intern",
+      "Consumer Insights Analyst",
+      "Senior Insights Analyst",
+      "Insights Supervisor",
+      "Insights Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR118",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL24",
+      "th": "การวิจัยตลาด",
+      "en": "Market Research"
+    },
+    "name_en": "Competitive Intelligence Analyst",
+    "name_th": "นักวิเคราะห์ข่าวกรองการแข่งขัน",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ติดตามและวิเคราะห์กลยุทธ์การแข่งขัน แนวโน้มตลาด และโอกาสทางธุรกิจ",
+    "description_en": "Track and analyze competitive strategies, market trends, and business opportunities",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวิจัย",
+      "นักวิเคราะห์ข่าวกรองการแข่งขัน",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิเคราะห์การแข่งขัน",
+      "ผู้จัดการวิเคราะห์การแข่งขัน",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Research Intern",
+      "Competitive Intelligence Analyst",
+      "Senior CI Analyst",
+      "CI Supervisor",
+      "CI Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR119",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL24",
+      "th": "การวิจัยตลาด",
+      "en": "Market Research"
+    },
+    "name_en": "Data-Driven Marketing Analyst",
+    "name_th": "นักวิเคราะห์การตลาดที่ขับเคลื่อนด้วยข้อมูล",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วิเคราะห์ข้อมูลการตลาด วัดผลแคมเปญ และแนะนำกลยุทธ์ข้อมูล",
+    "description_en": "Analyze marketing data, measure campaigns, and recommend data strategies",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 1,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 1
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "นักวิเคราะห์การตลาดที่ขับเคลื่อนด้วยข้อมูล",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิเคราะห์",
+      "ผู้จัดการวิเคราะห์การตลาด",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Data-Driven Marketing Analyst",
+      "Senior Marketing Analyst",
+      "Marketing Analytics Supervisor",
+      "Marketing Analytics Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR120",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL24",
+      "th": "การวิจัยตลาด",
+      "en": "Market Research"
+    },
+    "name_en": "Director of Market Research",
+    "name_th": "ผู้อำนวยการฝ่ายวิจัยตลาด",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์วิจัยตลาด จัดการทีม และให้ข้อมูลเชิงลึกแก่ผู้บริหาร",
+    "description_en": "Lead market research strategy, manage teams, and provide insights to executives",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวิจัย",
+      "นักวิจัยตลาด",
+      "ผู้จัดการวิจัยตลาด",
+      "ผู้อำนวยการฝ่ายวิจัยตลาด",
+      "รองประธานฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายกลยุทธ์การตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Research Intern",
+      "Market Research Analyst",
+      "Market Research Manager",
+      "Director of Market Research",
+      "VP of Marketing",
+      "Director of Marketing Strategy",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR121",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL25",
+      "th": "การจัดการแบรนด์",
+      "en": "Brand Management"
+    },
+    "name_en": "Brand Assistant",
+    "name_th": "ผู้ช่วยจัดการแบรนด์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "สนับสนุนการจัดการแบรนด์ ตรวจสอบความสอดคล้อง และจัดการเอกสารแบรนด์",
+    "description_en": "Support brand management, ensure consistency, and manage brand assets",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานแบรนด์",
+      "ผู้ช่วยจัดการแบรนด์",
+      "ผู้จัดการแบรนด์",
+      "ผู้จัดการแบรนด์อาวุโส",
+      "หัวหน้าฝ่ายแบรนด์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Brand Intern",
+      "Brand Assistant",
+      "Brand Manager",
+      "Senior Brand Manager",
+      "Head of Brands",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR122",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL25",
+      "th": "การจัดการแบรนด์",
+      "en": "Brand Management"
+    },
+    "name_en": "Brand Manager",
+    "name_th": "ผู้จัดการแบรนด์",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "พัฒนาและรักษาอัตลักษณ์แบรนด์ จัดการแคมเปญ และติดตามการรับรู้",
+    "description_en": "Develop and maintain brand identity, manage campaigns, and track perception",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานแบรนด์",
+      "ผู้ช่วยจัดการแบรนด์",
+      "ผู้จัดการแบรนด์",
+      "ผู้จัดการแบรนด์อาวุโส",
+      "หัวหน้าฝ่ายแบรนด์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Brand Intern",
+      "Brand Assistant",
+      "Brand Manager",
+      "Senior Brand Manager",
+      "Head of Brands",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR123",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL25",
+      "th": "การจัดการแบรนด์",
+      "en": "Brand Management"
+    },
+    "name_en": "Brand Strategist",
+    "name_th": "นักกลยุทธ์แบรนด์",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "พัฒนากลยุทธ์แบรนด์ วิเคราะห์ตลาด และแนะนำทิศทางแบรนด์",
+    "description_en": "Develop brand strategy, analyze markets, and advise on brand direction",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานแบรนด์",
+      "นักกลยุทธ์แบรนด์",
+      "นักกลยุทธ์อาวุโส",
+      "หัวหน้างานกลยุทธ์",
+      "ผู้จัดการกลยุทธ์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Brand Intern",
+      "Brand Strategist",
+      "Senior Brand Strategist",
+      "Brand Strategy Supervisor",
+      "Brand Strategy Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR124",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL25",
+      "th": "การจัดการแบรนด์",
+      "en": "Brand Management"
+    },
+    "name_en": "Packaging Design Manager",
+    "name_th": "ผู้จัดการการออกแบบบรรจุภัณฑ์",
+    "level": 4,
+    "level_label": "Manager",
+    "description_th": "จัดการออกแบบบรรจุภัณฑ์ ทดสอบกับผู้บริโภค และดูแลความสอดคล้องของแบรนด์",
+    "description_en": "Manage packaging design, consumer testing, and brand consistency",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์บริหาร",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.5
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานออกแบบ",
+      "ผู้จัดการการออกแบบบรรจุภัณฑ์",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานออกแบบ",
+      "ผู้จัดการออกแบบ",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Design Intern",
+      "Packaging Design Manager",
+      "Senior Design Manager",
+      "Design Supervisor",
+      "Design Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR125",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL25",
+      "th": "การจัดการแบรนด์",
+      "en": "Brand Management"
+    },
+    "name_en": "Head of Brand Management",
+    "name_th": "หัวหน้าฝ่ายการจัดการแบรนด์",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์แบรนด์องค์กร จัดการพอร์ตโฟลิโอแบรนด์ และดูแลทีม",
+    "description_en": "Lead corporate brand strategy, manage brand portfolios, and oversee teams",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานแบรนด์",
+      "ผู้จัดการแบรนด์",
+      "ผู้จัดการแบรนด์อาวุโส",
+      "หัวหน้าฝ่ายการจัดการแบรนด์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "รองประธานฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Brand Intern",
+      "Brand Manager",
+      "Senior Brand Manager",
+      "Head of Brand Management",
+      "Director of Marketing",
+      "VP of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR126",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL26",
+      "th": "การตลาดผ่านโซเชียลมีเดีย",
+      "en": "Social Media Marketing"
+    },
+    "name_en": "Social Media Coordinator",
+    "name_th": "เจ้าหน้าที่โซเชียลมีเดีย",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "โพสต์เนื้อหา ตอบกลับความคิดเห็น และจัดการบัญชีโซเชียลมีเดีย",
+    "description_en": "Post content, reply to comments, and manage social media accounts",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 3,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโซเชียลมีเดีย",
+      "เจ้าหน้าที่โซเชียลมีเดีย",
+      "ผู้เชี่ยวชาญโซเชียลมีเดีย",
+      "หัวหน้างานโซเชียลมีเดีย",
+      "ผู้จัดการโซเชียลมีเดีย",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Social Intern",
+      "Social Media Coordinator",
+      "Social Media Specialist",
+      "Social Media Supervisor",
+      "Social Media Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR127",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL26",
+      "th": "การตลาดผ่านโซเชียลมีเดีย",
+      "en": "Social Media Marketing"
+    },
+    "name_en": "Social Media Specialist",
+    "name_th": "ผู้เชี่ยวชาญโซเชียลมีเดีย",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วางแผนและดำเนินกลยุทธ์โซเชียลมีเดีย สร้างเนื้อหา และวิเคราะห์ผลลัพธ์",
+    "description_en": "Plan and execute social media strategies, create content, and analyze results",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 4,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโซเชียลมีเดีย",
+      "เจ้าหน้าที่โซเชียลมีเดีย",
+      "ผู้เชี่ยวชาญโซเชียลมีเดีย",
+      "หัวหน้างานโซเชียลมีเดีย",
+      "ผู้จัดการโซเชียลมีเดีย",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Social Intern",
+      "Social Media Coordinator",
+      "Social Media Specialist",
+      "Social Media Supervisor",
+      "Social Media Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR128",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL26",
+      "th": "การตลาดผ่านโซเชียลมีเดีย",
+      "en": "Social Media Marketing"
+    },
+    "name_en": "Community Manager",
+    "name_th": "ผู้จัดการชุมชน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "สร้างและดูแลชุมชนออนไลน์ จัดการความสัมพันธ์ และส่งเสริมการมีส่วนร่วม",
+    "description_en": "Build and manage online communities, handle relationships, and promote engagement",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานชุมชน",
+      "ผู้จัดการชุมชน",
+      "ผู้จัดการชุมชนอาวุโส",
+      "หัวหน้างานชุมชน",
+      "ผู้จัดการชุมชน",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Community Intern",
+      "Community Manager",
+      "Senior Community Manager",
+      "Community Supervisor",
+      "Community Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR129",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL26",
+      "th": "การตลาดผ่านโซเชียลมีเดีย",
+      "en": "Social Media Marketing"
+    },
+    "name_en": "Social Advertising Specialist",
+    "name_th": "ผู้เชี่ยวชาญโฆษณาโซเชียลมีเดีย",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดการโฆษณาบน Facebook Instagram TikTok และวิเคราะห์ ROAS",
+    "description_en": "Manage ads on Facebook, Instagram, TikTok, and analyze ROAS",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโฆษณา",
+      "ผู้เชี่ยวชาญโฆษณาโซเชียลมีเดีย",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานโฆษณา",
+      "ผู้จัดการโฆษณา",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Ad Intern",
+      "Social Advertising Specialist",
+      "Senior Social Ad Specialist",
+      "Social Ads Supervisor",
+      "Social Ads Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR130",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL26",
+      "th": "การตลาดผ่านโซเชียลมีเดีย",
+      "en": "Social Media Marketing"
+    },
+    "name_en": "Director of Social Media",
+    "name_th": "ผู้อำนวยการฝ่ายโซเชียลมีเดีย",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์โซเชียลมีเดียองค์กร จัดการทีม และเพิ่ม ROI",
+    "description_en": "Lead enterprise social strategy, manage teams, and drive ROI",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโซเชียลมีเดีย",
+      "ผู้เชี่ยวชาญโซเชียลมีเดีย",
+      "ผู้จัดการโซเชียลมีเดีย",
+      "ผู้อำนวยการฝ่ายโซเชียลมีเดีย",
+      "รองประธานฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายกลยุทธ์การตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Social Intern",
+      "Social Media Specialist",
+      "Social Media Manager",
+      "Director of Social Media",
+      "VP of Marketing",
+      "Director of Marketing Strategy",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR131",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL27",
+      "th": "การตลาดอีเมล",
+      "en": "Email Marketing"
+    },
+    "name_en": "Email Marketing Assistant",
+    "name_th": "ผู้ช่วยนักการตลาดอีเมล",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "สร้างและส่งแคมเปญอีเมล จัดการรายชื่อ และติดตามผลลัพธ์",
+    "description_en": "Create and send email campaigns, manage lists, and track results",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 3,
+      "operations": 2,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานอีเมล",
+      "ผู้ช่วยนักการตลาดอีเมล",
+      "นักการตลาดอีเมล",
+      "นักการตลาดอาวุโส",
+      "ผู้จัดการอีเมล",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Email Intern",
+      "Email Marketing Assistant",
+      "Email Marketing Specialist",
+      "Senior Email Marketer",
+      "Email Marketing Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR132",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL27",
+      "th": "การตลาดอีเมล",
+      "en": "Email Marketing"
+    },
+    "name_en": "Email Automation Specialist",
+    "name_th": "ผู้เชี่ยวชาญระบบอัตโนมัติอีเมล",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ออกแบบและดูแลระบบอัตโนมัติอีเมล A/B testing และ personalization",
+    "description_en": "Design and maintain email automation systems, A/B testing, and personalization",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 5,
+      "operations": 2,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานอีเมล",
+      "ผู้เชี่ยวชาญระบบอัตโนมัติอีเมล",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานระบบอัตโนมัติ",
+      "ผู้จัดการระบบอัตโนมัติ",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Email Intern",
+      "Email Automation Specialist",
+      "Senior Automation Specialist",
+      "Automation Supervisor",
+      "Automation Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR133",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL27",
+      "th": "การตลาดอีเมล",
+      "en": "Email Marketing"
+    },
+    "name_en": "Email Performance Analyst",
+    "name_th": "นักวิเคราะห์ผลลัพธ์อีเมล",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วิเคราะห์อัตราการเปิด อัตราการคลิก และ Conversion ของแคมเปญอีเมล",
+    "description_en": "Analyze open rates, click-through rates, and email campaign conversions",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวิเคราะห์",
+      "นักวิเคราะห์ผลลัพธ์อีเมล",
+      "นักวิเคราะห์อาวุโส",
+      "หัวหน้างานวิเคราะห์อีเมล",
+      "ผู้จัดการวิเคราะห์อีเมล",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Analytics Intern",
+      "Email Performance Analyst",
+      "Senior Email Analyst",
+      "Email Analytics Supervisor",
+      "Email Analytics Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR134",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL27",
+      "th": "การตลาดอีเมล",
+      "en": "Email Marketing"
+    },
+    "name_en": "Email Content Designer",
+    "name_th": "นักออกแบบเนื้อหาอีเมล",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบเทมเพลตอีเมล สร้างเนื้อหา และทดสอบ A/B",
+    "description_en": "Design email templates, create content, and run A/B tests",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 4,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานออกแบบ",
+      "นักออกแบบเนื้อหาอีเมล",
+      "นักออกแบบอาวุโส",
+      "หัวหน้างานออกแบบอีเมล",
+      "ผู้จัดการออกแบบอีเมล",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Design Intern",
+      "Email Content Designer",
+      "Senior Email Designer",
+      "Email Design Supervisor",
+      "Email Design Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR135",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL27",
+      "th": "การตลาดอีเมล",
+      "en": "Email Marketing"
+    },
+    "name_en": "Email Marketing Director",
+    "name_th": "ผู้อำนวยการฝ่ายการตลาดอีเมล",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การตลาดอีเมล จัดการทีม และเพิ่ม ROI ของแคมเปญ",
+    "description_en": "Lead email marketing strategy, manage teams, and drive campaign ROI",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 5,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานอีเมล",
+      "นักการตลาดอีเมล",
+      "ผู้จัดการอีเมล",
+      "ผู้อำนวยการฝ่ายการตลาดอีเมล",
+      "รองประธานฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายกลยุทธ์การตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Email Intern",
+      "Email Marketer",
+      "Email Marketing Manager",
+      "Email Marketing Director",
+      "VP of Marketing",
+      "Director of Marketing Strategy",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR136",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL28",
+      "th": "การตลาดแบบพันธมิตร",
+      "en": "Affiliate Marketing"
+    },
+    "name_en": "Affiliate Coordinator",
+    "name_th": "เจ้าหน้าที่พันธมิตรการตลาด",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ค้นหาและลงทะเบียนพันธมิตร จัดการข้อเสนอ และติดตามยอดขาย",
+    "description_en": "Find and onboard affiliates, manage offers, and track sales",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C01": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "เจ้าหน้าที่พันธมิตรการตลาด",
+      "ผู้เชี่ยวชาญพันธมิตร",
+      "หัวหน้างานพันธมิตร",
+      "ผู้จัดการพันธมิตร",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Affiliate Coordinator",
+      "Affiliate Marketing Specialist",
+      "Affiliate Supervisor",
+      "Affiliate Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR137",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL28",
+      "th": "การตลาดแบบพันธมิตร",
+      "en": "Affiliate Marketing"
+    },
+    "name_en": "Affiliate Marketing Specialist",
+    "name_th": "ผู้เชี่ยวชาญการตลาดแบบพันธมิตร",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "พัฒนากลยุทธ์พันธมิตร จัดการความสัมพันธ์ และเพิ่ม Conversion",
+    "description_en": "Develop affiliate strategy, manage relationships, and increase conversions",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้เชี่ยวชาญการตลาดแบบพันธมิตร",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานพันธมิตร",
+      "ผู้จัดการพันธมิตร",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Affiliate Marketing Specialist",
+      "Senior Affiliate Specialist",
+      "Affiliate Supervisor",
+      "Affiliate Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR138",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL28",
+      "th": "การตลาดแบบพันธมิตร",
+      "en": "Affiliate Marketing"
+    },
+    "name_en": "Affiliate Analytics Manager",
+    "name_th": "ผู้จัดการวิเคราะห์พันธมิตร",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วิเคราะห์ผลลัพธ์พันธมิตร ติดตาม Conversion และเพิ่ม ROI",
+    "description_en": "Analyze affiliate results, track conversions, and improve ROI",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 1,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 2,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานวิเคราะห์",
+      "ผู้จัดการวิเคราะห์พันธมิตร",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานวิเคราะห์",
+      "ผู้จัดการวิเคราะห์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Analytics Intern",
+      "Affiliate Analytics Manager",
+      "Senior Analytics Manager",
+      "Analytics Supervisor",
+      "Analytics Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR139",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL28",
+      "th": "การตลาดแบบพันธมิตร",
+      "en": "Affiliate Marketing"
+    },
+    "name_en": "Affiliate Program Strategist",
+    "name_th": "นักกลยุทธ์โปรแกรมพันธมิตร",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ออกแบบและพัฒนาโปรแกรมพันธมิตร ตั้งค่าค่าคอมมิชชั่น และประเมินประสิทธิภาพ",
+    "description_en": "Design and develop affiliate programs, set commissions, and evaluate performance",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 2,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "นักกลยุทธ์โปรแกรมพันธมิตร",
+      "นักกลยุทธ์อาวุโส",
+      "หัวหน้างานกลยุทธ์",
+      "ผู้จัดการกลยุทธ์พันธมิตร",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Affiliate Program Strategist",
+      "Senior Strategist",
+      "Strategy Supervisor",
+      "Affiliate Strategy Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR140",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL28",
+      "th": "การตลาดแบบพันธมิตร",
+      "en": "Affiliate Marketing"
+    },
+    "name_en": "Director of Affiliate Marketing",
+    "name_th": "ผู้อำนวยการฝ่ายการตลาดแบบพันธมิตร",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์พันธมิตรองค์กร จัดการทีม และเพิ่มรายได้",
+    "description_en": "Lead enterprise affiliate strategy, manage teams, and drive revenue",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้เชี่ยวชาญพันธมิตร",
+      "ผู้จัดการพันธมิตร",
+      "ผู้อำนวยการฝ่ายการตลาดแบบพันธมิตร",
+      "รองประธานฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายกลยุทธ์การตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Affiliate Marketing Specialist",
+      "Affiliate Marketing Manager",
+      "Director of Affiliate Marketing",
+      "VP of Marketing",
+      "Director of Marketing Strategy",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR141",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL29",
+      "th": "การสื่อสารการตลาด",
+      "en": "Marketing Communications"
+    },
+    "name_en": "Marketing Communications Assistant",
+    "name_th": "ผู้ช่วยเจ้าหน้าที่สื่อสารการตลาด",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "สนับสนุนการสื่อสารการตลาด จัดการสื่อมวลชน และจัดกิจกรรม",
+    "description_en": "Support marketing communications, manage media relations, and organize events",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการสื่อสาร",
+      "ผู้ช่วยเจ้าหน้าที่สื่อสารการตลาด",
+      "เจ้าหน้าที่สื่อสารการตลาด",
+      "หัวหน้างานสื่อสาร",
+      "ผู้จัดการสื่อสาร",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Comms Intern",
+      "Marketing Communications Assistant",
+      "Marketing Communications Specialist",
+      "Comms Supervisor",
+      "Comms Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR142",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL29",
+      "th": "การสื่อสารการตลาด",
+      "en": "Marketing Communications"
+    },
+    "name_en": "PR Specialist",
+    "name_th": "ผู้เชี่ยวชาญประชาสัมพันธ์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการความสัมพันธ์กับสื่อมวลชน จัดการวิกฤต และสื่อสารองค์กร",
+    "description_en": "Manage media relations, crisis management, and corporate communications",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน PR",
+      "ผู้เชี่ยวชาญประชาสัมพันธ์",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างาน PR",
+      "ผู้จัดการ PR",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / PR Intern",
+      "PR Specialist",
+      "Senior PR Specialist",
+      "PR Supervisor",
+      "PR Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR143",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL29",
+      "th": "การสื่อสารการตลาด",
+      "en": "Marketing Communications"
+    },
+    "name_en": "Corporate Communications Officer",
+    "name_th": "เจ้าหน้าที่สื่อสารองค์กร",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "เขียนข่าวสารองค์กร จัดการจดหมายข่าว และสื่อสารภายใน",
+    "description_en": "Write corporate newsletters, manage bulletins, and internal communications",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานสื่อสาร",
+      "เจ้าหน้าที่สื่อสารองค์กร",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานสื่อสารองค์กร",
+      "ผู้จัดการสื่อสารองค์กร",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Comms Intern",
+      "Corporate Communications Officer",
+      "Senior Comms Officer",
+      "Comms Supervisor",
+      "Comms Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR144",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL29",
+      "th": "การสื่อสารการตลาด",
+      "en": "Marketing Communications"
+    },
+    "name_en": "Event Marketing Specialist",
+    "name_th": "ผู้เชี่ยวชาญการตลาดกิจกรรม",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดการงานอีเวนต์การตลาด วางแผน และติดตามผลลัพธ์",
+    "description_en": "Manage marketing events, plan, and track results",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานอีเวนต์",
+      "ผู้เชี่ยวชาญการตลาดกิจกรรม",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานอีเวนต์",
+      "ผู้จัดการอีเวนต์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Events Intern",
+      "Event Marketing Specialist",
+      "Senior Events Specialist",
+      "Events Supervisor",
+      "Events Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR145",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL29",
+      "th": "การสื่อสารการตลาด",
+      "en": "Marketing Communications"
+    },
+    "name_en": "Director of Marketing Communications",
+    "name_th": "ผู้อำนวยการฝ่ายสื่อสารการตลาด",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การสื่อสารการตลาด จัดการทีม และดูแลภาพลักษณ์องค์กร",
+    "description_en": "Lead marketing communications strategy, manage teams, and oversee brand image",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการสื่อสาร",
+      "เจ้าหน้าที่สื่อสารการตลาด",
+      "ผู้จัดการสื่อสาร",
+      "ผู้อำนวยการฝ่ายสื่อสารการตลาด",
+      "รองประธานฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายกลยุทธ์การตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Comms Intern",
+      "Marketing Communications Specialist",
+      "Comms Manager",
+      "Director of Marketing Communications",
+      "VP of Marketing",
+      "Director of Marketing Strategy",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR146",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL30",
+      "th": "การตลาดเชิงประสบการณ์",
+      "en": "Experiential Marketing"
+    },
+    "name_en": "Experiential Marketing Assistant",
+    "name_th": "ผู้ช่วยนักการตลาดเชิงประสบการณ์",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ช่วยเหลือการจัดกิจกรรมการตลาดเชิงประสบการณ์ การออกแบบ และการดำเนินงาน",
+    "description_en": "Assist in experiential marketing events, design, and operations",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้ช่วยนักการตลาดเชิงประสบการณ์",
+      "นักการตลาดเชิงประสบการณ์",
+      "นักการตลาดอาวุโส",
+      "ผู้จัดการการตลาดเชิงประสบการณ์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Experiential Marketing Assistant",
+      "Experiential Marketing Specialist",
+      "Senior Experiential Marketer",
+      "Experiential Marketing Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR147",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL30",
+      "th": "การตลาดเชิงประสบการณ์",
+      "en": "Experiential Marketing"
+    },
+    "name_en": "Brand Activation Specialist",
+    "name_th": "ผู้เชี่ยวชาญการเปิดใช้งานแบรนด์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการกิจกรรมเปิดใช้งานแบรนด์ สร้างประสบการณ์ และติดตามผลลัพธ์",
+    "description_en": "Manage brand activation events, create experiences, and track results",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้เชี่ยวชาญการเปิดใช้งานแบรนด์",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานเปิดใช้งาน",
+      "ผู้จัดการเปิดใช้งาน",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Brand Activation Specialist",
+      "Senior Activation Specialist",
+      "Activation Supervisor",
+      "Activation Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR148",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL30",
+      "th": "การตลาดเชิงประสบการณ์",
+      "en": "Experiential Marketing"
+    },
+    "name_en": "Event Designer",
+    "name_th": "นักออกแบบอีเวนต์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ออกแบบและจัดงานอีเวนต์การตลาด สร้างประสบการณ์ interactive",
+    "description_en": "Design and create marketing events, build interactive experiences",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานออกแบบ",
+      "นักออกแบบอีเวนต์",
+      "นักออกแบบอาวุโส",
+      "หัวหน้างานออกแบบอีเวนต์",
+      "ผู้จัดการออกแบบอีเวนต์",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Design Intern",
+      "Event Designer",
+      "Senior Event Designer",
+      "Event Design Supervisor",
+      "Event Design Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR149",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL30",
+      "th": "การตลาดเชิงประสบการณ์",
+      "en": "Experiential Marketing"
+    },
+    "name_en": "Experiential Campaign Manager",
+    "name_th": "ผู้จัดการแคมเปญเชิงประสบการณ์",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "วางแผนและดำเนินแคมเปญการตลาดเชิงประสบการณ์ วัดผล ROI",
+    "description_en": "Plan and execute experiential marketing campaigns, measure ROI",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้จัดการแคมเปญเชิงประสบการณ์",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานแคมเปญ",
+      "ผู้จัดการแคมเปญ",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Experiential Campaign Manager",
+      "Senior Campaign Manager",
+      "Campaign Supervisor",
+      "Campaign Manager",
+      "Director of Marketing",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "id": "CR150",
+    "program": "MKT",
+    "cluster": {
+      "id": "CL30",
+      "th": "การตลาดเชิงประสบการณ์",
+      "en": "Experiential Marketing"
+    },
+    "name_en": "Director of Experiential Marketing",
+    "name_th": "ผู้อำนวยการฝ่ายการตลาดเชิงประสบการณ์",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์การตลาดเชิงประสบการณ์ จัดการทีม และเพิ่ม ROI",
+    "description_en": "Lead experiential marketing strategy, manage teams, and drive ROI",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "นักการตลาดเชิงประสบการณ์",
+      "ผู้จัดการการตลาดเชิงประสบการณ์",
+      "ผู้อำนวยการฝ่ายการตลาดเชิงประสบการณ์",
+      "รองประธานฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายกลยุทธ์การตลาด",
+      "ประธานเจ้าหน้าที่ฝ่ายการตลาด"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Experiential Marketer",
+      "Experiential Marketing Manager",
+      "Director of Experiential Marketing",
+      "VP of Marketing",
+      "Director of Marketing Strategy",
+      "Chief Marketing Officer"
+    ]
+  }
+]

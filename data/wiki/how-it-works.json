@@ -1,0 +1,37 @@
+{
+  "title_th": "วิธีการทำงาน",
+  "title_en": "How It Works",
+  "sections": [
+    {
+      "heading_th": "ภาพรวม",
+      "heading_en": "Overview",
+      "body_th": "CAREER-FIT 64 ประเมินผู้เข้ารับการประเมินใน 4 มิติ แล้วรวมคะแนนออกมาเป็น <strong>Career Fit</strong> หรือค่าความเหมาะสมกับแต่ละอาชีพ ระบบไม่ได้วัดความฉลาด ความสามารถ หรือบุคลิกภาพแบบ MBTI แต่วัดว่าอาชีพใดสอดคล้องกับตัวตนและความสนใจของคุณมากที่สุด",
+      "body_en": "CAREER-FIT 64 evaluates students across <strong>4 dimensions</strong> and combines them into a <strong>Career Fit</strong> score for each career. The system doesn't measure intelligence, ability, or MBTI-style personality — it measures which careers align best with who you are and what you enjoy."
+    },
+    {
+      "heading_th": "4 มิติการประเมิน",
+      "heading_en": "The 4 Assessment Dimensions",
+      "body_th": "<table class='wiki-table'><tr><th>มิติ</th><th>น้ำหนัก</th><th>สิ่งที่วัด</th></tr><tr><td>🎨 บุคลิกภาพ</td><td>20%</td><td>ลักษณะนิสัย 4 แกน (E/I, S/N, T/F, J/P) ผสมกับรูปแบบอาชีพ 4 แบบ = 64 โปรไฟล์</td></tr><tr><td>💪 สมรรถนะ</td><td>45%</td><td>ความสามารถจริง 15 ด้าน เปรียบเทียบกับระดับที่อาชีพต้องการ</td></tr><tr><td>💡 ความสนใจ</td><td>20%</td><td>ประเภทงานที่สนใจ: ข้อมูล คน กระบวนการ แนวคิด ภาษา</td></tr><tr><td>🔄 รูปแบบการทำงาน</td><td>15%</td><td>วิธีทำงาน: เชิงกลยุทธ์ ปฏิบัติการ ร่วมงาน หรือปรับตัว</td></tr></table>",
+      "body_en": "<table class='wiki-table'><tr><th>Dimension</th><th>Weight</th><th>What it measures</th></tr><tr><td>🎨 Personality</td><td>20%</td><td>4-axis traits (E/I, S/N, T/F, J/P) combined with 4 career modes = 64 profiles</td></tr><tr><td>💪 Competency</td><td>45%</td><td>Actual ability across 15 skills, compared to career requirements</td></tr><tr><td>💡 Interest</td><td>20%</td><td>Preferred work type: Data, People, Process, Ideas, Language</td></tr><tr><td>🔄 Work Style</td><td>15%</td><td>How you work: Strategic, Operational, Collaborative, or Adaptive</td></tr></table>"
+    },
+    {
+      "heading_th": "สูตรคำนวณ",
+      "heading_en": "Scoring Formula",
+      "body_th": "<p>คะแนน Career Fit ของแต่ละอาชีพคำนวณจาก:</p><pre>Career Fit = (P × 0.20) + (C × 0.45) + (I × 0.20) + (W × 0.15)</pre><p>ที่ซึ่ง:</p><ul><li><strong>P</strong> = ความสอดคล้องบุคลิกภาพกับโปรไฟล์อาชีพ</li><li><strong>C</strong> = ความพร้อมสมรรถนะ (สูงสุด权重因为สมรรถนะคือสิ่งที่พัฒนาได้จริง)</li><li><strong>I</strong> = ความสนใจตรงกับประเภทงานของอาชีพ</li><li><strong>W</strong> = ความสอดคล้องรูปแบบการทำงาน</li></ul>",
+      "body_en": "<p>Each career's Career Fit score is calculated as:</p><pre>Career Fit = (P × 0.20) + (C × 0.45) + (I × 0.20) + (W × 0.15)</pre><p>Where:</p><ul><li><strong>P</strong> = Personality alignment with the career profile</li><li><strong>C</strong> = Competency readiness (highest weight because competencies are what you can actually develop)</li><li><strong>I</strong> = Interest alignment with the career's work type</li><li><strong>W</strong> = Work style compatibility</li></ul>"
+    },
+    {
+      "heading_th": "Program Boost",
+      "heading_en": "Program Boost",
+      "body_th": "เมื่อคุณเลือกหลักสูตร อาชีพที่เกี่ยวข้องกับหลักสูตรจะได้รับตัวคูณ <strong>×1.06</strong> (สูงสุด 100%) เพื่อจัดอันดับให้สูงขึ้นเล็กน้อย แต่<strong>ไม่มีอาชีพใดถูกตัดออก</strong> — อาชีพทุกสายยังคงแสดงในผลลัพธ์",
+      "body_en": "When you pick a program, careers related to that program receive a <strong>×1.06 multiplier</strong> (capped at 100%) to rank slightly higher. But <strong>no careers are filtered out</strong> — all careers remain visible in your results."
+    },
+    {
+      "heading_th": "การจัดอันดับ",
+      "heading_en": "Ranking",
+      "body_th": "อาชีพทั้งหมดถูกจัดอันดับจากคะแนน Career Fit จากสูงไปต่ำ คุณจะเห็น <strong>10 อันดับแรก</strong>ในผลลัพธ์ พร้อมเหตุผลว่าทำไมแต่ละอาชีพจึงเหมาะกับคุณ",
+      "body_en": "All careers are ranked by Career Fit score from highest to lowest. You see the <strong>top 10</strong> in your results, along with an explanation of why each career fits you."
+    }
+  ],
+  "related": ["the-64-profiles", "competencies", "programs"]
+}

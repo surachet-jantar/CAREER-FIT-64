@@ -1,0 +1,227 @@
+[
+ {
+  "id": "C01",
+  "name_en": "Analytical Thinking",
+  "name_th": "การคิดวิเคราะห์",
+  "definition_th": "สามารถแยกแยะข้อมูล เหตุและผล และวิเคราะห์ความสัมพันธ์ของปัจจัยในระบบโลจิสติกส์",
+  "definition_en": "Distinguish relevant information, causes and effects, and analyze factor relationships within systems.",
+  "learning": {
+   "beginner": "Excel/ตารางข้อมูลพื้นฐาน; การอ่าน KPI",
+   "beginner_en": "Basic spreadsheets/Excel; reading KPIs",
+   "intermediate": "Root Cause Analysis; Process Mapping; Descriptive Analytics",
+   "advanced": "Optimization; Scenario Analysis; Decision Modeling",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C02",
+  "name_en": "Planning & Organization",
+  "name_th": "การวางแผนและจัดระบบ",
+  "definition_th": "กำหนดเป้าหมาย ลำดับงาน ทรัพยากร และเวลาอย่างเป็นระบบ",
+  "definition_en": "Set goals, task sequences, resources, and time in a systematic way.",
+  "learning": {
+   "beginner": "การจัดลำดับงาน; Gantt เบื้องต้น",
+   "beginner_en": "Task sequencing; basic Gantt charts",
+   "intermediate": "Capacity/Resource Planning; S&OP basics",
+   "advanced": "Integrated Planning; Network/Scenario Planning",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C03",
+  "name_en": "Problem Solving",
+  "name_th": "การแก้ปัญหา",
+  "definition_th": "ระบุสาเหตุ สร้างทางเลือก ประเมินผล และแก้ปัญหาเชิงระบบ",
+  "definition_en": "Identify causes, generate alternatives, evaluate outcomes, and solve system-level problems.",
+  "learning": {
+   "beginner": "5 Why; Fishbone; PDCA",
+   "beginner_en": null,
+   "intermediate": "A3 Problem Solving; FMEA; CAPA",
+   "advanced": "Systems Thinking; Optimization; Simulation",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C04",
+  "name_en": "Attention to Detail",
+  "name_th": "ความละเอียดรอบคอบ",
+  "definition_th": "ตรวจสอบข้อมูล เอกสาร ตัวเลข เงื่อนไข และความคลาดเคลื่อนได้อย่างแม่นยำ",
+  "definition_en": "Inspect data, documents, numbers, conditions, and discrepancies accurately.",
+  "learning": {
+   "beginner": "Checklist; Document Control",
+   "beginner_en": null,
+   "intermediate": "Audit Trail; Reconciliation; Master Data Quality",
+   "advanced": "Control Design; Exception Analytics",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C05",
+  "name_en": "Communication",
+  "name_th": "การสื่อสาร",
+  "definition_th": "สื่อสารข้อมูล คำสั่ง รายงาน และประสานงานกับผู้เกี่ยวข้องได้ชัดเจน",
+  "definition_en": "Communicate information, instructions, and reports clearly, and coordinate with stakeholders.",
+  "learning": {
+   "beginner": "การเขียนอีเมล/รายงาน; Presentation",
+   "beginner_en": "Writing emails/reports; presentations",
+   "intermediate": "Stakeholder Communication; Dashboard Storytelling",
+   "advanced": "Executive Communication; Change Communication",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C06",
+  "name_en": "Teamwork & Collaboration",
+  "name_th": "การทำงานร่วมกัน",
+  "definition_th": "ร่วมมือ แบ่งบทบาท รับฟัง และทำงานกับทีม/หน่วยงานอื่นได้",
+  "definition_en": "Cooperate, share roles, listen, and work effectively with teams and other units.",
+  "learning": {
+   "beginner": "บทบาททีม; Active Listening",
+   "beginner_en": "Team roles; active listening",
+   "intermediate": "Cross-functional Collaboration; Facilitation",
+   "advanced": "Team Design; Conflict Management",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C07",
+  "name_en": "Leadership",
+  "name_th": "ภาวะผู้นำ",
+  "definition_th": "กำหนดทิศทาง มอบหมาย ติดตาม และพัฒนาทีมให้บรรลุเป้าหมาย",
+  "definition_en": "Set direction, delegate, monitor, and develop teams to achieve goals.",
+  "learning": {
+   "beginner": "เป้าหมายและการมอบหมาย",
+   "beginner_en": "Goal setting and delegation",
+   "intermediate": "Coaching; Performance Management",
+   "advanced": "Strategic Leadership; Talent Development",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C08",
+  "name_en": "Decision Making",
+  "name_th": "การตัดสินใจ",
+  "definition_th": "ตัดสินใจจากข้อมูล ความเสี่ยง ต้นทุน เวลา และผลกระทบ",
+  "definition_en": "Make decisions based on data, risk, cost, time, and impact.",
+  "learning": {
+   "beginner": "Decision Matrix; Risk/Benefit",
+   "beginner_en": null,
+   "intermediate": "Cost-Service Trade-off; Risk Analysis",
+   "advanced": "Decision under Uncertainty; Portfolio Decisions",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C09",
+  "name_en": "Digital & Technology",
+  "name_th": "ดิจิทัลและเทคโนโลยี",
+  "definition_th": "ใช้ระบบ WMS/TMS/ERP/Automation และเครื่องมือดิจิทัลที่เกี่ยวข้อง",
+  "definition_en": "Use domain-specific software systems (ERP, CRM, POS, etc.) and related digital tools.",
+  "learning": {
+   "beginner": "Excel; ระบบสารสนเทศพื้นฐาน",
+   "beginner_en": "Excel; basic information systems",
+   "intermediate": "WMS/TMS/ERP User; BI Tools",
+   "advanced": "Automation; Integration; AI/Digital Supply Chain",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C10",
+  "name_en": "Data Literacy",
+  "name_th": "การรู้เท่าทันข้อมูล",
+  "definition_th": "อ่าน จัดการ วิเคราะห์ และสื่อความหมายจากข้อมูล/ตัวชี้วัด",
+  "definition_en": "Read, manage, analyze, and communicate meaning from data and metrics.",
+  "learning": {
+   "beginner": "Spreadsheet; KPI; กราฟ",
+   "beginner_en": "Spreadsheets; KPIs; charts",
+   "intermediate": "Power BI; SQL basics; Forecasting",
+   "advanced": "Advanced Analytics; Data Governance; Predictive Analytics",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C11",
+  "name_en": "Customer Orientation",
+  "name_th": "การมุ่งเน้นลูกค้า",
+  "definition_th": "เข้าใจความต้องการลูกค้าและรักษาระดับการบริการ",
+  "definition_en": "Understand customer needs and maintain service levels.",
+  "learning": {
+   "beginner": "Service Mindset; SLA basics",
+   "beginner_en": null,
+   "intermediate": "Customer Journey; Complaint Analysis",
+   "advanced": "Customer Strategy; Service Design",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C12",
+  "name_en": "Negotiation",
+  "name_th": "การเจรจาต่อรอง",
+  "definition_th": "เจรจาเงื่อนไข ราคา เวลา บริการ และผลประโยชน์ร่วมกัน",
+  "definition_en": "Negotiate terms, prices, timing, services, and mutual benefits.",
+  "learning": {
+   "beginner": "Preparation; BATNA basics",
+   "beginner_en": null,
+   "intermediate": "Supplier Negotiation; Contract Terms",
+   "advanced": "Strategic Negotiation; Total Cost & Risk",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C13",
+  "name_en": "Adaptability",
+  "name_th": "การปรับตัว",
+  "definition_th": "ปรับแผนและวิธีทำงานเมื่อเงื่อนไข เทคโนโลยี หรือสถานการณ์เปลี่ยน",
+  "definition_en": "Adapt plans and working methods when conditions, technologies, or situations change.",
+  "learning": {
+   "beginner": "Growth Mindset; After Action Review",
+   "beginner_en": null,
+   "intermediate": "Change Readiness; Agile Ways of Working",
+   "advanced": "Transformation Leadership; Resilience Design",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C14",
+  "name_en": "Safety & Compliance",
+  "name_th": "ความปลอดภัยและการปฏิบัติตามข้อกำหนด",
+  "definition_th": "ปฏิบัติตามกฎหมาย มาตรฐาน ความปลอดภัย และข้อกำหนดองค์กร",
+  "definition_en": "Comply with laws, standards, safety practices, and organizational requirements.",
+  "learning": {
+   "beginner": "5S; Safety Basics; SOP",
+   "beginner_en": null,
+   "intermediate": "Internal Audit; Trade/Transport Compliance",
+   "advanced": "Compliance Management; Risk Governance",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ },
+ {
+  "id": "C15",
+  "name_en": "Sustainability Thinking",
+  "name_th": "การคิดเพื่อความยั่งยืน",
+  "definition_th": "คำนึงถึงทรัพยากร พลังงาน คาร์บอน ของเสีย และผลกระทบตลอดห่วงโซ่อุปทาน",
+  "definition_en": "Consider resources, energy, environmental impact, and sustainability in professional practice.",
+  "learning": {
+   "beginner": "3R; Green Logistics basics",
+   "beginner_en": null,
+   "intermediate": "Carbon Accounting basics; Reverse Logistics",
+   "advanced": "ESG Supply Chain; Decarbonization Strategy",
+   "advice_nearly_ready": "Nearly Ready / ฝึกเสริมเฉพาะจุด",
+   "advice_priority": "Development Priority / จัด Learning Path"
+  }
+ }
+]

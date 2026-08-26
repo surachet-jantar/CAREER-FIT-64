@@ -1,0 +1,31 @@
+[
+  {"id":"Q76","section":"program_specific","construct":"LOG","target":"LOG","text_th":"ฉันรู้สึกตื่นเต้นเมื่อได้จัดระบบคลังสินค้าให้มีประสิทธิภาพ","text_en":"I feel excited when organizing warehouse inventory for maximum efficiency"},
+  {"id":"Q77","section":"program_specific","construct":"LOG","target":"LOG","text_th":"ฉันชอบวางแผนเส้นทางการจัดส่งสินค้า","text_en":"I enjoy planning delivery routes and schedules"},
+  {"id":"Q78","section":"program_specific","construct":"LOG","target":"LOG","text_th":"ฉันเข้าใจความสำคัญของซัพพลายเชนในธุรกิจ","text_en":"I understand the importance of supply chain management in business"},
+  {"id":"Q79","section":"program_specific","construct":"LOG","target":"LOG","text_th":"ฉันสนใจที่จะเรียนรู้เกี่ยวกับระบบจัดการคลังสินค้าดิจิทัล","text_en":"I am interested in learning about digital warehouse management systems"},
+  {"id":"Q80","section":"program_specific","construct":"LOG","target":"LOG","text_th":"ฉันสามารถแก้ปัญหาการขนส่งที่ไม่คาดคิดได้อย่างรวดเร็ว","text_en":"I can quickly solve unexpected transportation problems"},
+
+  {"id":"Q81","section":"program_specific","construct":"ACC","target":"ACC","text_th":"ฉันมีความละเอียดรอบคอบในการทำงานกับตัวเลขและงบประมาณ","text_en":"I am meticulous when working with numbers and budgets"},
+  {"id":"Q82","section":"program_specific","construct":"ACC","target":"ACC","text_th":"ฉันเข้าใจหลักการบัญชีและสามารถอ่านงบการเงินได้","text_en":"I understand accounting principles and can read financial statements"},
+  {"id":"Q83","section":"program_specific","construct":"ACC","target":"ACC","text_th":"ฉันสนใจที่จะเรียนรู้เกี่ยวกับระบบบัญชีดิจิทัล","text_en":"I am interested in learning about digital accounting systems"},
+  {"id":"Q84","section":"program_specific","construct":"ACC","target":"ACC","text_th":"ฉันรู้สึกพึงพอใจเมื่องบการเงินสมดุลและถูกต้อง","text_en":"I feel satisfied when financial statements are balanced and accurate"},
+  {"id":"Q85","section":"program_specific","construct":"ACC","target":"ACC","text_th":"ฉันสามารถวิเคราะห์ข้อมูลทางการเงินเพื่อการตัดสินใจได้","text_en":"I can analyze financial data to support decision-making"},
+
+  {"id":"Q86","section":"program_specific","construct":"MKT","target":"MKT","text_th":"ฉันชอบคิดไอเดียสร้างสรรค์สำหรับแคมเปญการตลาด","text_en":"I enjoy creating creative ideas for marketing campaigns"},
+  {"id":"Q87","section":"program_specific","construct":"MKT","target":"MKT","text_th":"ฉันเข้าใจพฤติกรรมผู้บริโภคและสิ่งที่ขับเคลื่อนการตัดสินใจซื้อ","text_en":"I understand consumer behavior and what drives purchasing decisions"},
+  {"id":"Q88","section":"program_specific","construct":"MKT","target":"MKT","text_th":"ฉันสนใจแพลตฟอร์มดิจิทัลและการตลาดผ่านโซเชียลมีเดีย","text_en":"I am interested in digital platforms and social media marketing"},
+  {"id":"Q89","section":"program_specific","construct":"MKT","target":"MKT","text_th":"ฉันสามารถสื่อสารเรื่องราวของแบรนด์ได้อย่างน่าสนใจ","text_en":"I can communicate a brand story in an engaging way"},
+  {"id":"Q90","section":"program_specific","construct":"MKT","target":"MKT","text_th":"ฉันชอบวิเคราะห์ข้อมูลยอดขายและผลตอบแทนจากการลงทุน","text_en":"I enjoy analyzing sales data and return on investment"},
+
+  {"id":"Q91","section":"program_specific","construct":"IT","target":"IT","text_th":"ฉันชอบแก้ปัญหาทางเทคนิคและเขียนโค้ด","text_en":"I enjoy solving technical problems and writing code"},
+  {"id":"Q92","section":"program_specific","construct":"IT","target":"IT","text_th":"ฉันเข้าใจระบบฐานข้อมูลและสามารถออกแบบโครงสร้างข้อมูลได้","text_en":"I understand database systems and can design data structures"},
+  {"id":"Q93","section":"program_specific","construct":"IT","target":"IT","text_th":"ฉันสนใจเทคโนโลยีใหม่ๆ เช่น AI คลาวด์ และ IoT","text_en":"I am interested in new technologies like AI, cloud, and IoT"},
+  {"id":"Q94","section":"program_specific","construct":"IT","target":"IT","text_th":"ฉันสามารถเรียนรู้ภาษาโปรแกรมใหม่ได้อย่างรวดเร็ว","text_en":"I can learn new programming languages quickly"},
+  {"id":"Q95","section":"program_specific","construct":"IT","target":"IT","text_th":"ฉันชอบออกแบบและพัฒนาระบบที่ใช้งานง่ายสำหรับผู้ใช้","text_en":"I enjoy designing and developing user-friendly systems"},
+
+  {"id":"Q96","section":"program_specific","construct":"HOS","target":"HOS","text_th":"ฉันชอบให้บริการและทำให้แขกรู้สึกพึงพอใจ","text_en":"I enjoy serving others and making guests feel satisfied"},
+  {"id":"Q97","section":"program_specific","construct":"HOS","target":"HOS","text_th":"ฉันเข้าใจมาตรฐานการบริการในอุตสาหกรรมโรงแรม","text_en":"I understand service standards in the hotel industry"},
+  {"id":"Q98","section":"program_specific","construct":"HOS","target":"HOS","text_th":"ฉันสามารถจัดการสถานการณ์ที่มีแรงกดดันสูงในโรงแรมได้","text_en":"I can handle high-pressure situations in a hotel environment"},
+  {"id":"Q99","section":"program_specific","construct":"TRV","target":"TRV","text_th":"ฉันชอบวางแผนและออกแบบประสบการณ์การท่องเที่ยว","text_en":"I enjoy planning and designing tourism experiences"},
+  {"id":"Q100","section":"program_specific","construct":"TRV","target":"TRV","text_th":"ฉันเข้าใจแนวโน้มการท่องเที่ยวและพฤติกรรมนักท่องเที่ยว","text_en":"I understand tourism trends and tourist behavior"}
+]

@@ -1,0 +1,5452 @@
+[
+  {
+    "id": "CR201",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL41",
+      "th": "การจัดการโรงแรม",
+      "en": "Hotel Management"
+    },
+    "name_en": "Front Desk Agent",
+    "name_th": "พนักงานต้อนรับส่วนหน้า",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ต้อนรับผู้เข้าพัก จัดการเช็คอิน/เช็คเอาท์ และให้บริการข้อมูล",
+    "description_en": "Greet guests, manage check-in/check-out, and provide information",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "พนักงานต้อนรับส่วนหน้า",
+      "เจ้าหน้าที่ต้อนรับอาวุโส",
+      "หัวหน้างานต้อนรับ",
+      "ผู้จัดการแผนกต้อนรับ",
+      "ผู้จัดการโรงแรม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Front Desk Agent",
+      "Senior Front Desk Agent",
+      "Front Desk Supervisor",
+      "Front Office Manager",
+      "Hotel Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR202",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL41",
+      "th": "การจัดการโรงแรม",
+      "en": "Hotel Management"
+    },
+    "name_en": "Guest Relations Manager",
+    "name_th": "ผู้จัดการความสัมพันธ์ลูกค้า",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ดูแลความพึงพอใจลูกค้า จัดการร้องเรียน และสร้างประสบการณ์พิเศษ",
+    "description_en": "Oversee guest satisfaction, handle complaints, and create special experiences",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C11": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่ลูกค้าสัมพันธ์",
+      "ผู้จัดการความสัมพันธ์ลูกค้า",
+      "หัวหน้างานลูกค้าสัมพันธ์",
+      "ผู้จัดการฝ่ายลูกค้าสัมพันธ์",
+      "ผู้จัดการโรงแรม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Guest Relations Officer",
+      "Guest Relations Manager",
+      "Guest Relations Supervisor",
+      "Guest Relations Director",
+      "Hotel Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR203",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL41",
+      "th": "การจัดการโรงแรม",
+      "en": "Hotel Management"
+    },
+    "name_en": "Reservation Agent",
+    "name_th": "เจ้าหน้าที่จองห้องพัก",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการการจองห้องพัก ห้องอาหาร และบริการเสริม",
+    "description_en": "Manage room bookings, restaurant reservations, and ancillary services",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่จองห้องพัก",
+      "เจ้าหน้าที่จองอาวุโส",
+      "หัวหน้างานจอง",
+      "ผู้จัดการจอง",
+      "ผู้จัดการโรงแรม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Reservation Agent",
+      "Senior Reservation Agent",
+      "Reservation Supervisor",
+      "Reservation Manager",
+      "Hotel Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR204",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL41",
+      "th": "การจัดการโรงแรม",
+      "en": "Hotel Management"
+    },
+    "name_en": "Hotel Operations Manager",
+    "name_th": "ผู้จัดการฝ่ายปฏิบัติการโรงแรม",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "บริหารการดำเนินงานประจำวัน ดูแลทุกแผนก และเพิ่มประสิทธิภาพ",
+    "description_en": "Manage daily operations, oversee all departments, and improve efficiency",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 5,
+      "people": 3,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 2,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่โรงแรม",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้จัดการฝ่ายปฏิบัติการอาวุโส",
+      "ผู้จัดการโรงแรม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Hotel Staff",
+      "Operations Manager",
+      "Senior Operations Manager",
+      "Hotel Manager",
+      "Director of Hotel Operations",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR205",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL41",
+      "th": "การจัดการโรงแรม",
+      "en": "Hotel Management"
+    },
+    "name_en": "General Manager (Hotel)",
+    "name_th": "ผู้จัดการทั่วไป (โรงแรม)",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "บริหารโรงแรมทั้งหมด กำกับดูแลพนักงาน และรับผิดชอบผลกำไร",
+    "description_en": "Manage the entire hotel, oversee staff, and take responsibility for profits",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่โรงแรม",
+      "ผู้จัดการแผนก",
+      "ผู้จัดการโรงแรม",
+      "ผู้จัดการทั่วไป",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Hotel Staff",
+      "Department Manager",
+      "Hotel Manager",
+      "General Manager",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR206",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL42",
+      "th": "การจัดเลี้ยง",
+      "en": "Food & Beverage"
+    },
+    "name_en": "Restaurant Server",
+    "name_th": "พนักงานเสิร์ฟ",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ให้บริการอาหารและเครื่องดื่ม ดูแลความพึงพอใจลูกค้า",
+    "description_en": "Serve food and beverages, attend to guest satisfaction",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานร้านอาหาร",
+      "พนักงานเสิร์ฟ",
+      "พนักงานเสิร์ฟอาวุโส",
+      "หัวหน้างานเสิร์ฟ",
+      "ผู้จัดการร้านอาหาร",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Restaurant Intern",
+      "Restaurant Server",
+      "Senior Server",
+      "Server Supervisor",
+      "Restaurant Manager",
+      "F&B Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR207",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL42",
+      "th": "การจัดเลี้ยง",
+      "en": "Food & Beverage"
+    },
+    "name_en": "Restaurant Manager",
+    "name_th": "ผู้จัดการร้านอาหาร",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "บริหารร้านอาหาร จัดการพนักงาน และดูแลคุณภาพอาหาร",
+    "description_en": "Manage restaurant, oversee staff, and ensure food quality",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานร้านอาหาร",
+      "พนักงานเสิร์ฟ",
+      "ผู้จัดการร้านอาหาร",
+      "ผู้จัดการร้านอาหารอาวุโส",
+      "หัวหน้างานฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Restaurant Intern",
+      "Server",
+      "Restaurant Manager",
+      "Senior Restaurant Manager",
+      "F&B Supervisor",
+      "F&B Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR208",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL42",
+      "th": "การจัดเลี้ยง",
+      "en": "Food & Beverage"
+    },
+    "name_en": "Barista / Bartender",
+    "name_th": "บาริสต้า / บาร์เทนเดอร์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ชงกาแฟ ค็อกเทล และเครื่องดื่ม ให้บริการที่บาร์",
+    "description_en": "Prepare coffee, cocktails, and beverages; serve at the bar",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานบาร์",
+      "บาริสต้า / บาร์เทนเดอร์",
+      "บาริสต้าอาวุโส",
+      "หัวหน้างานบาร์",
+      "ผู้จัดการบาร์",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Bar Intern",
+      "Barista / Bartender",
+      "Senior Barista",
+      "Bar Supervisor",
+      "Bar Manager",
+      "F&B Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR209",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL42",
+      "th": "การจัดเลี้ยง",
+      "en": "Food & Beverage"
+    },
+    "name_en": "Banquet Manager",
+    "name_th": "ผู้จัดการจัดเลี้ยง",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดการงานจัดเลี้ยง วางแผน และดูแลการให้บริการ",
+    "description_en": "Manage banquets, plan events, and oversee service delivery",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานจัดเลี้ยง",
+      "เจ้าหน้าที่จัดเลี้ยง",
+      "ผู้จัดการจัดเลี้ยง",
+      "ผู้จัดการจัดเลี้ยงอาวุโส",
+      "หัวหน้างานฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Banquet Intern",
+      "Banquet Staff",
+      "Banquet Manager",
+      "Senior Banquet Manager",
+      "F&B Supervisor",
+      "F&B Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR210",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL42",
+      "th": "การจัดเลี้ยง",
+      "en": "Food & Beverage"
+    },
+    "name_en": "Director of Food & Beverage",
+    "name_th": "ผู้อำนวยการฝ่ายอาหารและเครื่องดื่ม",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ฝ่ายอาหารและเครื่องดื่ม จัดการทีม และเพิ่มรายได้",
+    "description_en": "Lead F&B strategy, manage teams, and drive revenue",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานร้านอาหาร",
+      "ผู้จัดการร้านอาหาร",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายอาหารและเครื่องดื่ม",
+      "รองประธานฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Restaurant Intern",
+      "Restaurant Manager",
+      "F&B Manager",
+      "Director of F&B",
+      "VP of Operations",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR211",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL43",
+      "th": "การจัดการกิจกรรม",
+      "en": "Event Management"
+    },
+    "name_en": "Event Coordinator",
+    "name_th": "เจ้าหน้าที่ประสานงานกิจกรรม",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "จัดการรายละเอียดกิจกรรม ติดต่อผู้ขาย และจัดการวันงาน",
+    "description_en": "Manage event details, coordinate vendors, and handle event-day logistics",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานอีเวนต์",
+      "เจ้าหน้าที่ประสานงานกิจกรรม",
+      "ผู้จัดการกิจกรรม",
+      "ผู้จัดการกิจกรรมอาวุโส",
+      "หัวหน้างานอีเวนต์",
+      "ผู้อำนวยการฝ่ายกิจกรรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Events Intern",
+      "Event Coordinator",
+      "Event Manager",
+      "Senior Event Manager",
+      "Events Supervisor",
+      "Director of Events",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR212",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL43",
+      "th": "การจัดการกิจกรรม",
+      "en": "Event Management"
+    },
+    "name_en": "Event Planner",
+    "name_th": "นักวางแผนกิจกรรม",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "วางแผนและออกแบบกิจกรรม จัดการงบประมาณ และเจรจากับผู้ขาย",
+    "description_en": "Plan and design events, manage budgets, and negotiate with vendors",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 5,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานอีเวนต์",
+      "นักวางแผนกิจกรรม",
+      "นักวางแผนอาวุโส",
+      "หัวหน้างานวางแผน",
+      "ผู้จัดการวางแผน",
+      "ผู้อำนวยการฝ่ายกิจกรรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Events Intern",
+      "Event Planner",
+      "Senior Event Planner",
+      "Planning Supervisor",
+      "Planning Manager",
+      "Director of Events",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR213",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL43",
+      "th": "การจัดการกิจกรรม",
+      "en": "Event Management"
+    },
+    "name_en": "Wedding Planner",
+    "name_th": "นักวางแผนงานแต่งงาน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการทุกขั้นตอนของงานแต่งงาน ตั้งแต่เลือก venue จนถึงวันงาน",
+    "description_en": "Manage every step of weddings, from venue selection to the big day",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานอีเวนต์",
+      "นักวางแผนงานแต่งงาน",
+      "นักวางแผนอาวุโส",
+      "หัวหน้างานวางแผน",
+      "ผู้จัดการวางแผน",
+      "ผู้อำนวยการฝ่ายกิจกรรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Events Intern",
+      "Wedding Planner",
+      "Senior Wedding Planner",
+      "Planning Supervisor",
+      "Planning Manager",
+      "Director of Events",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR214",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL43",
+      "th": "การจัดการกิจกรรม",
+      "en": "Event Management"
+    },
+    "name_en": "Conference Services Manager",
+    "name_th": "ผู้จัดการฝ่ายบริการสัมมนา",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "จัดการสัมมนาและการประชุม ดูแลอุปกรณ์ และให้บริการผู้เข้าร่วม",
+    "description_en": "Manage conferences and meetings, oversee equipment, and serve attendees",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C14": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานสัมมนา",
+      "เจ้าหน้าที่สัมมนา",
+      "ผู้จัดการฝ่ายบริการสัมมนา",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างานสัมมนา",
+      "ผู้อำนวยการฝ่ายกิจกรรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Conference Intern",
+      "Conference Staff",
+      "Conference Services Manager",
+      "Senior Conference Manager",
+      "Conference Supervisor",
+      "Director of Events",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR215",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL43",
+      "th": "การจัดการกิจกรรม",
+      "en": "Event Management"
+    },
+    "name_en": "Director of Events",
+    "name_th": "ผู้อำนวยการฝ่ายกิจกรรม",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ฝ่ายกิจกรรม จัดการทีม และพัฒนาธุรกิจกิจกรรม",
+    "description_en": "Lead events strategy, manage teams, and develop event business",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานอีเวนต์",
+      "เจ้าหน้าที่กิจกรรม",
+      "ผู้จัดการกิจกรรม",
+      "ผู้อำนวยการฝ่ายกิจกรรม",
+      "รองประธานฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Events Intern",
+      "Event Staff",
+      "Event Manager",
+      "Director of Events",
+      "VP of Operations",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR216",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL44",
+      "th": "การบริการลูกค้า",
+      "en": "Guest Services"
+    },
+    "name_en": "Concierge",
+    "name_th": "พนักงาน concierge",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ให้คำแนะนำและบริการแก่ผู้เข้าพัก จัดการทัวร์ และจองร้านอาหาร",
+    "description_en": "Advise and serve guests, arrange tours, and book restaurants",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C01": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C03": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "พนักงาน concierge",
+      "concierge อาวุโส",
+      "หัวหน้างาน concierge",
+      "ผู้จัดการ concierge",
+      "ผู้จัดการโรงแรม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Concierge",
+      "Senior Concierge",
+      "Concierge Supervisor",
+      "Concierge Manager",
+      "Hotel Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR217",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL44",
+      "th": "การบริการลูกค้า",
+      "en": "Guest Services"
+    },
+    "name_en": "Guest Service Agent",
+    "name_th": "เจ้าหน้าที่บริการลูกค้า",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการคำขอของลูกค้า แก้ไขปัญหา และให้ข้อมูล",
+    "description_en": "Handle guest requests, resolve issues, and provide information",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C11": {
+        "required": 5,
+        "weight": 1
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่บริการลูกค้า",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานบริการ",
+      "ผู้จัดการบริการ",
+      "ผู้จัดการโรงแรม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Guest Service Agent",
+      "Senior Guest Service Agent",
+      "Service Supervisor",
+      "Service Manager",
+      "Hotel Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR218",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL44",
+      "th": "การบริการลูกค้า",
+      "en": "Guest Services"
+    },
+    "name_en": "Bellboy / Porters",
+    "name_th": "พนักงานยกกระเป๋า",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ให้บริการขนสัมภาระ ต้อนรับ และอำนวยความสะดวก",
+    "description_en": "Provide luggage assistance, greet guests, and facilitate services",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C11": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "พนักงานยกกระเป๋า",
+      "พนักงานยกกระเป๋าอาวุโส",
+      "หัวหน้างาน bellboy",
+      "ผู้จัดการ bellboy",
+      "ผู้จัดการโรงแรม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Bellboy",
+      "Senior Bellboy",
+      "Bellboy Supervisor",
+      "Bellboy Manager",
+      "Hotel Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR219",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL44",
+      "th": "การบริการลูกค้า",
+      "en": "Guest Services"
+    },
+    "name_en": "VIP Service Manager",
+    "name_th": "ผู้จัดการบริการ VIP",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "ดูแลลูกค้า VIP วางแผนบริการพิเศษ และจัดการความต้องการ",
+    "description_en": "Oversee VIP guests, plan special services, and manage needs",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C11": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่ VIP",
+      "ผู้จัดการบริการ VIP",
+      "ผู้จัดการอาวุโส",
+      "หัวหน้างาน VIP",
+      "ผู้จัดการโรงแรม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "VIP Service Agent",
+      "VIP Service Manager",
+      "VIP Service Supervisor",
+      "VIP Service Director",
+      "Hotel Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR220",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL44",
+      "th": "การบริการลูกค้า",
+      "en": "Guest Services"
+    },
+    "name_en": "Director of Guest Services",
+    "name_th": "ผู้อำนวยการฝ่ายบริการลูกค้า",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ฝ่ายบริการ จัดการทีม และเพิ่มความพึงพอใจ",
+    "description_en": "Lead service strategy, manage teams, and increase satisfaction",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่บริการ",
+      "ผู้จัดการบริการ",
+      "ผู้อำนวยการฝ่ายบริการลูกค้า",
+      "รองประธานฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Service Staff",
+      "Service Manager",
+      "Director of Guest Services",
+      "VP of Operations",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR221",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL45",
+      "th": "การจัดการสปา",
+      "en": "Spa Management"
+    },
+    "name_en": "Spa Therapist",
+    "name_th": "นักบำบัดสปา",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ให้บริการนวด ทรีตเมนต์ และบำบัดสุขภาพ",
+    "description_en": "Provide massage, treatments, and wellness therapies",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C04": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานสปา",
+      "นักบำบัดสปา",
+      "นักบำบัดอาวุโส",
+      "หัวหน้างานบำบัด",
+      "ผู้จัดการสปา",
+      "ผู้อำนวยการฝ่ายสปา",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Spa Intern",
+      "Spa Therapist",
+      "Senior Spa Therapist",
+      "Therapy Supervisor",
+      "Spa Manager",
+      "Director of Spa",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR222",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL45",
+      "th": "การจัดการสปา",
+      "en": "Spa Management"
+    },
+    "name_en": "Spa Receptionist",
+    "name_th": "พนักงานต้อนรับสปา",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ต้อนรับลูกค้า จัดการนัดหมาย และให้คำแนะนำ treatments",
+    "description_en": "Greet clients, manage appointments, and advise on treatments",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานสปา",
+      "พนักงานต้อนรับสปา",
+      "พนักงานต้อนรับอาวุโส",
+      "หัวหน้างานต้อนรับ",
+      "ผู้จัดการสปา",
+      "ผู้อำนวยการฝ่ายสปา",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Spa Intern",
+      "Spa Receptionist",
+      "Senior Spa Receptionist",
+      "Reception Supervisor",
+      "Spa Manager",
+      "Director of Spa",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR223",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL45",
+      "th": "การจัดการสปา",
+      "en": "Spa Management"
+    },
+    "name_en": "Spa Supervisor",
+    "name_th": "หัวหน้างานสปา",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ดูแลการดำเนินงานสปา จัดการพนักงาน และดูแลคุณภาพ",
+    "description_en": "Oversee spa operations, manage staff, and ensure quality",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานสปา",
+      "นักบำบัดสปา",
+      "หัวหน้างานสปา",
+      "ผู้จัดการสปา",
+      "ผู้อำนวยการฝ่ายสปา",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Spa Intern",
+      "Spa Therapist",
+      "Spa Supervisor",
+      "Spa Manager",
+      "Director of Spa",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR224",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL45",
+      "th": "การจัดการสปา",
+      "en": "Spa Management"
+    },
+    "name_en": "Spa Manager",
+    "name_th": "ผู้จัดการสปา",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "บริหารสปา จัดการผลิตภัณฑ์ และพัฒนาเมนู treatments",
+    "description_en": "Manage spa operations, products, and develop treatment menus",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 4,
+      "operations": 2,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานสปา",
+      "นักบำบัดสปา",
+      "หัวหน้างานสปา",
+      "ผู้จัดการสปา",
+      "ผู้อำนวยการฝ่ายสปา",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Spa Intern",
+      "Spa Therapist",
+      "Spa Supervisor",
+      "Spa Manager",
+      "Director of Spa",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR225",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL45",
+      "th": "การจัดการสปา",
+      "en": "Spa Management"
+    },
+    "name_en": "Director of Spa & Wellness",
+    "name_th": "ผู้อำนวยการฝ่ายสปาและสุขภาพ",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์สปา จัดการทีม และพัฒนาธุรกิจ wellness",
+    "description_en": "Lead spa strategy, manage teams, and develop wellness business",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานสปา",
+      "ผู้จัดการสปา",
+      "ผู้อำนวยการฝ่ายสปา",
+      "ผู้อำนวยการฝ่ายสปาและสุขภาพ",
+      "รองประธานฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Spa Intern",
+      "Spa Manager",
+      "Director of Spa",
+      "Director of Spa & Wellness",
+      "VP of Operations",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR226",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL46",
+      "th": "การจัดการครัว",
+      "en": "Kitchen Management"
+    },
+    "name_en": "Line Cook",
+    "name_th": "พนักงานครัว line",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "เตรียมและปรุงอาหารตามสูตร ดูแลความสะอาด station",
+    "description_en": "Prepare and cook dishes per recipes, maintain station cleanliness",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C10": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานครัว",
+      "พนักงานครัว line",
+      "พนักงานครัวอาวุโส",
+      "หัวหน้าเชฟ",
+      "ผู้จัดการครัว",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Kitchen Intern",
+      "Line Cook",
+      "Senior Line Cook",
+      "Head Chef",
+      "Kitchen Manager",
+      "F&B Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR227",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL46",
+      "th": "การจัดการครัว",
+      "en": "Kitchen Management"
+    },
+    "name_en": "Sous Chef",
+    "name_th": "รองเชฟ",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ช่วยเชฟใหญ่ดูแลครัว จัดการพนักงาน และควบคุมคุณภาพอาหาร",
+    "description_en": "Assist head chef, manage kitchen staff, and control food quality",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานครัว",
+      "พนักงานครัว",
+      "Sous Chef",
+      "เชฟใหญ่",
+      "ผู้จัดการครัว",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Kitchen Intern",
+      "Cook",
+      "Sous Chef",
+      "Head Chef",
+      "Kitchen Manager",
+      "F&B Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR228",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL46",
+      "th": "การจัดการครัว",
+      "en": "Kitchen Management"
+    },
+    "name_en": "Pastry Chef",
+    "name_th": "เชฟขนมหวาน",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "เตรียมและตกแต่งขนมหวาน ของหวาน และเบเกอรี่",
+    "description_en": "Prepare and decorate pastries, desserts, and baked goods",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานครัว",
+      "เชฟขนมหวาน",
+      "เชฟขนมหวานอาวุโส",
+      "หัวหน้าเชฟขนมหวาน",
+      "ผู้จัดการครัวขนมหวาน",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Kitchen Intern",
+      "Pastry Chef",
+      "Senior Pastry Chef",
+      "Pastry Supervisor",
+      "Pastry Manager",
+      "F&B Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR229",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL46",
+      "th": "การจัดการครัว",
+      "en": "Kitchen Management"
+    },
+    "name_en": "Executive Chef",
+    "name_th": "เชฟบริหาร",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "บริหารครัว ออกแบบเมนู จัดการต้นทุน และดูแลทีม",
+    "description_en": "Manage kitchen, design menus, control costs, and lead teams",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานครัว",
+      "เชฟ",
+      "Sous Chef",
+      "Executive Chef",
+      "ผู้จัดการครัว",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Kitchen Intern",
+      "Chef",
+      "Sous Chef",
+      "Executive Chef",
+      "Kitchen Manager",
+      "F&B Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR230",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL46",
+      "th": "การจัดการครัว",
+      "en": "Kitchen Management"
+    },
+    "name_en": "Director of Culinary",
+    "name_th": "ผู้อำนวยการฝ่ายครัว",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ครัว จัดการทีม และพัฒนาเมนู",
+    "description_en": "Lead culinary strategy, manage teams, and develop menus",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานครัว",
+      "เชฟ",
+      "ผู้จัดการครัว",
+      "ผู้อำนวยการฝ่ายครัว",
+      "ผู้จัดการฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Kitchen Intern",
+      "Chef",
+      "Kitchen Manager",
+      "Director of Culinary",
+      "F&B Manager",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR231",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL47",
+      "th": "การบริหารบุคลากรโรงแรม",
+      "en": "Hotel HR Management"
+    },
+    "name_en": "HR Coordinator",
+    "name_th": "เจ้าหน้าที่ HR",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการ Recruitment onboarding และดูแลพนักงาน",
+    "description_en": "Manage recruitment, onboarding, and staff welfare",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน HR",
+      "เจ้าหน้าที่ HR",
+      "เจ้าหน้าที่ HR อาวุโส",
+      "หัวหน้างาน HR",
+      "ผู้จัดการ HR",
+      "ผู้จัดการฝ่ายทรัพยากรบุคคล",
+      "ประธานเจ้าหน้าที่ฝ่ายทรัพยากรบุคคล"
+    ],
+    "roadmap_en": [
+      "Student / HR Intern",
+      "HR Coordinator",
+      "Senior HR Coordinator",
+      "HR Supervisor",
+      "HR Manager",
+      "Director of HR",
+      "Chief Human Resources Officer"
+    ]
+  },
+  {
+    "id": "CR232",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL47",
+      "th": "การบริหารบุคลากรโรงแรม",
+      "en": "Hotel HR Management"
+    },
+    "name_en": "Training Coordinator",
+    "name_th": "เจ้าหน้าที่ฝึกอบรม",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการโปรแกรมฝึกอบรมพนักงาน ติดตามผล และจัดทำสื่อ",
+    "description_en": "Manage staff training programs, track progress, and create materials",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 3,
+      "leadership": 4
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน HR",
+      "เจ้าหน้าที่ฝึกอบรม",
+      "เจ้าหน้าที่ฝึกอบรมอาวุโส",
+      "หัวหน้างานฝึกอบรม",
+      "ผู้จัดการฝึกอบรม",
+      "ผู้จัดการฝ่ายทรัพยากรบุคคล",
+      "ประธานเจ้าหน้าที่ฝ่ายทรัพยากรบุคคล"
+    ],
+    "roadmap_en": [
+      "Student / HR Intern",
+      "Training Coordinator",
+      "Senior Training Coordinator",
+      "Training Supervisor",
+      "Training Manager",
+      "Director of HR",
+      "Chief Human Resources Officer"
+    ]
+  },
+  {
+    "id": "CR233",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL47",
+      "th": "การบริหารบุคลากรโรงแรม",
+      "en": "Hotel HR Management"
+    },
+    "name_en": "HR Manager",
+    "name_th": "ผู้จัดการฝ่ายทรัพยากรบุคคล",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "บริหารฝ่าย HR จัดการ Compensation & Benefits และความสัมพันธ์พนักงาน",
+    "description_en": "Manage HR department, handle C&B, and employee relations",
+    "entry_education": "ปริญญาตรีขึ้นไปหรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน HR",
+      "เจ้าหน้าที่ HR",
+      "เจ้าหน้าที่ HR อาวุโส",
+      "ผู้จัดการฝ่ายทรัพยากรบุคคล",
+      "ผู้อำนวยการฝ่ายทรัพยากรบุคคล",
+      "รองประธานฝ่ายทรัพยากรบุคคล",
+      "ประธานเจ้าหน้าที่ฝ่ายทรัพยากรบุคคล"
+    ],
+    "roadmap_en": [
+      "Student / HR Intern",
+      "HR Staff",
+      "Senior HR Staff",
+      "HR Manager",
+      "Director of HR",
+      "VP of HR",
+      "Chief Human Resources Officer"
+    ]
+  },
+  {
+    "id": "CR234",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL47",
+      "th": "การบริหารบุคลากรโรงแรม",
+      "en": "Hotel HR Management"
+    },
+    "name_en": "Recruitment Specialist",
+    "name_th": "ผู้เชี่ยวชาญการสรรหา",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "สรรหาและคัดสรรพนักงาน จัดการสัมภาษณ์ และทำนายผล",
+    "description_en": "Recruit and select staff, manage interviews, and predict outcomes",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน HR",
+      "ผู้เชี่ยวชาญการสรรหา",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานสรรหา",
+      "ผู้จัดการสรรหา",
+      "ผู้จัดการฝ่ายทรัพยากรบุคคล",
+      "ประธานเจ้าหน้าที่ฝ่ายทรัพยากรบุคคล"
+    ],
+    "roadmap_en": [
+      "Student / HR Intern",
+      "Recruitment Specialist",
+      "Senior Recruitment Specialist",
+      "Recruitment Supervisor",
+      "Recruitment Manager",
+      "Director of HR",
+      "Chief Human Resources Officer"
+    ]
+  },
+  {
+    "id": "CR235",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL47",
+      "th": "การบริหารบุคลากรโรงแรม",
+      "en": "Hotel HR Management"
+    },
+    "name_en": "Director of Human Resources",
+    "name_th": "ผู้อำนวยการฝ่ายทรัพยากรบุคคล",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ HR จัดการทีม และพัฒนาวัฒนธรรมองค์กร",
+    "description_en": "Lead HR strategy, manage teams, and develop organizational culture",
+    "entry_education": "ปริญญาตรี/ปริญญาโท หรือประสบการณ์ผู้บริหาร",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 4,
+      "operations": 4,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงาน HR",
+      "เจ้าหน้าที่ HR",
+      "ผู้จัดการฝ่ายทรัพยากรบุคคล",
+      "ผู้อำนวยการฝ่ายทรัพยากรบุคคล",
+      "รองประธานฝ่ายทรัพยากรบุคคล",
+      "ประธานเจ้าหน้าที่ฝ่ายทรัพยากรบุคคล",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / HR Intern",
+      "HR Staff",
+      "HR Manager",
+      "Director of HR",
+      "VP of HR",
+      "Chief Human Resources Officer",
+      "Chief Operating Officer"
+    ]
+  },
+  {
+    "id": "CR236",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL48",
+      "th": "การตลาดโรงแรม",
+      "en": "Hotel Marketing"
+    },
+    "name_en": "Hotel Marketing Assistant",
+    "name_th": "ผู้ช่วยนักการตลาดโรงแรม",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ช่วยเหลือการตลาดออนไลน์ จัดการโซเชียลมีเดีย และสร้างเนื้อหา",
+    "description_en": "Assist in online marketing, manage social media, and create content",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C04": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C14": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 3,
+      "operations": 2,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้ช่วยนักการตลาดโรงแรม",
+      "นักการตลาดโรงแรม",
+      "นักการตลาดอาวุโส",
+      "ผู้จัดการการตลาด",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Hotel Marketing Assistant",
+      "Hotel Marketing Specialist",
+      "Senior Hotel Marketer",
+      "Marketing Manager",
+      "Director of Marketing",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR237",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL48",
+      "th": "การตลาดโรงแรม",
+      "en": "Hotel Marketing"
+    },
+    "name_en": "Revenue Manager",
+    "name_th": "ผู้จัดการรายได้",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการราคาห้องพัก วิเคราะห์ demand และเพิ่มรายได้",
+    "description_en": "Manage room pricing, analyze demand, and maximize revenue",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 5,
+        "weight": 1
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 2,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 2,
+      "collaborative": 2,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "เจ้าหน้าที่รายได้",
+      "ผู้จัดการรายได้",
+      "ผู้จัดการรายได้อาวุโส",
+      "หัวหน้างานรายได้",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Revenue Analyst",
+      "Revenue Manager",
+      "Senior Revenue Manager",
+      "Revenue Supervisor",
+      "Director of Marketing",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR238",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL48",
+      "th": "การตลาดโรงแรม",
+      "en": "Hotel Marketing"
+    },
+    "name_en": "Digital Marketing Specialist",
+    "name_th": "ผู้เชี่ยวชาญการตลาดดิจิทัล",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการ SEO SEM และโฆษณาออนไลน์สำหรับโรงแรม",
+    "description_en": "Manage SEO, SEM, and online advertising for hotels",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 5,
+      "operations": 3,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 2,
+      "collaborative": 3,
+      "adaptive": 5
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "ผู้เชี่ยวชาญการตลาดดิจิทัล",
+      "ผู้เชี่ยวชาญอาวุโส",
+      "หัวหน้างานดิจิทัล",
+      "ผู้จัดการดิจิทัล",
+      "ผู้อำนวยการฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Digital Marketing Specialist",
+      "Senior Digital Specialist",
+      "Digital Supervisor",
+      "Digital Manager",
+      "Director of Marketing",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR239",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL48",
+      "th": "การตลาดโรงแรม",
+      "en": "Hotel Marketing"
+    },
+    "name_en": "Sales Manager",
+    "name_th": "ผู้จัดการฝ่ายขาย",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "พัฒนาลูกค้าองค์กร จัดการสัญญา และเพิ่มยอดขาย",
+    "description_en": "Develop corporate clients, manage contracts, and increase sales",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C05": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C11": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C07": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C02": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 5,
+      "technology": 2,
+      "operations": 4,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานขาย",
+      "เจ้าหน้าที่ขาย",
+      "ผู้จัดการฝ่ายขาย",
+      "ผู้จัดการฝ่ายขายอาวุโส",
+      "หัวหน้างานขาย",
+      "ผู้อำนวยการฝ่ายขาย",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Sales Intern",
+      "Sales Executive",
+      "Sales Manager",
+      "Senior Sales Manager",
+      "Sales Supervisor",
+      "Director of Sales",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR240",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL48",
+      "th": "การตลาดโรงแรม",
+      "en": "Hotel Marketing"
+    },
+    "name_en": "Director of Sales & Marketing",
+    "name_th": "ผู้อำนวยการฝ่ายขายและการตลาด",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ขายและการตลาด จัดการทีม และเพิ่มรายได้",
+    "description_en": "Lead sales and marketing strategy, manage teams, and drive revenue",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 4,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 5,
+      "technology": 4,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 3,
+      "collaborative": 4,
+      "adaptive": 4
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานการตลาด",
+      "นักการตลาด",
+      "ผู้จัดการฝ่ายการตลาด",
+      "ผู้อำนวยการฝ่ายขายและการตลาด",
+      "รองประธานฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Marketing Intern",
+      "Marketer",
+      "Marketing Manager",
+      "Director of Sales & Marketing",
+      "VP of Operations",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR241",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL49",
+      "th": "การจัดการห้องพัก",
+      "en": "Housekeeping Management"
+    },
+    "name_en": "Room Attendant",
+    "name_th": "พนักงานทำความสะอาดห้องพัก",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ทำความสะอาดห้องพัก เปลี่ยนผ้า และเติมอุปกรณ์",
+    "description_en": "Clean rooms, change linens, and replenish amenities",
+    "entry_education": "ปวส./ปริญญาตรี หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 2,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C11": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.6
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "พนักงานทำความสะอาดห้องพัก",
+      "พนักงานทำความสะอาดอาวุโส",
+      "หัวหน้างานทำความสะอาด",
+      "ผู้จัดการฝ่ายแม่บ้าน",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Room Attendant",
+      "Senior Room Attendant",
+      "Housekeeping Supervisor",
+      "Housekeeping Manager",
+      "Operations Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR242",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL49",
+      "th": "การจัดการห้องพัก",
+      "en": "Housekeeping Management"
+    },
+    "name_en": "Housekeeping Supervisor",
+    "name_th": "หัวหน้างานทำความสะอาด",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ดูแลทีมทำความสะอาด ตรวจสอบคุณภาพ และจัดการอุปกรณ์",
+    "description_en": "Oversee cleaning teams, inspect quality, and manage supplies",
+    "entry_education": "ปวส./ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 3,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 2,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "พนักงานทำความสะอาด",
+      "หัวหน้างานทำความสะอาด",
+      "ผู้จัดการฝ่ายแม่บ้าน",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Housekeeping Staff",
+      "Housekeeping Supervisor",
+      "Housekeeping Manager",
+      "Operations Manager",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR243",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL49",
+      "th": "การจัดการห้องพัก",
+      "en": "Housekeeping Management"
+    },
+    "name_en": "Laundry Supervisor",
+    "name_th": "หัวหน้างานซักรีด",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการงานซักรีด ดูแลเครื่องจักร และควบคุมคุณภาพ",
+    "description_en": "Manage laundry operations, oversee machines, and control quality",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 5,
+        "weight": 1
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C15": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 3,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานซักรีด",
+      "พนักงานซักรีด",
+      "หัวหน้างานซักรีด",
+      "ผู้จัดการซักรีด",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Laundry Intern",
+      "Laundry Staff",
+      "Laundry Supervisor",
+      "Laundry Manager",
+      "Operations Manager",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR244",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL49",
+      "th": "การจัดการห้องพัก",
+      "en": "Housekeeping Management"
+    },
+    "name_en": "Housekeeping Manager",
+    "name_th": "ผู้จัดการฝ่ายแม่บ้าน",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "บริหารฝ่ายแม่บ้าน จัดการงบประมาณ และดูแลมาตรฐานความสะอาด",
+    "description_en": "Manage housekeeping, budgets, and cleanliness standards",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C02": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C14": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 4,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 2,
+        "weight": 1
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 1
+      },
+      "C15": {
+        "required": 3,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 4,
+      "people": 4,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 2,
+      "operational": 5,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "พนักงานทำความสะอาด",
+      "หัวหน้างานทำความสะอาด",
+      "ผู้จัดการฝ่ายแม่บ้าน",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Housekeeping Staff",
+      "Housekeeping Supervisor",
+      "Housekeeping Manager",
+      "Operations Manager",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR245",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL49",
+      "th": "การจัดการห้องพัก",
+      "en": "Housekeeping Management"
+    },
+    "name_en": "Director of Housekeeping",
+    "name_th": "ผู้อำนวยการฝ่ายแม่บ้าน",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ฝ่ายแม่บ้าน จัดการทีม และพัฒนากระบวนการ",
+    "description_en": "Lead housekeeping strategy, manage teams, and develop processes",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C02": {
+        "required": 5,
+        "weight": 1
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C10": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 3,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 3,
+        "weight": 1
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 5,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "พนักงานทำความสะอาด",
+      "ผู้จัดการฝ่ายแม่บ้าน",
+      "ผู้อำนวยการฝ่ายแม่บ้าน",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Housekeeping Staff",
+      "Housekeeping Manager",
+      "Director of Housekeeping",
+      "Operations Manager",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  },
+  {
+    "id": "CR246",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL50",
+      "th": "การจัดการขนส่งภายใน",
+      "en": "In-House Transportation"
+    },
+    "name_en": "Shuttle Driver",
+    "name_th": "พนักงานขับรถรับส่ง",
+    "level": 1,
+    "level_label": "Entry",
+    "description_th": "ขับรถรับส่งผู้เข้าพัก ดูแลความปลอดภัย และให้บริการ",
+    "description_en": "Drive guest shuttles, ensure safety, and provide service",
+    "entry_education": "ปวช./ปวส. หรือเทียบเท่า",
+    "requirements": {
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C14": {
+        "required": 3,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 2,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C08": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 1,
+        "weight": 0.6
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.6
+      },
+      "C13": {
+        "required": 1,
+        "weight": 0.8
+      },
+      "C15": {
+        "required": 1,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 4,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 5,
+      "collaborative": 3,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "พนักงานขับรถรับส่ง",
+      "พนักงานขับรถอาวุโส",
+      "หัวหน้างานขนส่ง",
+      "ผู้จัดการขนส่ง",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Shuttle Driver",
+      "Senior Shuttle Driver",
+      "Transport Supervisor",
+      "Transport Manager",
+      "Operations Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR247",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL50",
+      "th": "การจัดการขนส่งภายใน",
+      "en": "In-House Transportation"
+    },
+    "name_en": "Transport Coordinator",
+    "name_th": "เจ้าหน้าที่ประสานงานขนส่ง",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "จัดการตารางรถ ดูแลยานพาหนะ และประสานงานกับแผนกต่างๆ",
+    "description_en": "Manage vehicle schedules, maintain vehicles, and coordinate departments",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1
+      },
+      "C02": {
+        "required": 3,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 2,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 1
+      },
+      "C11": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 3,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่ประสานงานขนส่ง",
+      "เจ้าหน้าที่อาวุโส",
+      "หัวหน้างานขนส่ง",
+      "ผู้จัดการขนส่ง",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Transport Coordinator",
+      "Senior Transport Coordinator",
+      "Transport Supervisor",
+      "Transport Manager",
+      "Operations Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR248",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL50",
+      "th": "การจัดการขนส่งภายใน",
+      "en": "In-House Transportation"
+    },
+    "name_en": "Fleet Maintenance Technician",
+    "name_th": "ช่างซ่อมบำรุงรถยนต์",
+    "level": 2,
+    "level_label": "Professional",
+    "description_th": "ดูแลและซ่อมบำรุงยานพาหนะของโรงแรม",
+    "description_en": "Maintain and repair hotel vehicles",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 4,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1
+      },
+      "C15": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C01": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 3,
+        "weight": 1
+      },
+      "C06": {
+        "required": 3,
+        "weight": 1
+      },
+      "C07": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C08": {
+        "required": 3,
+        "weight": 1
+      },
+      "C09": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1
+      },
+      "C11": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C12": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 4,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 3
+    },
+    "workstyle": {
+      "strategic": 3,
+      "operational": 4,
+      "collaborative": 4,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานช่าง",
+      "ช่างซ่อมบำรุงรถยนต์",
+      "ช่างซ่อมอาวุโส",
+      "หัวหน้างานช่าง",
+      "ผู้จัดการฝ่ายซ่อมบำรุง",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Mechanic Intern",
+      "Fleet Maintenance Technician",
+      "Senior Maintenance Technician",
+      "Maintenance Supervisor",
+      "Maintenance Manager",
+      "Operations Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR249",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL50",
+      "th": "การจัดการขนส่งภายใน",
+      "en": "In-House Transportation"
+    },
+    "name_en": "Transportation Manager",
+    "name_th": "ผู้จัดการฝ่ายขนส่ง",
+    "level": 3,
+    "level_label": "Senior/Specialist",
+    "description_th": "บริหารฝ่ายขนส่ง จัดการงบประมาณ และดูแลความปลอดภัย",
+    "description_en": "Manage transportation, budgets, and safety",
+    "entry_education": "ปริญญาตรี หรือประสบการณ์ที่เกี่ยวข้อง",
+    "requirements": {
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C04": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C15": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C05": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C06": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C07": {
+        "required": 2,
+        "weight": 1
+      },
+      "C08": {
+        "required": 3,
+        "weight": 0.8
+      },
+      "C09": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C10": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C11": {
+        "required": 2,
+        "weight": 1
+      },
+      "C12": {
+        "required": 2,
+        "weight": 0.8
+      },
+      "C13": {
+        "required": 2,
+        "weight": 0.8
+      }
+    },
+    "interest": {
+      "data": 2,
+      "people": 3,
+      "technology": 2,
+      "operations": 5,
+      "leadership": 2
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 3,
+      "adaptive": 2
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่ขนส่ง",
+      "ผู้จัดการฝ่ายขนส่ง",
+      "ผู้จัดการฝ่ายขนส่งอาวุโส",
+      "หัวหน้างานขนส่ง",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Transport Staff",
+      "Transport Manager",
+      "Senior Transport Manager",
+      "Transport Supervisor",
+      "Operations Manager",
+      "Director of Hotel Operations"
+    ]
+  },
+  {
+    "id": "CR250",
+    "program": "HOS",
+    "cluster": {
+      "id": "CL50",
+      "th": "การจัดการขนส่งภายใน",
+      "en": "In-House Transportation"
+    },
+    "name_en": "Director of Transportation",
+    "name_th": "ผู้อำนวยการฝ่ายขนส่ง",
+    "level": 5,
+    "level_label": "Director",
+    "description_th": "นำกลยุทธ์ฝ่ายขนส่ง จัดการทีม และพัฒนากระบวนการ",
+    "description_en": "Lead transportation strategy, manage teams, and develop processes",
+    "entry_education": "ปริญญาโทขึ้นไปหรือประสบการณ์ผู้บริหารระดับสูง",
+    "requirements": {
+      "C07": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C08": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C05": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C01": {
+        "required": 5,
+        "weight": 1
+      },
+      "C02": {
+        "required": 4,
+        "weight": 1
+      },
+      "C06": {
+        "required": 5,
+        "weight": 1.5
+      },
+      "C03": {
+        "required": 3,
+        "weight": 1
+      },
+      "C04": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C09": {
+        "required": 4,
+        "weight": 1
+      },
+      "C10": {
+        "required": 3,
+        "weight": 1.2
+      },
+      "C11": {
+        "required": 4,
+        "weight": 1
+      },
+      "C12": {
+        "required": 4,
+        "weight": 1
+      },
+      "C13": {
+        "required": 4,
+        "weight": 1
+      },
+      "C14": {
+        "required": 4,
+        "weight": 1.2
+      },
+      "C15": {
+        "required": 3,
+        "weight": 1
+      }
+    },
+    "interest": {
+      "data": 3,
+      "people": 5,
+      "technology": 3,
+      "operations": 3,
+      "leadership": 5
+    },
+    "workstyle": {
+      "strategic": 4,
+      "operational": 4,
+      "collaborative": 5,
+      "adaptive": 3
+    },
+    "roadmap": [
+      "นักศึกษา/ฝึกงานโรงแรม",
+      "เจ้าหน้าที่ขนส่ง",
+      "ผู้จัดการฝ่ายขนส่ง",
+      "ผู้อำนวยการฝ่ายขนส่ง",
+      "ผู้จัดการฝ่ายปฏิบัติการ",
+      "ผู้อำนวยการฝ่ายปฏิบัติการโรงแรม",
+      "รองประธานฝ่ายปฏิบัติการ"
+    ],
+    "roadmap_en": [
+      "Student / Hotel Intern",
+      "Transport Staff",
+      "Transport Manager",
+      "Director of Transportation",
+      "Operations Manager",
+      "Director of Hotel Operations",
+      "VP of Operations"
+    ]
+  }
+]

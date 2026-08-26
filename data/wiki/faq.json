@@ -1,0 +1,37 @@
+{
+  "title_th": "คำถามที่พบบ่อย",
+  "title_en": "FAQ",
+  "sections": [
+    {
+      "heading_th": "ตีความผลลัพธ์อย่างไร?",
+      "heading_en": "How do I interpret my results?",
+      "body_th": "<p>ผลลัพธ์ CAREER-FIT 64 แสดง:</p><ul><li><strong> Career Fit %</strong> — ค่าความเหมาะสมของคุณกับแต่ละอาชีพ ยิ่งสูงยิ่งเหมาะ</li><li><strong>เรดาร์สมรรถนะ</strong> — จุดแข็งและช่องว่างทักษะของคุณ</li><li><strong>เส้นทางอาชีพ</strong> — แผนเติบโตจากตำแหน่งเริ่มต้นถึงผู้บริหาร</li></ul><p><strong>สิ่งสำคัญ:</strong> Career Fit ไม่ได้บอกว่าคุณ \"ทำได้\" หรือ \"ทำไม่ได้\" — บอกว่าอาชีพไหนสอดคล้องกับตัวตนของคุณมากที่สุด คุณสามารถเป็นอะไรก็ได้ที่ต้องการ</p>",
+      "body_en": "<p>CAREER-FIT 64 results show:</p><ul><li><strong>Career Fit %</strong> — how well each career aligns with you (higher = better fit)</li><li><strong>Competency radar</strong> — your strengths and skill gaps</li><li><strong>Career roadmap</strong> — growth path from entry level to management</li></ul><p><strong>Important:</strong> Career Fit doesn't tell you what you \"can\" or \"can't\" do — it tells you which careers align best with who you are. You can become anything you want.</p>"
+    },
+    {
+      "heading_th": "นี่คือ MBTI หรือไม่?",
+      "heading_en": "Is this MBTI?",
+      "body_th": "<p><strong>ไม่ใช่</strong> CAREER-FIT 64 ไม่ใช่ MBTI® assessment อย่างเป็นทางการ</p><ul><li>MBTI ทางการยังใช้ <strong>16 types</strong> ไม่ใช่ 64</li><li>MBTI ระบุว่า type เป็น <strong>ความชอบ</strong> ไม่ใช่ความสามารถ</li><li>CAREER-FIT 64 ใช้โครงสร้าง 16 บุคลิกภาพต่อยอดเป็น <strong>64 โปรไฟล์อาชีพ</strong> โดยเพิ่มมิติรูปแบบการทำงาน 4 แบบ</li><li>CAREER-FIT 64 ไม่ได้อ้างอิงหรือเกี่ยวข้องกับ MBTI® แต่อย่างใด</li></ul>",
+      "body_en": "<p><strong>No.</strong> CAREER-FIT 64 is not an official MBTI® assessment.</p><ul><li>Official MBTI uses <strong>16 types</strong>, not 64</li><li>MBTI states types reflect <strong>preferences</strong>, not abilities</li><li>CAREER-FIT 64 extends the 16 personality types into <strong>64 career profiles</strong> by adding 4 career modes</li><li>CAREER-FIT 64 is not affiliated with or endorsed by MBTI®</li></ul>"
+    },
+    {
+      "heading_th": "ใช้คัดเลือกบุคลากรได้หรือไม่?",
+      "heading_en": "Can this be used for hiring?",
+      "body_th": "<p><strong>ไม่ได้</strong> ผลการประเมินมีวัตถุประสงค์เพื่อ:</p><ul><li>การสำรวจตนเอง (Self-exploration)</li><li>การแนะแนวอาชีพ (Career guidance)</li><li>การพัฒนาสมรรถนะ (Competency development)</li></ul><p>ไม่ใช่เครื่องมือคัดเลือกบุคลากร และไม่ได้หมายความว่าบุคคลสามารถหรือไม่สามารถประกอบอาชีพใดได้</p>",
+      "body_en": "<p><strong>No.</strong> Results are intended for:</p><ul><li>Self-exploration</li><li>Career guidance</li><li>Competency development</li></ul><p>This is not a recruitment or selection tool, and results do not imply anyone can or cannot work in any career.</p>"
+    },
+    {
+      "heading_th": "ข้อมูลของฉันถูกเก็บอย่างไร?",
+      "heading_en": "How is my data stored?",
+      "body_th": "<p>ข้อมูลทั้งหมดถูกเก็บใน <strong>localStorage</strong> ของเบราว์เซอร์บนอุปกรณ์ของคุณ — <strong>ไม่มีการส่งข้อมูลไปยังเซิร์ฟเวอร์ใดๆ</strong></p><ul><li>คำตอบแบบประเมิน → ลบออกทันทีหลังคำนวณผลลัพธ์</li><li>ผลลัพธ์ → เก็บไว้ในเครื่องของคุณเท่านั้น</li><li>ลิงก์แชร์ → ฝังข้อมูลใน URL ไม่มีการบันทึกที่ไหน</li></ul>",
+      "body_en": "<p>All data is stored in your browser's <strong>localStorage</strong> — <strong>no data is sent to any server</strong>.</p><ul><li>Assessment answers → deleted immediately after scoring</li><li>Results → stored only on your device</li><li>Share links → data is embedded in the URL, nothing is recorded</li></ul>"
+    },
+    {
+      "heading_th": "ใครเป็นผู้สร้างระบบ?",
+      "heading_en": "Who built this?",
+      "body_th": "CAREER-FIT 64 พัฒนาโดย <strong>Surachet Jantar</strong> เป็นโครงการเพื่อการศึกษา ไม่ใช่ผลิตภัณฑ์เชิงพาณิชย์",
+      "body_en": "CAREER-FIT 64 was developed by <strong>Surachet Jantar</strong> as an educational project, not a commercial product."
+    }
+  ],
+  "related": ["how-it-works", "the-64-profiles", "competencies"]
+}
