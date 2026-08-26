@@ -60,4 +60,4 @@ Results are encoded into the URL fragment (no server needed). Share links carry 
 
 ## License
 
-Internal educational project. Not for commercial distribution.
+[MIT](LICENSE) © 2026 Surachet Jantar
